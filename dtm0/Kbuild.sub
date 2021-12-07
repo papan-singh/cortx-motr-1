@@ -14,5 +14,5 @@ m0tr_objects += \
                   dtm0/net.o \
                   dtm0/pmach.o \
                   dtm0/pruner.o \
-                  dtm0/remach.o
-
+                  dtm0/remach.o \
+                  dtm0/cfg_default.o

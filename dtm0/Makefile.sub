@@ -14,7 +14,8 @@ nobase_motr_include_HEADERS += \
                             dtm0/net.h \
                             dtm0/pmach.h \
                             dtm0/pruner.h \
-                            dtm0/remach.h
+                            dtm0/remach.h \
+                            dtm0/cfg_default.h
 
 
 motr_libmotr_la_SOURCES += \
@@ -31,7 +32,8 @@ motr_libmotr_la_SOURCES += \
                         dtm0/net.c \
                         dtm0/pmach.c \
                         dtm0/pruner.c \
-                        dtm0/remach.c
+                        dtm0/remach.c \
+                        dtm0/cfg_default.c
 
 
 nodist_motr_libmotr_la_SOURCES += \
