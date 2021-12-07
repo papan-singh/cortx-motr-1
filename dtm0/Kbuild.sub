@@ -7,4 +7,12 @@ m0tr_objects += \
                   dtm0/service.o \
                   dtm0/linux_kernel/stubs.o \
                   dtm0/fop.o \
-                  dtm0/dtx.o
+                  dtm0/dtx.o \
+                  dtm0/domain.o \
+                  dtm0/dtx0.o \
+                  dtm0/log.o \
+                  dtm0/net.o \
+                  dtm0/pmach.o \
+                  dtm0/pruner.o \
+                  dtm0/remach.o
+
