@@ -29,21 +29,13 @@
 #include "dtm0/pmach.h"    /* m0_dtm0_pmach */
 #include "dtm0/remach.h"   /* m0_dtm0_remach */
 #include "dtm0/net.h"      /* m0_dtm0_net */
+#include "module/module.h" /* m0_module */
 
 /**
  * @defgroup dtm0
  *
  * @{
  */
-
-/* export */
-struct m0_dtm0_domain {
-	struct m0_dtm0_log    dod_log;
-	struct m0_dtm0_pruner dod_pruner;
-	struct m0_dtm0_remach dod_remach;
-	struct m0_dtm0_pmach  dod_pmach;
-	struct m0_dtm0_net    dod_net;
-};
 
 struct m0_dtm0_domain_cfg {
 	struct m0_dtm0_log_cfg    dodc_log;
@@ -55,6 +47,17 @@ struct m0_dtm0_domain_cfg {
 
 struct m0_dtm0_domain_create_cfg {
 	struct m0_dtm0_log_create_cfg dcc_log;
+};
+
+struct m0_dtm0_domain {
+	struct m0_dtm0_log        dod_log;
+	struct m0_dtm0_pruner     dod_pruner;
+	struct m0_dtm0_remach     dod_remach;
+	struct m0_dtm0_pmach      dod_pmach;
+	struct m0_dtm0_net        dod_net;
+	struct m0_dtm0_domain_cfg dod_cfg;
+	struct m0_module          dod_module;
+	uint64_t                  dod_magix;
 };
 
 M0_INTERNAL int m0_dtm0_domain_init(struct m0_dtm0_domain     *dod,
