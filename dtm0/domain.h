@@ -28,6 +28,7 @@
 #include "dtm0/pruner.h"   /* m0_dtm0_pruner */
 #include "dtm0/pmach.h"    /* m0_dtm0_pmach */
 #include "dtm0/remach.h"   /* m0_dtm0_remach */
+#include "dtm0/net.h"      /* m0_dtm0_net */
 
 /**
  * @defgroup dtm0
