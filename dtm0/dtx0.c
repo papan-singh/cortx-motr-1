@@ -30,7 +30,8 @@
 
 #include "dtm0/dtx0.h"
 
-M0_INTERNAL int m0_dtx0_init(struct m0_dtx0 *dtx0)
+M0_INTERNAL int m0_dtx0_init(struct m0_dtx0 *dtx0,
+			     struct m0_dtm0_domain *dod)
 {
 	return 0;
 }

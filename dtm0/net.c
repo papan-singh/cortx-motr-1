@@ -40,14 +40,6 @@ M0_INTERNAL void m0_dtm0_net_fini(struct m0_dtm0_net  *dnet)
 {
 }
 
-M0_INTERNAL void m0_dtm0_net_start(struct m0_dtm0_net *dnet)
-{
-}
-
-M0_INTERNAL void m0_dtm0_net_stop(struct m0_dtm0_net  *dnet)
-{
-}
-
 #undef M0_TRACE_SUBSYSTEM
 
 /** @} end of XXX group */

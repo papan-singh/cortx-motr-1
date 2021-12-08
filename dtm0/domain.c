@@ -55,28 +55,92 @@ static void dtm0_domain_level_leave(struct m0_module *module);
 		.ml_enter = &dtm0_domain_level_enter,    \
 		.ml_leave = &dtm0_domain_level_leave,    \
 	}
-
+/*
+   DTM0 domain startup sequence:
+    - DTM0 log mkfs
+    - DTM0 log init
+    - recovery machine init
+    - DTM0 service init
+    - network transport init
+    - recovery machine start
+    - pruner init
+ */
 enum dtm0_domain_level {
 	M0_DTM0_DOMAIN_LEVEL_INIT,
+
+	M0_DTM0_DOMAIN_LEVEL_LOG_MKFS,
+	M0_DTM0_DOMAIN_LEVEL_LOG_INIT,
+
+	M0_DTM0_DOMAIN_LEVEL_REMACH_INIT,
+	M0_DTM0_DOMAIN_LEVEL_PMACH_INIT,
+	M0_DTM0_DOMAIN_LEVEL_SERVICE_INIT,
+	M0_DTM0_DOMAIN_LEVEL_NET_INIT,
+
+	M0_DTM0_DOMAIN_LEVEL_REMACH_START,
+	M0_DTM0_DOMAIN_LEVEL_PMACH_START,
+	M0_DTM0_DOMAIN_LEVEL_PRUNER_INIT,
+
 	M0_DTM0_DOMAIN_LEVEL_READY,
 };
 
 static const struct m0_modlev levels_dtm0_domain[] = {
 	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_INIT),
+
+	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_LOG_MKFS),
+	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_LOG_INIT),
+
+	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_REMACH_INIT),
+	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_PMACH_INIT),
+	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_SERVICE_INIT),
+	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_NET_INIT),
+
+	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_REMACH_START),
+	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_PMACH_START),
+	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_PRUNER_INIT),
+
 	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_READY),
 };
 #undef DTM0_DOMAIN_LEVEL
 
 static int dtm0_domain_level_enter(struct m0_module *module)
 {
-	enum dtm0_domain_level  level = module->m_cur + 1;
-	struct m0_dtm0_domain  *dod = dtm0_module2domain(module);
+	enum dtm0_domain_level     level = module->m_cur + 1;
+	struct m0_dtm0_domain     *dod = dtm0_module2domain(module);
+	struct m0_dtm0_domain_cfg *cfg = &dod->dod_cfg;
 
 	M0_ENTRY("dod=%p level=%d level_name=%s",
 	         dod, level, levels_dtm0_domain[level].ml_name);
 	switch (level) {
 	case M0_DTM0_DOMAIN_LEVEL_INIT:
 		return M0_RC(0);
+	case M0_DTM0_DOMAIN_LEVEL_LOG_MKFS:
+		/* XXX */
+		return M0_RC(0);
+	case M0_DTM0_DOMAIN_LEVEL_LOG_INIT:
+		return M0_RC(m0_dtm0_log_init(&dod->dod_log,
+					      &cfg->dodc_log));
+
+	case M0_DTM0_DOMAIN_LEVEL_REMACH_INIT:
+		return M0_RC(m0_dtm0_remach_init(&dod->dod_remach,
+						 &cfg->dodc_remach));
+	case M0_DTM0_DOMAIN_LEVEL_PMACH_INIT:
+		return M0_RC(m0_dtm0_pmach_init(&dod->dod_pmach,
+						&cfg->dodc_pmach));
+	case M0_DTM0_DOMAIN_LEVEL_SERVICE_INIT:
+		/* XXX */
+		return M0_RC(0);
+	case M0_DTM0_DOMAIN_LEVEL_NET_INIT:
+		return M0_RC(m0_dtm0_net_init(&dod->dod_net,
+					      &cfg->dodc_net));
+	case M0_DTM0_DOMAIN_LEVEL_REMACH_START:
+		m0_dtm0_remach_start(&dod->dod_remach);
+		return M0_RC(0);
+	case M0_DTM0_DOMAIN_LEVEL_PMACH_START:
+		m0_dtm0_pmach_start(&dod->dod_pmach);
+		return M0_RC(0);
+	case M0_DTM0_DOMAIN_LEVEL_PRUNER_INIT:
+		return M0_RC(m0_dtm0_pruner_init(&dod->dod_pruner,
+						 &cfg->dodc_pruner));
 	case M0_DTM0_DOMAIN_LEVEL_READY:
 		return M0_RC(0);
 	default:
@@ -94,6 +158,36 @@ static void dtm0_domain_level_leave(struct m0_module *module)
 	switch (level) {
 	case M0_DTM0_DOMAIN_LEVEL_INIT:
 		break;
+
+	case M0_DTM0_DOMAIN_LEVEL_LOG_MKFS:
+		/* XXX */
+		break;
+	case M0_DTM0_DOMAIN_LEVEL_LOG_INIT:
+		m0_dtm0_log_fini(&dod->dod_log);
+		break;
+	case M0_DTM0_DOMAIN_LEVEL_REMACH_INIT:
+		m0_dtm0_remach_fini(&dod->dod_remach);
+		break;
+	case M0_DTM0_DOMAIN_LEVEL_PMACH_INIT:
+		m0_dtm0_pmach_fini(&dod->dod_pmach);
+		break;
+	case M0_DTM0_DOMAIN_LEVEL_SERVICE_INIT:
+		/* XXX */
+		break;
+	case M0_DTM0_DOMAIN_LEVEL_NET_INIT:
+		m0_dtm0_net_fini(&dod->dod_net);
+		break;
+
+	case M0_DTM0_DOMAIN_LEVEL_REMACH_START:
+		m0_dtm0_remach_stop(&dod->dod_remach);
+		break;
+	case M0_DTM0_DOMAIN_LEVEL_PMACH_START:
+		m0_dtm0_pmach_stop(&dod->dod_pmach);
+		break;
+	case M0_DTM0_DOMAIN_LEVEL_PRUNER_INIT:
+		m0_dtm0_pruner_fini(&dod->dod_pruner);
+		break;
+
 	case M0_DTM0_DOMAIN_LEVEL_READY:
 		break;
 	default:

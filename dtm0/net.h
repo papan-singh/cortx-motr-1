@@ -39,8 +39,6 @@ struct m0_dtm0_net_cfg {
 M0_INTERNAL int m0_dtm0_net_init(struct m0_dtm0_net     *dnet,
 				 struct m0_dtm0_net_cfg *dnet_cfg);
 M0_INTERNAL void m0_dtm0_net_fini(struct m0_dtm0_net  *dnet);
-M0_INTERNAL void m0_dtm0_net_start(struct m0_dtm0_net *dnet);
-M0_INTERNAL void m0_dtm0_net_stop(struct m0_dtm0_net  *dnet);
 
 
 /** @} end of dtm0 group */
