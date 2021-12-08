@@ -29,7 +29,33 @@
 #include "lib/trace.h"
 
 #include "dtm0/domain.h"
+#include "lib/memory.h"       /* M0_ALLOC_PTR */
+#include "dtm0/cfg_default.h" /* m0_dtm0_domain_cfg_default_dup */
+#include "ut/ut.h"            /* M0_UT_ASSERT */
 
+void m0_dtm0_ut_domain_init_fini(void)
+{
+	struct m0_dtm0_domain     *dod;
+	struct m0_dtm0_domain_cfg *dod_cfg;
+	int                        rc;
+
+	M0_ALLOC_PTR(dod);
+	M0_UT_ASSERT(dod != NULL);
+	M0_ALLOC_PTR(dod_cfg);
+	M0_UT_ASSERT(dod_cfg != NULL);
+
+
+	rc = m0_dtm0_domain_cfg_default_dup(dod_cfg);
+	M0_UT_ASSERT(rc == 0);
+
+	m0_dtm0_domain_init(dod, dod_cfg);
+	m0_dtm0_domain_fini(dod);
+
+	m0_dtm0_domain_cfg_free(dod_cfg);
+
+	m0_free(dod_cfg);
+	m0_free(dod);
+}
 
 #undef M0_TRACE_SUBSYSTEM
 

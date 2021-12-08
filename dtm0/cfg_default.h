@@ -32,7 +32,8 @@
 
 struct m0_dtm0_domain_cfg;
 
-M0_INTERNAL int m0_dtm0_domain_cfg_default(struct m0_dtm0_domain_cfg *dod_cfg);
+M0_INTERNAL int
+m0_dtm0_domain_cfg_default_dup(struct m0_dtm0_domain_cfg *dod_cfg);
 M0_INTERNAL struct m0_dtm0_domain_cfg *
 m0_dtm0_domain_cfg_dup(struct m0_dtm0_domain_cfg *dod_cfg);
 M0_INTERNAL void m0_dtm0_domain_cfg_free(struct m0_dtm0_domain_cfg *dod_cfg);

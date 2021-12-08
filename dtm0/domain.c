@@ -63,6 +63,7 @@ enum dtm0_domain_level {
 
 static const struct m0_modlev levels_dtm0_domain[] = {
 	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_INIT),
+	DTM0_DOMAIN_LEVEL(M0_DTM0_DOMAIN_LEVEL_READY),
 };
 #undef DTM0_DOMAIN_LEVEL
 
