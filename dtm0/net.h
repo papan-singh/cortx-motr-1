@@ -24,21 +24,72 @@
 #ifndef __MOTR___DTM0_NET_H__
 #define __MOTR___DTM0_NET_H__
 
+#include "fid/fid.h" /* m0_fid */
+
 /**
  * @defgroup dtm0
  *
  * @{
  */
 
-struct m0_dtm0_net {
-};
+/*
+ * Use-cases and examples:
+ *
+ * net.send:
+ *	coro {
+ *		struct msg { txd, ... };
+ *		dnet = &dod->dod_net;
+ *		buf = { &msg, sizeof(msg) };
+ *		target = txd.participants[N];
+ *		tag = PERSISTENT
+ *		m0_dtm0_net_send(dnet, target, buf, tag, op);
+ *		await(op);
+ *	}
+ * net.recv:
+ *	coro {
+ *		be_op op;
+ *		buf buf;
+ *		msg msg;
+ *		fid source;
+ *		activate(op);
+ *		tag = PERSISTENT;
+ *		m0_dtm0_net_recv(dnet, &fid, &buf, &op);
+ *		await(op);
+ *		copy(msg, buf.addr, buf.size);
+ *		handle(source, msg);
+ *	}
+ */
+
+/* import */
+struct m0_be_op;
+struct m0_buf;
 
 struct m0_dtm0_net_cfg {
+	struct m0_fid dnc_instance_fid;
+	uint64_t      dnc_inflight_max_nr;
+	uint32_t      dnc_tags_max_nr;
+};
+
+
+struct m0_dtm0_net {
+	struct m0_dtm0_net_cfg dnet_cfg;
 };
 
 M0_INTERNAL int m0_dtm0_net_init(struct m0_dtm0_net     *dnet,
 				 struct m0_dtm0_net_cfg *dnet_cfg);
 M0_INTERNAL void m0_dtm0_net_fini(struct m0_dtm0_net  *dnet);
+
+M0_INTERNAL void m0_dtm0_net_send(struct m0_dtm0_net       *dnet,
+				  const struct m0_fid      *target,
+				  const struct m0_buf      *msg,
+				  uint32_t                  tag,
+				  struct m0_be_op          *op);
+
+M0_INTERNAL void m0_dtm0_net_recv(struct m0_dtm0_net       *dnet,
+				  struct m0_fid            *source,
+				  struct m0_buf            *msg,
+				  uint32_t                  tag,
+				  struct m0_be_op          *op);
 
 
 /** @} end of dtm0 group */
