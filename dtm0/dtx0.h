@@ -82,9 +82,9 @@ struct m0_dtx0 {
 };
 
 enum m0_dtx0_state {
-	INIT,
-	EXECUTED,
-	STABLE,
+	M0_DTX0_STATE_INIT,
+	M0_DTX0_STATE_EXECUTED,
+	M0_DTX0_STATE_STABLE,
 };
 
 M0_INTERNAL int m0_dtx0_init(struct m0_dtx0        *dtx0,
@@ -104,7 +104,7 @@ M0_INTERNAL int m0_dtx0_participants_set(struct m0_dtx0       *dtx0,
 M0_INTERNAL int m0_dtx0_buf_set(struct m0_dtx0      *dtx0,
 				const struct m0_buf *buf);
 
-M0_INTERNAL void m0_dtx0_executed(struct m0_dtx0      *dtx0,
+M0_INTERNAL void m0_dtx0_executed_(struct m0_dtx0      *dtx0,
 				  const struct m0_fid *rdtm_svc);
 
 M0_INTERNAL void m0_dtx0_credit(struct m0_dtx0         *dtx0,
