@@ -68,10 +68,10 @@ M0_INTERNAL void m0_dtm0_log_update_credit(struct m0_dtm0_log        *dol,
 					   struct m0_be_tx_credit    *accum);
 
 M0_INTERNAL int m0_dtm0_log_update(struct m0_dtm0_log              *dol,
-				   const struct m0_dtm0_log_record *rec,
-				   bool                             is_redo,
 				   struct m0_be_tx                 *tx,
-				   struct m0_be_op                 *op);
+				   struct m0_be_op                 *op,
+				   const struct m0_dtm0_log_record *rec,
+				   bool                             is_redo);
 
 M0_INTERNAL void m0_dtm0_log_pmsg_post(struct m0_dtm0_log  *dol,
 				       struct m0_dtm0_tid  *tid,

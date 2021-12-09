@@ -91,9 +91,9 @@ M0_INTERNAL int m0_dtx0_init(struct m0_dtx0        *dtx0,
 			     struct m0_dtm0_domain *dod);
 M0_INTERNAL void m0_dtx0_fini(struct m0_dtx0 *dtx0);
 
-M0_INTERNAL int m0_dtx0_set(struct m0_dtx0                *dtx0,
-			    const struct m0_dtm0_tx_desc  *txd,
-			    const struct m0_buf           *buf);
+M0_INTERNAL int m0_dtx0_set(struct m0_dtx0               *dtx0,
+			    const struct m0_dtm0_tx_desc *txd,
+			    const struct m0_buf          *buf);
 
 M0_INTERNAL void m0_dtx0_timestamp_set(struct m0_dtx0 *dtx0);
 
@@ -110,10 +110,10 @@ M0_INTERNAL void m0_dtx0_executed_(struct m0_dtx0      *dtx0,
 M0_INTERNAL void m0_dtx0_credit(struct m0_dtx0         *dtx0,
 				struct m0_be_tx_credit *accum);
 
-M0_INTERNAL int m0_dtx0_log_update(struct m0_dtx0 *dtx0,
+M0_INTERNAL int m0_dtx0_log_update(struct m0_dtx0  *dtx0,
 				   struct m0_be_tx *tx,
-				   bool             is_redo,
-				   struct m0_be_op *op);
+				   struct m0_be_op *op,
+				   bool             is_redo);
 
 /* XXX */
 M0_INTERNAL void m0_dtx0_cancel(struct m0_dtx0 *dtx0);
