@@ -49,6 +49,7 @@
 #define M0_TRACE_SUBSYSTEM M0_TRACE_SUBSYS_CLIENT
 #include "lib/trace.h"                /* M0_LOG */
 
+#define M0_ADDB_DIR /var/cortx/support_bundle
 /* BOB type for m0_ */
 static const struct m0_bob_type m0c_bobtype;
 M0_BOB_DEFINE(static, &m0c_bobtype,  m0_client);
@@ -1546,7 +1547,7 @@ int m0_client_init(struct m0_client **m0c_p,
 	M0_PRE(NOT_EMPTY(conf->mc_process_fid));
 	M0_PRE(conf->mc_tm_recv_queue_min_len != 0);
 	M0_PRE(conf->mc_max_rpc_msg_size != 0);
-
+        conf->mc_is_addb_init = true;
 	/* Initialise Motr if needed at the very beginning. */
 #ifndef __KERNEL__
 	if (init_m0) {
@@ -1688,7 +1689,7 @@ int m0_client_init(struct m0_client **m0c_p,
 			size = conf->mc_addb_size;
 			M0_LOG(M0_DEBUG, "ADDB size = %" PRIu64 "", size);
 		}
-		sprintf(buf, "linuxstob:./addb_%d", (int)m0_pid());
+		sprintf(buf, "linuxstob:M0_ADDB_DIR/addb_%d", (int)m0_pid());
 		M0_LOG(M0_DEBUG, "addb size=%llu\n", (unsigned long long)size);
 		rc = m0_reqh_addb2_init(&m0c->m0c_reqh, buf,
 					0xaddbf11e, true, true, size);
