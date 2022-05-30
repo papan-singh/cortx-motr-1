@@ -1,0 +1,20 @@
+<map id="test_plan_get_done" name="test_plan_get_done">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="473,208,518,235"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga6e71aa45c7f34855cbdd4b162594b0f0" title="m0_indexvec_alloc" alt="" coords="213,411,360,438"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga64e8c9b22ee60158a5c3bac0ba2b3680" title="m0_bufvec_alloc" alt="" coords="221,462,353,488"/>
+<area shape="rect" id="node5" href="$dd/d7f/group__pool.html#ga102187587362ff71a80410fe88833bbb" title="m0_pool_version_get" alt="" coords="206,512,367,539"/>
+<area shape="rect" id="node6" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="203,563,371,590"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga06a0cb3de2e09c556cbc28a7e56f7a1b" title="m0_obj_op" alt="" coords="240,259,333,286"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="449,259,542,286"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="620,132,708,159"/>
+<area shape="rect" id="node10" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="446,158,545,184"/>
+<area shape="rect" id="node11" href="$da/da8/group__layout.html#ga7b589cfdf38c94c0a0b503ab0655c7b6" title="m0_layout_plan_build" alt="" coords="204,107,369,134"/>
+<area shape="rect" id="node12" href="$da/da8/group__layout.html#ga3aafe2493ebaa619e2f65aad70a14f86" title="m0_layout_plan_fini" alt="" coords="419,56,572,83"/>
+<area shape="rect" id="node13" href="$da/da8/group__layout.html#ga6b974ae89f8c4bc2689d9f0589c28a61" title="m0_layout_plan_get" alt="" coords="209,614,364,640"/>
+<area shape="rect" id="node14" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="229,664,345,691"/>
+<area shape="rect" id="node15" href="$da/da8/group__layout.html#gaa3ac13b1eba70273ec9f556171ce1c7a" title="m0_layout_plop_start" alt="" coords="205,715,368,742"/>
+<area shape="rect" id="node16" href="$da/da8/group__layout.html#ga135c347d35028520b14dc2eb3ea60db3" title="m0_layout_plop_done" alt="" coords="204,766,369,792"/>
+<area shape="rect" id="node17" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="438,6,553,32"/>
+<area shape="rect" id="node18" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="223,816,350,843"/>
+<area shape="rect" id="node19" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="215,867,358,894"/>
+</map>

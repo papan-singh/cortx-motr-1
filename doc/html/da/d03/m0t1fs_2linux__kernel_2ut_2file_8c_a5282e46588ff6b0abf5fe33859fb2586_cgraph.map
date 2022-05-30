@@ -1,0 +1,11 @@
+<map id="nw_xfer_ops_test" name="nw_xfer_ops_test">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga7306f826dceb6a49641db5ee412816ae" title="m0_indexvec_varr_alloc" alt="" coords="404,21,584,47"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#abfe42dac8c4bfb773f727e2fb629d1e6" title="io_request_init" alt="" coords="213,46,332,73"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="456,173,532,199"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa26e00608a6d19e4fb629cac04f45158" title="ioreq_iomaps_prepare" alt="" coords="189,147,356,174"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a868fe96209a5da63122469af0fea932b" title="nw_xfer_tioreq_map" alt="" coords="195,198,350,225"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a2f691720efc8e91ab45fd7e7a680353a" title="nw_xfer_io_distribute" alt="" coords="191,249,354,275"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a2ad1b0231a9fd39a85768f19c68f54b3" title="ioreq_iomaps_destroy" alt="" coords="189,299,356,326"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a473e1883fcb6719a2314b67f384de53c" title="io_request_fini" alt="" coords="214,350,331,377"/>
+<area shape="rect" id="node10" href="$d0/d7f/group__vec.html#ga0440f816273dbe5921ba9e56df7ad828" title="m0_indexvec_varr_free" alt="" coords="407,375,581,402"/>
+</map>

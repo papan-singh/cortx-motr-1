@@ -1,0 +1,11 @@
+<map id="be_ut_tx_bulk_test_run" name="be_ut_tx_bulk_test_run">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga500ae281e5037148959dd7671a69149d" title="m0_be_tx_bulk_init" alt="" coords="236,138,385,165"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="463,37,539,64"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gab0a83553adc2cb21fb1d0d693c22acfb" title="m0_be_op_init" alt="" coords="443,164,560,190"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga1800e0272a931c07dd6896d7f2872834" title="m0_be_tx_bulk_run" alt="" coords="236,240,385,266"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#ga7dd778e9ea7db52ededdd419e33d1d01" title="ptr" alt="" coords="291,290,331,317"/>
+<area shape="rect" id="node7" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gacd8f06f36ca8c11cb684e1c9a2b494b4" title="m0_be_op_wait" alt="" coords="249,341,373,368"/>
+<area shape="rect" id="node8" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga42d8fb0ec9aecdc48e90db2f292beec5" title="m0_be_op_fini" alt="" coords="443,88,559,114"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gace3e3b64f431d325291c4ba565693181" title="m0_be_tx_bulk_status" alt="" coords="227,392,395,418"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga49d257f09b027abf5b8aefc93b2cfa4a" title="m0_be_tx_bulk_fini" alt="" coords="237,37,385,64"/>
+</map>

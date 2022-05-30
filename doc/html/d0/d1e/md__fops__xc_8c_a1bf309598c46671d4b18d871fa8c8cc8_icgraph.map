@@ -1,0 +1,33 @@
+<map id="m0_xc_m0_fop_cob_struct_init" name="m0_xc_m0_fop_cob_struct_init">
+<area shape="rect" id="node2" href="$d9/d38/io__fops__xc_8h.html#afa045f77ae709f501c4d163f5f8d8e50" title="m0_xc_m0_fop_cob_common\l_struct_init" alt="" coords="285,5,499,47"/>
+<area shape="rect" id="node3" href="$d9/d38/io__fops__xc_8h.html#a19d3e1061d73f05d97a8dd9d97736d22" title="m0_xc_m0_fop_cob_getattr\l_reply_struct_init" alt="" coords="291,71,493,112"/>
+<area shape="rect" id="node4" href="$d7/d5c/md__fops__xc_8h.html#a64a26306ccfdec82b1a34338a841d864" title="m0_xc_m0_fop_create\l_struct_init" alt="" coords="307,136,477,177"/>
+<area shape="rect" id="node5" href="$d7/d5c/md__fops__xc_8h.html#a15129c90572e5d0c5122afb6a8627677" title="m0_xc_mdservice_md\l_fops_init" alt="" coords="556,1011,724,1052"/>
+<area shape="rect" id="node6" href="$d7/d5c/md__fops__xc_8h.html#a885f963f66cd2a13e3dd2e040b2f2c2b" title="m0_xc_m0_fop_create\l_rep_struct_init" alt="" coords="307,253,477,295"/>
+<area shape="rect" id="node7" href="$d7/d5c/md__fops__xc_8h.html#ac81f9a9bfbcbdb0f3840640183c29cb6" title="m0_xc_m0_fop_lookup\l_struct_init" alt="" coords="306,319,478,360"/>
+<area shape="rect" id="node8" href="$d7/d5c/md__fops__xc_8h.html#a58a52ba82a8d99be6c34cf9ab70715e8" title="m0_xc_m0_fop_lookup\l_rep_struct_init" alt="" coords="306,384,478,425"/>
+<area shape="rect" id="node9" href="$d7/d5c/md__fops__xc_8h.html#a672b3039a359b6818b06e2d9159defc3" title="m0_xc_m0_fop_link_struct_init" alt="" coords="280,450,504,477"/>
+<area shape="rect" id="node10" href="$d7/d5c/md__fops__xc_8h.html#a2e443435576d39e327c3984078b07c2a" title="m0_xc_m0_fop_link_rep\l_struct_init" alt="" coords="302,501,482,543"/>
+<area shape="rect" id="node11" href="$d7/d5c/md__fops__xc_8h.html#a0383d955ffda51d13ff766f0394e4812" title="m0_xc_m0_fop_unlink\l_struct_init" alt="" coords="308,567,476,608"/>
+<area shape="rect" id="node12" href="$d7/d5c/md__fops__xc_8h.html#aa09662f3f4c8a48eea2d7c9616bcf28f" title="m0_xc_m0_fop_unlink\l_rep_struct_init" alt="" coords="308,632,476,673"/>
+<area shape="rect" id="node13" href="$d7/d5c/md__fops__xc_8h.html#abb3b57a97dcf6028dcacfa050c26cf9e" title="m0_xc_m0_fop_rename\l_struct_init" alt="" coords="303,697,481,739"/>
+<area shape="rect" id="node14" href="$d7/d5c/md__fops__xc_8h.html#a38f09e2d72e738f9068b17e6b3edbab1" title="m0_xc_m0_fop_rename\l_rep_struct_init" alt="" coords="303,763,481,804"/>
+<area shape="rect" id="node15" href="$d7/d5c/md__fops__xc_8h.html#a1bc6fc89dc4e9db25d5d690474a95f05" title="m0_xc_m0_fop_open_struct_init" alt="" coords="276,829,508,855"/>
+<area shape="rect" id="node16" href="$d7/d5c/md__fops__xc_8h.html#a8f0c9a183020ecaf2c910bdb57096375" title="m0_xc_m0_fop_open_rep\l_struct_init" alt="" coords="298,880,486,921"/>
+<area shape="rect" id="node17" href="$d7/d5c/md__fops__xc_8h.html#a5573c46fa82dec64bdc8487cf0d1eb76" title="m0_xc_m0_fop_close\l_struct_init" alt="" coords="311,945,473,987"/>
+<area shape="rect" id="node18" href="$d7/d5c/md__fops__xc_8h.html#a1c4e598666045e376f87f59d01f2e4a3" title="m0_xc_m0_fop_close\l_rep_struct_init" alt="" coords="311,1011,473,1052"/>
+<area shape="rect" id="node19" href="$d7/d5c/md__fops__xc_8h.html#a74a4029060e15dc41df0c6b5aa9a32f3" title="m0_xc_m0_fop_setattr\l_struct_init" alt="" coords="307,1076,477,1117"/>
+<area shape="rect" id="node20" href="$d7/d5c/md__fops__xc_8h.html#ae7aa77e453e9ad403e2b305e46fff07f" title="m0_xc_m0_fop_setattr\l_rep_struct_init" alt="" coords="307,1141,477,1183"/>
+<area shape="rect" id="node21" href="$d7/d5c/md__fops__xc_8h.html#ae6b0523d8366c0a1bd12dc3fa858c892" title="m0_xc_m0_fop_getattr\l_struct_init" alt="" coords="306,1207,478,1248"/>
+<area shape="rect" id="node22" href="$d7/d5c/md__fops__xc_8h.html#ae4c5219b6a19cc6f67243f123f24a1d1" title="m0_xc_m0_fop_getattr\l_rep_struct_init" alt="" coords="306,1272,478,1313"/>
+<area shape="rect" id="node23" href="$d7/d5c/md__fops__xc_8h.html#a1f6d9bf42b54edbdeb8f35fc6bcea5a6" title="m0_xc_m0_fop_getxattr\l_struct_init" alt="" coords="302,1337,482,1379"/>
+<area shape="rect" id="node24" href="$d7/d5c/md__fops__xc_8h.html#a61a938c2ca15519efde8829be823d0ee" title="m0_xc_m0_fop_getxattr\l_rep_struct_init" alt="" coords="302,1403,482,1444"/>
+<area shape="rect" id="node25" href="$d7/d5c/md__fops__xc_8h.html#a5eabfeab9fd16240061658def707efd6" title="m0_xc_m0_fop_setxattr\l_struct_init" alt="" coords="303,1468,481,1509"/>
+<area shape="rect" id="node26" href="$d7/d5c/md__fops__xc_8h.html#ac61fd8b5626293f4f8ca0b1e90bfcbfc" title="m0_xc_m0_fop_setxattr\l_rep_struct_init" alt="" coords="303,1533,481,1575"/>
+<area shape="rect" id="node27" href="$d7/d5c/md__fops__xc_8h.html#a4c3394a177bce18ec2205d9ecdd26241" title="m0_xc_m0_fop_delxattr\l_struct_init" alt="" coords="303,1599,481,1640"/>
+<area shape="rect" id="node28" href="$d7/d5c/md__fops__xc_8h.html#a490a21aec691a85d527e7915fcd5ba6d" title="m0_xc_m0_fop_delxattr\l_rep_struct_init" alt="" coords="303,1664,481,1705"/>
+<area shape="rect" id="node29" href="$d7/d5c/md__fops__xc_8h.html#ab63cd22e2966a62df6843b6ae450a866" title="m0_xc_m0_fop_listxattr\l_struct_init" alt="" coords="303,1729,481,1771"/>
+<area shape="rect" id="node30" href="$d7/d5c/md__fops__xc_8h.html#aa2362add46110ae6f915ebe7efadaba5" title="m0_xc_m0_fop_listxattr\l_rep_struct_init" alt="" coords="303,1795,481,1836"/>
+<area shape="rect" id="node31" href="$d7/d5c/md__fops__xc_8h.html#a6b8d202fd071482be6340c136ec14bf0" title="m0_xc_m0_fop_readdir\l_struct_init" alt="" coords="305,1860,479,1901"/>
+<area shape="rect" id="node32" href="$d7/d5c/md__fops__xc_8h.html#a28055f017e73787ee65c9945aa85efb5" title="m0_xc_m0_fop_readdir\l_rep_struct_init" alt="" coords="305,1925,479,1967"/>
+</map>

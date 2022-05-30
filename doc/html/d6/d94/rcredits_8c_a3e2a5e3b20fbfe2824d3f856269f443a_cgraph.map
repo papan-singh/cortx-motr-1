@@ -1,0 +1,9 @@
+<map id="test_no_borrow_flag" name="test_no_borrow_flag">
+<area shape="rect" id="node2" href="$d6/d94/rcredits_8c.html#a7d0af84b0e39bc9423616c659ccf8d02" title="remote_credits_utinit" alt="" coords="207,5,369,32"/>
+<area shape="rect" id="node3" href="$d6/d94/rcredits_8c.html#a089a6d27225952e2c23f577595b3b5a4" title="credit_setup" alt="" coords="237,56,339,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga35b16fb825a3e37b39bace544db5abe5" title="m0_rm_credit_get" alt="" coords="218,107,358,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="230,157,346,184"/>
+<area shape="rect" id="node6" href="$d3/deb/rm__internal_8h.html#a74d9dfabd7a6d611a7b0ea870dbeab6f" title="incoming_state" alt="" coords="417,233,540,260"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gab1a04ef57fb9eedf5d2f44e85f24dcf8" title="m0_rm_incoming_fini" alt="" coords="207,259,369,285"/>
+<area shape="rect" id="node8" href="$d6/d94/rcredits_8c.html#ae0564774909d39e6a26d505262673aca" title="remote_credits_utfini" alt="" coords="208,309,368,336"/>
+</map>

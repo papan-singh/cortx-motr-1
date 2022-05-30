@@ -1,0 +1,14 @@
+<map id="conf_pver_virtual_create" name="conf_pver_virtual_create">
+<area shape="rect" id="node2" href="$d0/dc5/group__conf-pvers.html#gaf23a5523e1b5047a5fd288fb09ce1d32" title="m0_conf_pver_fid_read" alt="" coords="245,5,418,32"/>
+<area shape="rect" id="node3" href="$dd/d7b/group__conf__dlspec__objops.html#gac42c23f1d8b2888c97ab0fd119bce4ad" title="m0_conf_obj_create" alt="" coords="475,208,629,235"/>
+<area shape="rect" id="node4" href="$dd/d7b/group__conf__dlspec__objops.html#gaac48dccfea9c5e27147ef747f2a36add" title="m0_conf_obj_invariant" alt="" coords="677,183,848,209"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="725,335,800,361"/>
+<area shape="rect" id="node6" href="$d2/dd9/group__conf__dlspec__cache.html#ga517329ff7dd1fb6b607520088080b777" title="m0_conf_cache_add" alt="" coords="475,360,629,387"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="730,411,795,437"/>
+<area shape="rect" id="node8" href="$df/d59/group__conf__dir.html#gab086091155a03f0b3ce88e9d07c6bed7" title="m0_conf_dir_new" alt="" coords="484,411,620,437"/>
+<area shape="rect" id="node9" href="$d3/d0e/group__conf__walk.html#gae2572c459c7573392cb0e893e6f34f37" title="m0_conf_walk" alt="" coords="494,157,610,184"/>
+<area shape="rect" id="node10" href="$d0/dc5/group__conf-pvers.html#ga48c3e97b9bdbc1dab9adb567eb4233f3" title="conf_pver_base_w" alt="" coords="260,259,403,285"/>
+<area shape="rect" id="node11" href="$df/d01/group__pdclust.html#ga925959b9dd1b46050db6584af5db71f4" title="m0_pdclust_attr_check" alt="" coords="245,512,417,539"/>
+<area shape="rect" id="node12" href="$d0/dc5/group__conf-pvers.html#gaf1f4251087496517e707ec9c45fdc284" title="conf_pver_tolerance\l_adjust" alt="" coords="254,563,409,605"/>
+<area shape="rect" id="node13" href="$d0/dc5/group__conf-pvers.html#ga3e1b82e34f03c1a1f0ff29ebcd19bdb0" title="conf_pver_subtree_delete" alt="" coords="236,157,427,184"/>
+</map>

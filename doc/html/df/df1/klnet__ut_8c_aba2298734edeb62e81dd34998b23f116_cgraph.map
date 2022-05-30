@@ -1,0 +1,9 @@
+<map id="ut_ktest_msg_buf_event_wait" name="ut_ktest_msg_buf_event_wait">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="293,5,432,32"/>
+<area shape="rect" id="node3" href="$d3/de8/group__atomic.html#ga7375f066df1cb2cd2f685da2d08dab76" title="m0_atomic64_inc" alt="" coords="294,56,431,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="308,107,417,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="289,157,436,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#gacf59d500a3c9d8e44c753b64e221b6dd" title="m0_chan_timedwait" alt="" coords="285,208,440,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="291,259,434,285"/>
+<area shape="rect" id="node8" href="$d6/d8a/group___k_l_net_core.html#ga327d60c2c88dba4beb81eaada363e4fa" title="nlx_core_buf_event_wait" alt="" coords="271,309,455,336"/>
+</map>

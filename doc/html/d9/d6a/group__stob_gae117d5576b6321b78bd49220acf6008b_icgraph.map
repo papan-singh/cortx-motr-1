@@ -1,0 +1,17 @@
+<map id="m0_stob_addr_pack" name="m0_stob_addr_pack">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7f48c6d1c447462e1edb6658984f2209" title="it_read" alt="" coords="259,5,326,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#gade9e8a3d86eefdac6721d463020f6a50" title="frame_io_pack" alt="" coords="233,56,352,83"/>
+<area shape="rect" id="node4" href="$d3/daf/group___s_n_s_c_m_c_p.html#gad25087529c4217cd9b9132379079d823" title="bufvec_prepare" alt="" coords="231,107,354,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gadb5ad640063a76a4931a2479dbef46de" title="be_io_stob_offset_pack" alt="" coords="205,259,380,285"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga18922bc21356d6f3a931b0572b678f43" title="be_io_part_add" alt="" coords="444,208,565,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga8439078fae8b9998eacbc8c3d3f1f531" title="m0_be_io_vec_pack" alt="" coords="428,259,581,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gae3e63417c669324d0434072c4d8988a3" title="be_io_size_pack" alt="" coords="229,208,357,235"/>
+<area shape="rect" id="node9" href="$d9/dc2/group__io__foms.html#ga690611316b80918d7577262d428e96b7" title="align_bufvec" alt="" coords="240,360,345,387"/>
+<area shape="rect" id="node10" href="$d8/dec/isc_8c.html#a8a3ed14bbfbe83f2eb0c35906a37ad64" title="bufvec_pack" alt="" coords="241,411,345,437"/>
+<area shape="rect" id="node11" href="$dc/da4/group__stobio.html#ga2e257fd91a8f2f91d6279522e6cf74db" title="stob_read_fom_tick" alt="" coords="217,461,368,488"/>
+<area shape="rect" id="node12" href="$dc/da4/group__stobio.html#ga3e35f5c39aef5abc9d9e5af08436f313" title="stob_write_fom_tick" alt="" coords="215,512,370,539"/>
+<area shape="rect" id="node13" href="$d9/d6a/group__stob.html#ga2f73a2800578813773b073691c77a110" title="init_vecs" alt="" coords="253,563,333,589"/>
+<area shape="rect" id="node14" href="$d9/d6a/group__stob.html#gacec81684a93ce0d6ad90fd07324f4f0f" title="test_adieu_init" alt="" coords="233,613,352,640"/>
+<area shape="rect" id="node15" href="$dc/da5/stobio_8c.html#aa58e05aec181edc188b9c49fca552efc" title="stobio_rw_buffs_init" alt="" coords="217,664,369,691"/>
+<area shape="rect" id="node16" href="$dc/da5/stobio_8c.html#a3e177352944ae4261504cb7fad0703ed" title="test_single_ivec" alt="" coords="229,715,356,741"/>
+</map>

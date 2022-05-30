@@ -1,0 +1,27 @@
+<map id="rm_client" name="rm_client">
+<area shape="rect" id="node2" href="$dc/d92/ut__rpc__machine_8c.html#a37fcbcb0d583cf848ae4b0596e9b45fd" title="m0_ut_rpc_mach_init\l_and_add" alt="" coords="143,5,305,47"/>
+<area shape="rect" id="node3" href="$da/ddc/group__reqhservice.html#gae56343b4dc4aa0b7002d201585900136" title="m0_reqh_service_setup" alt="" coords="136,71,312,98"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="164,122,284,149"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="399,186,509,213"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="399,262,509,289"/>
+<area shape="rect" id="node7" href="$de/d32/ut_2rm__service_8c.html#a5b121975e5a447a1de1a74a98ba25513" title="rm_svc_server" alt="" coords="165,375,283,402"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="373,350,535,377"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="396,414,512,441"/>
+<area shape="rect" id="node10" href="$de/de1/rmut_8c.html#ad7b7a8ba830a51f0d9e103435892bca4" title="rm_ctx_connect" alt="" coords="161,477,287,503"/>
+<area shape="rect" id="node11" href="$de/d32/ut_2rm__service_8c.html#aabe52583117d607c072b2a54d6a0b518" title="flock_client_utdata\l_ops_set" alt="" coords="151,528,297,569"/>
+<area shape="rect" id="node12" href="$de/de1/rmut_8c.html#afe2108c6bbb5fa1e4b00cedc7c9e882e" title="rm_utdata_init" alt="" coords="165,618,283,645"/>
+<area shape="rect" id="node13" href="$d2/deb/group__rm.html#ga94e9428a47babfc5c6d9a13995051b86" title="m0_rm_remote_init" alt="" coords="149,223,299,250"/>
+<area shape="rect" id="node14" href="$de/d32/ut_2rm__service_8c.html#a64fcd124920f0e308e439f313c3b3d89" title="test_flock" alt="" coords="181,770,267,797"/>
+<area shape="rect" id="node15" href="$d2/deb/group__rm.html#gac98a08b5e4ff735e319304efbad7b67c" title="m0_rm_owner_windup" alt="" coords="369,694,539,721"/>
+<area shape="rect" id="node16" href="$d2/deb/group__rm.html#ga56fa2cf03c2ed2d3845aed707deb2860" title="m0_rm_owner_timedwait" alt="" coords="360,757,548,783"/>
+<area shape="rect" id="node17" href="$de/d3f/group___file_lock.html#gac41ba6d8a3d9b5e08f9e6209241d33c4" title="m0_file_owner_fini" alt="" coords="382,814,526,841"/>
+<area shape="rect" id="node18" href="$de/d3f/group___file_lock.html#gad0cd77b416fe238cad398a13a50fdc28" title="m0_file_fini" alt="" coords="405,869,503,895"/>
+<area shape="rect" id="node19" href="$de/de1/rmut_8c.html#ad66f81824a6a6e1f6ab33c3c422b9af6" title="rm_ctx_disconnect" alt="" coords="152,922,296,949"/>
+<area shape="rect" id="node20" href="$d2/deb/group__rm.html#gae5923a38936671693fed204530c5ed4c" title="m0_rm_remote_fini" alt="" coords="379,1023,529,1050"/>
+<area shape="rect" id="node21" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="613,986,721,1013"/>
+<area shape="rect" id="node22" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="596,1049,739,1075"/>
+<area shape="rect" id="node23" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="416,1199,492,1226"/>
+<area shape="rect" id="node24" href="$de/de1/rmut_8c.html#a5ded66f68179baf0cf35c04367b9c6f4" title="rm_utdata_fini" alt="" coords="166,1149,282,1175"/>
+<area shape="rect" id="node25" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="165,1301,283,1327"/>
+<area shape="rect" id="node26" href="$dc/d92/ut__rpc__machine_8c.html#a4bffc6b7c87bb26af9efda67c4bec60c" title="m0_ut_rpc_mach_fini" alt="" coords="144,1199,304,1226"/>
+</map>

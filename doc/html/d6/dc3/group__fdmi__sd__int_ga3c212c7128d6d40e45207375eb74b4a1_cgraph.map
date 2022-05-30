@@ -1,0 +1,16 @@
+<map id="m0_fdmi__src_dock_fom_start" name="m0_fdmi__src_dock_fom_start">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="247,5,398,32"/>
+<area shape="rect" id="node3" href="$db/d3c/conn__pool_8c.html#a6898d46f125bcad5fd32f7b2da48e0a0" title="m0_rpc_conn_pool_init" alt="" coords="237,107,408,133"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="456,69,576,96"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="483,132,549,159"/>
+<area shape="rect" id="node6" href="$d9/d7d/group__time.html#gaa8beed913080475991e2d54285538fac" title="m0_time" alt="" coords="283,208,363,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="285,259,360,285"/>
+<area shape="rect" id="node8" href="$dd/d5a/group___f_d_m_i___d_l_d__fspec__filterc.html#ga2cb7d525810fb64a712f9861876b4a97" title="m0_filterc_ctx_init" alt="" coords="251,309,394,336"/>
+<area shape="rect" id="node9" href="$db/d3c/conn__pool_8c.html#acd1a4544a38826db8bbfde7a561ddd7d" title="m0_rpc_conn_pool_fini" alt="" coords="237,360,408,387"/>
+<area shape="rect" id="node10" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="459,385,573,412"/>
+<area shape="rect" id="node11" href="$dd/d5a/group___f_d_m_i___d_l_d__fspec__filterc.html#gac6dde0ed9470a31ac2c29081b8a56066" title="m0_filterc_ctx_fini" alt="" coords="252,461,393,488"/>
+<area shape="rect" id="node12" href="$d0/d9a/group___f_d_m_i___d_l_d__fspec__filter__eval.html#ga63b4a3e5c1322f302054e60efa39b659" title="m0_fdmi_eval_init" alt="" coords="251,512,394,539"/>
+<area shape="rect" id="node13" href="$d1/d59/group__fom.html#gaa8d2269a41daa6b2913cf8b18eefbfcc" title="m0_fom_init" alt="" coords="271,563,375,589"/>
+<area shape="rect" id="node14" href="$d1/d59/group__fom.html#ga9823d77a0923595387d85b3b123135b1" title="m0_fom_queue" alt="" coords="261,613,384,640"/>
+<area shape="rect" id="node15" href="$d1/d59/group__fom.html#ga3f672de4102bdf52de7d852da8d02eda" title="m0_fom_timeout_init" alt="" coords="241,664,404,691"/>
+</map>

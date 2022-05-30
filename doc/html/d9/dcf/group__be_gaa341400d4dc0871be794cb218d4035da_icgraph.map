@@ -1,0 +1,18 @@
+<map id="btree_rwlock" name="btree_rwlock">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga2d9a38444404a34e172dec2983c05769" title="btree_save" alt="" coords="208,5,303,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga344389b1b1b97c2dbdc81ef0018bfccd" title="m0_be_btree_init" alt="" coords="188,56,323,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga0a1cbdeb2c427b81f14ee94bfa955aed" title="m0_be_btree_fini" alt="" coords="188,107,323,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga5cc3ac7d98ce51495ac58eb0a8637e0c" title="m0_be_btree_create" alt="" coords="178,157,333,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga32a77081edd12e9792756359a0b05c2a" title="m0_be_btree_destroy" alt="" coords="174,208,337,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga29637426af6305c978a4554399e6094d" title="m0_be_btree_truncate" alt="" coords="171,259,339,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gaa7004085a25ef20895934e3e228ae4c9" title="m0_be_btree_delete" alt="" coords="178,309,333,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gab5779c119e9cbd91872e8112c7978549" title="be_btree_lookup" alt="" coords="190,360,321,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga1c66dbebe16a2edfa07bad6bba59c7b8" title="m0_be_btree_maxkey" alt="" coords="172,411,339,437"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#gabc0d1bae85eec522decf3efea7bcbf5e" title="m0_be_btree_minkey" alt="" coords="174,461,337,488"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#gad3449940899d437096d8565fa7c9eb2c" title="m0_be_btree_update\l_inplace" alt="" coords="176,513,335,554"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga79d44e1d0566c9b2cb4efe8dd96723f8" title="m0_be_btree_lookup\l_inplace" alt="" coords="176,578,335,619"/>
+<area shape="rect" id="node14" href="$d9/dcf/group__be.html#ga8e966925caa5069093a7add3a3dfaf9a" title="m0_be_btree_release" alt="" coords="174,644,337,671"/>
+<area shape="rect" id="node15" href="$d9/dcf/group__be.html#gade3071230ab456a374ada1ee24fe06a5" title="m0_be_btree_cursor_get" alt="" coords="164,695,347,721"/>
+<area shape="rect" id="node16" href="$d9/dcf/group__be.html#gae18bc2334232939b71b25efae95f462f" title="m0_be_btree_cursor_next" alt="" coords="160,745,351,772"/>
+<area shape="rect" id="node17" href="$d9/dcf/group__be.html#ga3994723a955cf63245bd19b7ebc9fe34" title="m0_be_btree_cursor_prev" alt="" coords="160,796,351,823"/>
+</map>

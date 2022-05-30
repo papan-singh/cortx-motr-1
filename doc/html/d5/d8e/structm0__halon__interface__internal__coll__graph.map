@@ -1,0 +1,18 @@
+<map id="m0_halon_interface_internal" name="m0_halon_interface_internal">
+<area shape="rect" id="node15" href="$d8/d48/structm0__halon__interface.html" title="{m0_halon_interface\n||}" alt="" coords="869,1389,1020,1467"/>
+<area shape="rect" id="node2" href="$da/d3c/structm0__reqh__service.html" title="{m0_reqh_service\n||}" alt="" coords="1139,483,1273,561"/>
+<area shape="rect" id="node4" href="$d9/da2/structm0__reqh.html" title="{m0_reqh\n||}" alt="" coords="1177,660,1256,737"/>
+<area shape="rect" id="node13" href="$d6/d50/structm0__ha.html" title="{m0_ha\n||}" alt="" coords="634,660,701,737"/>
+<area shape="rect" id="node18" href="$d9/d36/structm0__rpc__machine.html" title="{m0_rpc_machine\n||}" alt="" coords="1377,815,1510,892"/>
+<area shape="rect" id="node6" href="$db/d49/structm0__sm.html" title="{m0_sm\n||}" alt="" coords="1313,239,1384,316"/>
+<area shape="rect" id="node7" href="$d4/d52/structm0__net__buffer__pool.html" title="{m0_net_buffer_pool\n||}" alt="" coords="145,483,296,561"/>
+<area shape="rect" id="node8" href="$db/d78/structm0__net__domain.html" title="{m0_net_domain\n||}" alt="" coords="5,239,132,316"/>
+<area shape="rect" id="node11" href="$d5/d1b/structm0.html" title="{m0\n||}" alt="" coords="759,815,802,892"/>
+<area shape="rect" id="node12" href="$da/d7e/structm0__ha__link.html" title="{m0_ha_link\n|+ hln_fom_enable_wakeup\l+ hln_replied\l+ hln_released\l+ hln_reconnect_cfg_is_set\l+ hln_quiesced\l+ hln_service_quiescing\l|}" alt="" coords="813,447,1013,597"/>
+<area shape="rect" id="node14" href="$dc/df6/structm0__halon__interface__cfg.html" title="{m0_halon_interface_cfg\n||}" alt="" coords="275,345,454,423"/>
+<area shape="rect" id="node5" href="$d5/d32/structm0__sm__group.html" title="{m0_sm_group\n||}" alt="" coords="1559,5,1674,83"/>
+<area shape="rect" id="node9" href="$d4/d0c/structm0__ha__dispatcher.html" title="{m0_ha_dispatcher\n||}" alt="" coords="830,1095,971,1172"/>
+<area shape="rect" id="node10" href="$d1/d3c/structm0__module.html" title="{m0_module\n||}" alt="" coords="701,955,799,1032"/>
+<area shape="rect" id="node16" href="$d4/d85/structm0__ha__note.html" title="{m0_ha_note\n||}" alt="" coords="1383,1095,1485,1172"/>
+<area shape="rect" id="node17" href="$dd/d2a/structm0__spiel.html" title="{m0_spiel\n||}" alt="" coords="1509,1095,1591,1172"/>
+</map>

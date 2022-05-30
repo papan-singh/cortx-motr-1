@@ -1,0 +1,14 @@
+<map id="cm/proxy.c" name="cm/proxy.c">
+<area shape="rect" id="node2" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="5,80,112,107"/>
+<area shape="rect" id="node3" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="136,80,224,107"/>
+<area shape="rect" id="node4" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="483,80,570,107"/>
+<area shape="rect" id="node5" href="$de/df7/time_8h.html" title="lib/time.h" alt="" coords="565,229,649,256"/>
+<area shape="rect" id="node6" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="392,155,477,181"/>
+<area shape="rect" id="node7" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="552,155,661,181"/>
+<area shape="rect" id="node8" href="$d1/db2/locality_8h.html" title="lib/locality.h" alt="" coords="267,155,367,181"/>
+<area shape="rect" id="node9" href="$d0/d44/rpc_8h.html" title="rpc/rpc.h" alt="" coords="877,80,955,107"/>
+<area shape="rect" id="node10" href="$da/d46/session_8h.html" title="rpc/session.h" alt="" coords="800,155,907,181"/>
+<area shape="rect" id="node11" href="$d7/df7/setup_8h.html" title="motr/setup.h" alt="" coords="747,80,853,107"/>
+<area shape="rect" id="node12" href="$dc/d40/fom_8h.html" title="fop/fom.h" alt="" coords="272,80,357,107"/>
+<area shape="rect" id="node15" href="$d9/d76/proxy_8h.html" title="cm/proxy.h" alt="" coords="1180,80,1273,107"/>
+</map>

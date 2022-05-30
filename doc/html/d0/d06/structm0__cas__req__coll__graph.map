@@ -1,0 +1,13 @@
+<map id="m0_cas_req" name="m0_cas_req">
+<area shape="rect" id="node2" href="$d8/df9/structm0__cas__recv.html" title="{m0_cas_recv\n||}" alt="" coords="471,605,577,683"/>
+<area shape="rect" id="node9" href="$d6/d8d/structm0__cas__op.html" title="{m0_cas_op\n||}" alt="" coords="342,760,437,837"/>
+<area shape="rect" id="node14" href="$d6/d32/structm0__cas__rep.html" title="{m0_cas_rep\n||}" alt="" coords="461,760,561,837"/>
+<area shape="rect" id="node4" href="$dd/d65/structm0__rpc__session.html" title="{m0_rpc_session\n||}" alt="" coords="909,403,1035,480"/>
+<area shape="rect" id="node6" href="$db/d49/structm0__sm.html" title="{m0_sm\n||}" alt="" coords="918,160,989,237"/>
+<area shape="rect" id="node7" href="$d6/d2f/structm0__be__tx__remid.html" title="{m0_be_tx_remid\n||}" alt="" coords="5,281,136,359"/>
+<area shape="rect" id="node8" href="$d5/d9d/structm0__fop__type.html" title="{m0_fop_type\n||}" alt="" coords="324,605,431,683"/>
+<area shape="rect" id="node10" href="$de/d21/structm0__rpc__item.html" title="{m0_rpc_item\n||}" alt="" coords="695,605,801,683"/>
+<area shape="rect" id="node11" href="$de/d78/structm0__sm__ast.html" title="{m0_sm_ast\n||}" alt="" coords="1094,504,1191,581"/>
+<area shape="rect" id="node12" href="$d5/d01/structm0__fop.html" title="{m0_fop\n||}" alt="" coords="585,760,655,837"/>
+<area shape="rect" id="node13" href="$da/d2c/structm0__bufvec.html" title="{m0_bufvec\n||}" alt="" coords="1351,760,1446,837"/>
+</map>

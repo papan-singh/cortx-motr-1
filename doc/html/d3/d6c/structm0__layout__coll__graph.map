@@ -1,0 +1,9 @@
+<map id="m0_layout" name="m0_layout">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="5,160,97,237"/>
+<area shape="rect" id="node4" href="$dc/ddb/structm0__layout__domain.html" title="{m0_layout_domain\n||}" alt="" coords="102,300,249,377"/>
+<area shape="rect" id="node7" href="$d9/df4/structm0__layout__ops.html" title="{m0_layout_ops\n||}" alt="" coords="528,300,649,377"/>
+<area shape="rect" id="node9" href="$dd/d2c/structm0__pool__version.html" title="{m0_pool_version\n||}" alt="" coords="750,300,883,377"/>
+<area shape="rect" id="node5" href="$da/d8a/structm0__layout__type.html" title="{m0_layout_type\n||}" alt="" coords="196,160,323,237"/>
+<area shape="rect" id="node8" href="$d9/de0/structm0__tlink.html" title="{m0_tlink\n||}" alt="" coords="953,160,1032,237"/>
+<area shape="rect" id="node10" href="$dd/d3f/structm0__ref.html" title="{m0_ref\n||}" alt="" coords="1100,300,1168,377"/>
+</map>

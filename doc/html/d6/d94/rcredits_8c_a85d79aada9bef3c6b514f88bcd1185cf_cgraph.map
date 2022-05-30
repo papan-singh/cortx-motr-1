@@ -1,0 +1,13 @@
+<map id="test_creditor_death" name="test_creditor_death">
+<area shape="rect" id="node2" href="$d6/d94/rcredits_8c.html#a7d0af84b0e39bc9423616c659ccf8d02" title="remote_credits_utinit" alt="" coords="215,5,376,32"/>
+<area shape="rect" id="node3" href="$d6/d94/rcredits_8c.html#a73cad534b1470823e2f4f5ba4465749e" title="rm_ctx_creditor_track" alt="" coords="213,56,377,83"/>
+<area shape="rect" id="node4" href="$d6/d94/rcredits_8c.html#af9b3a730795bc7f12ec0c04289cfc0f2" title="borrow_and_cache" alt="" coords="224,107,367,133"/>
+<area shape="rect" id="node5" href="$de/de1/rmut_8c.html#ab1e99efa41b385980208747c51d801b8" title="credits_are_equal" alt="" coords="227,157,364,184"/>
+<area shape="rect" id="node6" href="$d6/d94/rcredits_8c.html#a8fed9482ddfe0c9bf10c345275ac95ce" title="remote_die" alt="" coords="247,208,343,235"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga56fa2cf03c2ed2d3845aed707deb2860" title="m0_rm_owner_timedwait" alt="" coords="201,259,389,285"/>
+<area shape="rect" id="node8" href="$d6/d94/rcredits_8c.html#ada430490ad48efdc2f6da26c6a7ad453" title="credit_get_and_hold\l_nowait" alt="" coords="219,310,372,351"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="237,376,353,403"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#ga8a6e2bbb792f8a5a7bcd2e99411aea61" title="m0_rm_owner_fini" alt="" coords="224,427,367,453"/>
+<area shape="rect" id="node11" href="$d2/deb/group__rm.html#gaf0feb3d74254cc20f121fdb5c55c21d6" title="m0_rm_owner_init_rfid" alt="" coords="210,477,381,504"/>
+<area shape="rect" id="node12" href="$d6/d94/rcredits_8c.html#ae0564774909d39e6a26d505262673aca" title="remote_credits_utfini" alt="" coords="215,528,375,555"/>
+</map>

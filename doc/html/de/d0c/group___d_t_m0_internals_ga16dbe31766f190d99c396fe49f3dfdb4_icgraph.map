@@ -1,0 +1,6 @@
+<map id="m0_be_dtm0_log_alloc" name="m0_be_dtm0_log_alloc">
+<area shape="rect" id="node2" href="$d1/da8/dtm0_2service_8c.html#a8f141e656943cca52b3e360450ea7687" title="volatile_log_init" alt="" coords="267,5,393,32"/>
+<area shape="rect" id="node3" href="$da/dbb/dtm0__log__ut_8c.html#abdfa976dc6b47b142bdaec0c2bfd121d" title="test_volatile_dtm0_log" alt="" coords="245,56,415,83"/>
+<area shape="rect" id="node4" href="$da/dbb/dtm0__log__ut_8c.html#ae8b997ce5febf1c270822d7bad8d81af" title="m0_be_ut_dtm0_log_init_fini" alt="" coords="225,107,435,133"/>
+<area shape="rect" id="node5" href="$da/dbb/dtm0__log__ut_8c.html#ae588e0f6d6a612990d21a7cf2206f4eb" title="m0_be_ut_dtm0_log_next" alt="" coords="235,157,425,184"/>
+</map>

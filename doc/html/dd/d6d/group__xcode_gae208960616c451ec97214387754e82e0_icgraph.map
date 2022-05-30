@@ -1,0 +1,12 @@
+<map id="m0_xcode_enum_field_read" name="m0_xcode_enum_field_read">
+<area shape="rect" id="node2" href="$da/dbf/alloc__internal__xc_8h.html#ad8cffe3135a307b32f15736de5d81a15" title="m0_xc_be_alloc_chunk\l_struct_init" alt="" coords="276,5,448,47"/>
+<area shape="rect" id="node3" href="$de/d62/alloc__xc_8h.html#a624bf3df6e208d947d00620a21698723" title="m0_xc_m0_be_alloc_zone\l_stats_struct_init" alt="" coords="266,71,458,112"/>
+<area shape="rect" id="node4" href="$d9/d80/conf_2onwire__xc_8h.html#ad78d72fe63ce13a776fd2f88cbf74b4f" title="m0_xc_m0_confx_pool\l_struct_init" alt="" coords="277,136,447,177"/>
+<area shape="rect" id="node5" href="$d9/d80/conf_2onwire__xc_8h.html#afeb005587ca31ef6a4cd90075a026d5d" title="m0_xc_m0_confx_service\l_struct_init" alt="" coords="267,201,457,243"/>
+<area shape="rect" id="node6" href="$d9/d80/conf_2onwire__xc_8h.html#a4e80110945286db2d5f5180b655ac94c" title="m0_xc_m0_confx_sdev\l_struct_init" alt="" coords="275,267,449,308"/>
+<area shape="rect" id="node7" href="$d9/d80/conf_2onwire__xc_8h.html#a8252873320e6132544390bd8e5657e43" title="m0_xc_m0_confx_fdmi\l_filter_struct_init" alt="" coords="275,332,449,373"/>
+<area shape="rect" id="node8" href="$d6/dad/fop__xc_8h.html#a926b5299e60b74c20b79bcfdc80bfdb6" title="m0_xc_dtm0_req_fop\l_struct_init" alt="" coords="281,397,443,439"/>
+<area shape="rect" id="node9" href="$d7/d5d/tx__desc__xc_8h.html#a476160fe3dba3bdebb5b5f80fc6906a3" title="m0_xc_m0_dtm0_tx_pa\l_struct_init" alt="" coords="273,463,451,504"/>
+<area shape="rect" id="node10" href="$d6/d1f/pool__xc_8h.html#ac68924aea0de305ff70520ad3e2b3593" title="m0_xc_m0_pool_spare\l_usage_struct_init" alt="" coords="277,528,447,569"/>
+<area shape="rect" id="node11" href="$d0/dca/test__gccxml__simple__xc_8h.html#a7e80e5886b1a240749781c9eadfefb74" title="m0_xc_enumfield_struct_init" alt="" coords="257,594,467,621"/>
+</map>

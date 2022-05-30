@@ -1,0 +1,9 @@
+<map id="idx_query_drop_index" name="idx_query_drop_index">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#ga3e692e03c40d93a7147c033302ca29b4" title="oid_get" alt="" coords="269,5,339,32"/>
+<area shape="rect" id="node3" href="$da/dbb/st_2idx_8c.html#ab6a754ded4f7666f30ea9d4c2ac574ca" title="idx_create_one" alt="" coords="243,56,365,83"/>
+<area shape="rect" id="node4" href="$da/dbb/st_2idx_8c.html#a89928b1fb7a02568d3b1d8e25de1491d" title="idx_bufvec_alloc" alt="" coords="239,107,369,133"/>
+<area shape="rect" id="node5" href="$da/dbb/st_2idx_8c.html#a5dc68869934cdd0a64c491b303ece7b1" title="idx_fill_kv_pairs" alt="" coords="241,157,367,184"/>
+<area shape="rect" id="node6" href="$da/dbb/st_2idx_8c.html#a5feba7936f44b7dd6fec0fcb418f4ea4" title="idx_do_insert_kv_pairs" alt="" coords="219,208,389,235"/>
+<area shape="rect" id="node7" href="$da/dbb/st_2idx_8c.html#a0f2f9a205f31036a0726af1ec08533f4" title="idx_delete_one" alt="" coords="243,259,365,285"/>
+<area shape="rect" id="node8" href="$da/dbb/st_2idx_8c.html#ae34ab2553374eef9a059b5ce81d847c7" title="idx_bufvec_free" alt="" coords="241,309,367,336"/>
+</map>

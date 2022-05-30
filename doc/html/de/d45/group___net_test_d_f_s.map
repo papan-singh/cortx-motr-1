@@ -1,0 +1,23 @@
+<map id="Network Benchmark" name="Network Benchmark">
+<area shape="rect" id="node1" href="$d4/d68/group___net_test_ping_node_d_f_s.html" title="Ping Node" alt="" coords="270,5,358,32"/>
+<area shape="rect" id="node2" href="$db/d3c/group___net_test_stats_m_p_s_d_f_s.html" title="Messages Per Second\l Statistics" alt="" coords="233,57,395,98"/>
+<area shape="rect" id="node3" href="$dc/d3f/group___net_test_timestamp_d_f_s.html" title="Timestamp" alt="" coords="266,123,362,149"/>
+<area shape="rect" id="node4" href="$dd/d2f/group___net_test_ringbuf_d_f_s.html" title="Ringbuf" alt="" coords="278,173,350,200"/>
+<area shape="rect" id="node5" href="$d4/d9f/group___net_test_internals.html" title="Internals" alt="" coords="275,224,353,251"/>
+<area shape="rect" id="node7" href="$d3/d40/group___net_test_console_d_f_s.html" title="Test Console" alt="" coords="262,275,366,301"/>
+<area shape="rect" id="node8" href="$d0/d1d/group___net_test_str_d_f_s.html" title="Serialization of ASCIIZ\l string" alt="" coords="231,326,397,367"/>
+<area shape="rect" id="node9" href="$d9/d9e/group___net_test_commands_d_f_s.html" title="Commands" alt="" coords="266,392,362,419"/>
+<area shape="rect" id="node10" href="$db/dc5/group___net_test_init_fini_d_f_s.html" title="Initialization/finalization\l of net&#45;test" alt="" coords="225,443,403,485"/>
+<area shape="rect" id="node11" href="$d2/de8/group___net_test_s_list_d_f_s.html" title="String List" alt="" coords="271,509,357,536"/>
+<area shape="rect" id="node12" href="$d1/d19/group___net_test_serialize_d_f_s.html" title="Serialization" alt="" coords="263,560,365,587"/>
+<area shape="rect" id="node13" href="$d1/d7c/group___net_test_msg_n_r_d_f_s.html" title="Messages Number" alt="" coords="243,611,385,637"/>
+<area shape="rect" id="node14" href="$de/d66/group___net_test_u_common_d_f_s.html" title="Common user&#45;space routines" alt="" coords="208,661,420,688"/>
+<area shape="rect" id="node15" href="$d2/de9/group___net_test_stats_d_f_s.html" title="Statistics Collector" alt="" coords="242,712,386,739"/>
+<area shape="rect" id="node16" href="$de/d26/group___net_test_network_d_f_s.html" title="Network" alt="" coords="275,763,353,789"/>
+<area shape="rect" id="node17" href="$d1/d6a/group___net_test_debug_d_f_s.html" title="Debugging tools" alt="" coords="250,813,378,840"/>
+<area shape="rect" id="node18" href="$d1/d83/group___net_test_bulk_node_d_f_s.html" title="Bulk Node" alt="" coords="269,864,359,891"/>
+<area shape="rect" id="node19" href="$d7/d7b/group___net_test_service_d_f_s.html" title="Test Service" alt="" coords="264,915,364,941"/>
+<area shape="rect" id="node20" href="$db/dfe/group___net_test_stub_node_d_f_s.html" title="Node Stub" alt="" coords="269,965,359,992"/>
+<area shape="rect" id="node21" href="$d1/db1/group___net_test_node_d_f_s.html" title="Test Node" alt="" coords="271,1016,357,1043"/>
+<area shape="rect" id="node22" href="$d7/d6f/group___net_test_node_helper_d_f_s.html" title="Node helper" alt="" coords="263,1067,365,1093"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="m0_net_buffer_pool" name="m0_net_buffer_pool">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="363,5,455,83"/>
+<area shape="rect" id="node9" href="$db/d78/structm0__net__domain.html" title="{m0_net_domain\n||}" alt="" coords="696,233,823,311"/>
+<area shape="rect" id="node7" href="$d4/d8a/structm0__tl.html" title="{m0_tl\n||}" alt="" coords="149,233,208,311"/>
+<area shape="rect" id="node6" href="$d9/d7d/structm0__net__buffer__pool__ops.html" title="{m0_net_buffer_pool_ops\n||}" alt="" coords="490,233,672,311"/>
+</map>

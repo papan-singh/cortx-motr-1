@@ -1,0 +1,6 @@
+<map id="print_query_error" name="print_query_error">
+<area shape="rect" id="node2" href="$d5/d65/idx__cass_8c.html#ac9809d9571f2f80b34098c6eb0155ecc" title="execute_query_sync" alt="" coords="188,5,343,32"/>
+<area shape="rect" id="node3" href="$d5/d65/idx__cass_8c.html#a19da943f2c462132aff17be266d2c659" title="create_prepared" alt="" coords="201,56,329,83"/>
+<area shape="rect" id="node4" href="$d5/d65/idx__cass_8c.html#a609d26f47e67ebd4701680d460275399" title="idx_cass_query_cb" alt="" coords="193,107,337,133"/>
+<area shape="rect" id="node5" href="$d5/d65/idx__cass_8c.html#af11689cf79d61c2887b0218ec56eb02c" title="connect_session" alt="" coords="201,157,330,184"/>
+</map>

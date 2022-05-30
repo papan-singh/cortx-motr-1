@@ -1,0 +1,16 @@
+<map id="lock" name="lock">
+<area shape="rect" id="node2" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga59aea7eb5c84a924abe48b2341bf7f2a" title="lock_invariant" alt="" coords="121,125,236,152"/>
+<area shape="rect" id="node3" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga2e4c56b3d447243817347d2c2eac61f0" title="unlock" alt="" coords="363,277,429,304"/>
+<area shape="rect" id="node4" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gaf275d1f45f62ea03cf941299c2ba29b6" title="m0_long_write_unlock" alt="" coords="537,246,705,273"/>
+<area shape="rect" id="node5" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga780120feeb7c6d856ccf41cdbbe3cafc" title="m0_long_read_unlock" alt="" coords="539,309,703,336"/>
+<area shape="rect" id="node6" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gab197122217621533ec79a87f80e181c0" title="m0_long_unlock" alt="" coords="557,385,685,412"/>
+<area shape="rect" id="node7" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga501d17a5eb7ce5d0fdfbe3b348ae6f64" title="m0_long_is_read_locked" alt="" coords="305,86,487,113"/>
+<area shape="rect" id="node8" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga544b706238f43a1d0d87c32ff76bf116" title="m0_long_is_write_locked" alt="" coords="303,162,489,189"/>
+<area shape="rect" id="node9" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gabaa7f1cc1e2ce975f7eee7b106f232b4" title="can_lock" alt="" coords="139,328,218,354"/>
+<area shape="rect" id="node10" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gae7d4d276edd7b6f5ab21b245285db774" title="grant" alt="" coords="151,226,207,253"/>
+<area shape="rect" id="node11" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gafb962350d0560706a0944a515360c54f" title="m0_long_write_lock" alt="" coords="103,480,255,506"/>
+<area shape="rect" id="node12" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga32b196b8cef71f47f3fe5e814dfc68eb" title="m0_long_lock" alt="" coords="340,530,452,557"/>
+<area shape="rect" id="node13" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga32c86cc142a302f4b5a976bb66dbeb40" title="m0_long_read_lock" alt="" coords="105,581,253,608"/>
+<area shape="rect" id="node14" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gab1eef955bd95c3cc2e3a72cedc7702f8" title="m0_long_lock_init" alt="" coords="109,632,249,658"/>
+<area shape="rect" id="node15" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gab97f2172a9ef8e23ed79762dce8235db" title="m0_long_lock_fini" alt="" coords="109,682,248,709"/>
+</map>

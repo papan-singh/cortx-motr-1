@@ -1,0 +1,6 @@
+<map id="m0_parallel_pool" name="m0_parallel_pool">
+<area shape="rect" id="node2" href="$d8/d9e/structm0__semaphore.html" title="{m0_semaphore\n||}" alt="" coords="5,5,128,83"/>
+<area shape="rect" id="node4" href="$d1/d67/structm0__thread.html" title="{m0_thread\n||}" alt="" coords="141,160,233,237"/>
+<area shape="rect" id="node7" href="$da/d97/structm0__parallel__queue__link.html" title="{m0_parallel_queue_link\n||}" alt="" coords="403,160,581,237"/>
+<area shape="rect" id="node6" href="$d1/dad/structm0__parallel__queue.html" title="{m0_parallel_queue\n||}" alt="" coords="680,160,827,237"/>
+</map>

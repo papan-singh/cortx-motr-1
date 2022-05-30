@@ -1,0 +1,10 @@
+<map id="m0_task_io" name="m0_task_io">
+<area shape="rect" id="node4" href="$dc/dde/structm0__workload__io.html" title="{m0_workload_io\n||}" alt="" coords="577,369,707,447"/>
+<area shape="rect" id="node7" href="$d0/db4/structm0__uint128.html" title="{m0_uint128\n||}" alt="" coords="81,173,179,250"/>
+<area shape="rect" id="node10" href="$d9/d14/structm0__op.html" title="{m0_op\n||}" alt="" coords="230,369,297,447"/>
+<area shape="rect" id="node3" href="$d8/d9e/structm0__semaphore.html" title="{m0_semaphore\n||}" alt="" coords="923,173,1046,250"/>
+<area shape="rect" id="node13" href="$d1/d67/structm0__thread.html" title="{m0_thread\n||}" alt="" coords="1059,369,1151,447"/>
+<area shape="rect" id="node8" href="$d0/dcc/structcti__global.html" title="{cti_global\n||}" alt="" coords="1430,369,1515,447"/>
+<area shape="rect" id="node9" href="$d3/dc5/structm0__obj.html" title="{m0_obj\n||}" alt="" coords="1349,173,1420,250"/>
+<area shape="rect" id="node14" href="$da/d2c/structm0__bufvec.html" title="{m0_bufvec\n||}" alt="" coords="1696,369,1791,447"/>
+</map>

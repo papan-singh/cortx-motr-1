@@ -1,0 +1,11 @@
+<map id="csum_run" name="csum_run">
+<area shape="rect" id="node2" href="$d8/d42/group__crate.html#ga96e68986b0d776ca04da2a68825a0cce" title="w2csum" alt="" coords="164,5,240,32"/>
+<area shape="rect" id="node3" href="$d8/d42/group__crate.html#gaa46279d16c42b4fa9f597d71e498f0fa" title="csum_dev_open" alt="" coords="139,56,265,83"/>
+<area shape="rect" id="node4" href="$d8/d42/group__crate.html#ga217a253d1b8ba93cbd1bac336d3c17b3" title="max" alt="" coords="177,107,227,133"/>
+<area shape="rect" id="node5" href="$d1/d22/logger_8c.html#a0471c90e4daf3e4f1a2bce155374beac" title="cr_log" alt="" coords="313,208,375,235"/>
+<area shape="rect" id="node6" href="$d8/d42/group__crate.html#ga81529198acbb537e615470182e4c2471" title="workload_start" alt="" coords="143,208,261,235"/>
+<area shape="rect" id="node7" href="$d8/d42/group__crate.html#ga4a7f2f9af0aa0e75dc2a45ca33b3e611" title="workload_join" alt="" coords="145,259,259,285"/>
+<area shape="rect" id="node8" href="$d1/dc0/group__crate__utils.html#ga794244a5c177092a62c3208f209b6c30" title="timeval_sub" alt="" coords="151,309,253,336"/>
+<area shape="rect" id="node9" href="$d1/dc0/group__crate__utils.html#gad98ee07ef37e061d6855c41704ce29dc" title="tsec" alt="" coords="319,385,369,412"/>
+<area shape="rect" id="node10" href="$d1/dc0/group__crate__utils.html#gae64323e5418047939fcdf53d3d1d569f" title="rate" alt="" coords="178,411,226,437"/>
+</map>

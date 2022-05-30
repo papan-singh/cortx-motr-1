@@ -1,0 +1,5 @@
+<map id="st_foms_init" name="st_foms_init">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#ga31a5fefc71cee43ab0c791bdf5b05c27" title="loc_nr" alt="" coords="208,5,269,32"/>
+<area shape="rect" id="node3" href="$d5/d8c/group__reqh.html#ga404e0eb3b16a5dff5d82c8ac3814785a" title="m0_reqh_nr_localities" alt="" coords="156,56,321,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="163,107,314,133"/>
+</map>

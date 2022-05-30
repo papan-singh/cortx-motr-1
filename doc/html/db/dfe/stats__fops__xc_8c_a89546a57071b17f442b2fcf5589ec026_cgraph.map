@@ -1,0 +1,8 @@
+<map id="m0_xc_stats_stats_fops_init" name="m0_xc_stats_stats_fops_init">
+<area shape="rect" id="node2" href="$db/dfe/stats__fops__xc_8c.html#a427a2c74a75e2b50ff5f556fff08eda8" title="m0_xc_m0_uint64_seq\l_struct_init" alt="" coords="931,39,1101,81"/>
+<area shape="rect" id="node3" href="$db/dfe/stats__fops__xc_8c.html#a606b34b46077e13030625c5ba1816458" title="m0_xc_m0_stats_sum\l_struct_init" alt="" coords="716,39,883,81"/>
+<area shape="rect" id="node4" href="$db/dfe/stats__fops__xc_8c.html#a742421f576329e68f0b3aa5e267fdfde" title="m0_xc_m0_stats_recs\l_struct_init" alt="" coords="497,77,663,118"/>
+<area shape="rect" id="node5" href="$db/dfe/stats__fops__xc_8c.html#a86c2ed13bf6069242bfc189f3db777bc" title="m0_xc_m0_stats_update\l_fop_struct_init" alt="" coords="260,102,444,143"/>
+<area shape="rect" id="node6" href="$db/dfe/stats__fops__xc_8c.html#a2f721fb579178f15f2e6d09c08bf763e" title="m0_xc_m0_stats_query\l_fop_struct_init" alt="" coords="492,197,668,238"/>
+<area shape="rect" id="node7" href="$db/dfe/stats__fops__xc_8c.html#a62b19a7acf0c2803bbc2090c987da0a9" title="m0_xc_m0_stats_query\l_rep_fop_struct_init" alt="" coords="264,167,440,209"/>
+</map>

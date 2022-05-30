@@ -1,0 +1,24 @@
+<map id="ha/msg.h" name="ha/msg.h">
+<area shape="rect" id="node2" href="$d9/d49/types_8h.html" title="lib/types.h" alt="" coords="399,304,490,331"/>
+<area shape="rect" id="node3" href="$de/df7/time_8h.html" title="lib/time.h" alt="" coords="40,229,124,256"/>
+<area shape="rect" id="node4" href="$d5/d85/lib_2cookie_8h.html" title="lib/cookie.h" alt="" coords="281,155,378,181"/>
+<area shape="rect" id="node5" href="$d8/dcf/fid_8h.html" title="fid/fid.h" alt="" coords="268,229,338,256"/>
+<area shape="rect" id="node6" href="$d0/db1/ioq__error_8h.html" title="stob/ioq_error.h" alt="" coords="83,155,206,181"/>
+<area shape="rect" id="node7" href="$d8/da6/note_8h.html" title="ha/note.h" alt="" coords="403,155,486,181"/>
+<area shape="rect" id="node8" href="$d8/d9c/failvec_8h.html" title="ha/failvec.h" alt="" coords="514,80,612,107"/>
+<area shape="rect" id="node9" href="$de/da6/note__xc_8h.html" title="ha/note_xc.h" alt="" coords="510,155,616,181"/>
+<area shape="rect" id="node10" href="$de/da4/lib_2cookie__xc_8h.html" title="lib/cookie_xc.h" alt="" coords="640,155,758,181"/>
+<area shape="rect" id="node11" href="$de/de8/keepalive_8h.html" title="motr/keepalive.h" alt="" coords="762,80,895,107"/>
+<area shape="rect" id="node12" href="$d4/dc0/types__xc_8h.html" title="lib/types_xc.h" alt="" coords="834,155,946,181"/>
+<area shape="rect" id="node13" href="$db/deb/conf_2ha_8h.html" title="conf/ha.h" alt="" coords="834,229,916,256"/>
+<area shape="rect" id="node14" href="$d0/d2a/rpc_2ha_8h.html" title="rpc/ha.h" alt="" coords="940,229,1015,256"/>
+<area shape="rect" id="node15" href="$d8/dc6/be_2ha_8h.html" title="be/ha.h" alt="" coords="1040,229,1110,256"/>
+<area shape="rect" id="node16" href="$dd/db1/sns_2cm_2ha_8h.html" title="sns/cm/ha.h" alt="" coords="1134,229,1234,256"/>
+<area shape="rect" id="node17" href="$d1/dc5/ioq__error__xc_8h.html" title="stob/ioq_error_xc.h" alt="" coords="1172,80,1319,107"/>
+<area shape="rect" id="node18" href="$d0/d0f/failvec__xc_8h.html" title="ha/failvec_xc.h" alt="" coords="1343,80,1463,107"/>
+<area shape="rect" id="node19" href="$dd/dab/keepalive__xc_8h.html" title="motr/keepalive_xc.h" alt="" coords="1487,80,1642,107"/>
+<area shape="rect" id="node20" href="$d3/d23/conf_2ha__xc_8h.html" title="conf/ha_xc.h" alt="" coords="1666,80,1770,107"/>
+<area shape="rect" id="node21" href="$d5/de1/rpc_2ha__xc_8h.html" title="rpc/ha_xc.h" alt="" coords="1794,80,1890,107"/>
+<area shape="rect" id="node22" href="$d0/d68/be_2ha__xc_8h.html" title="be/ha_xc.h" alt="" coords="1914,80,2006,107"/>
+<area shape="rect" id="node23" href="$d7/de6/sns_2cm_2ha__xc_8h.html" title="sns/cm/ha_xc.h" alt="" coords="2031,80,2154,107"/>
+</map>

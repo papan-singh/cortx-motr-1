@@ -1,0 +1,16 @@
+<map id="test_oneway_item" name="test_oneway_item">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#gad00c1c283f03916980d84af5fc6e9a5d" title="m0_fop_alloc" alt="" coords="243,64,352,90"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga3b6bdaa5eab42c940169cdb96cb2f7fc" title="m0_fop_init" alt="" coords="470,13,569,40"/>
+<area shape="rect" id="node4" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="640,114,744,141"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#gab530babf8dcb440aaecdd9ebb67a4c7a" title="m0_fop_data_alloc" alt="" coords="447,114,592,141"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga6f5767a6dcb6d96573e801f9a6b38f65" title="m0_rpc_oneway_item_post" alt="" coords="197,216,397,242"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga800dab6b57475349cb1f370036272dab" title="m0_rpc_item_timedwait" alt="" coords="207,266,387,293"/>
+<area shape="rect" id="node8" href="$d1/d5d/group__semaphore.html#gac475887387f514fc84e78c3da285e2af" title="m0_semaphore_timeddown" alt="" coords="196,317,399,344"/>
+<area shape="rect" id="node9" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="221,368,373,394"/>
+<area shape="rect" id="node10" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="453,317,586,344"/>
+<area shape="rect" id="node11" href="$d9/dbf/ut_2item_8c.html#ad96ee245a60363eeb25365b885add287" title="fop_release" alt="" coords="248,469,347,496"/>
+<area shape="rect" id="node12" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="243,520,352,546"/>
+<area shape="rect" id="node13" href="$d7/d48/ut_2note_8c.html#a3c1ae51ca06c3774d7ea73cfa161b819" title="stop_rpc_client_and\l_server" alt="" coords="222,571,373,612"/>
+<area shape="rect" id="node14" href="$d7/d48/ut_2note_8c.html#aeae3d4d7b2408da16922f9cf8bbbc399" title="start_rpc_client_and\l_server" alt="" coords="221,636,374,678"/>
+<area shape="rect" id="node15" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="241,702,353,729"/>
+</map>

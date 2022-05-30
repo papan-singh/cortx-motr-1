@@ -1,0 +1,12 @@
+<map id="nlx_tm_invariant" name="nlx_tm_invariant">
+<area shape="rect" id="node2" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga20255e6971d1c631ae7a4c31215fc794" title="nlx_buffer_invariant" alt="" coords="202,5,354,32"/>
+<area shape="rect" id="node3" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga075ea92e6d12c26fa7036f912cb6a826" title="nlx_xo_bev_deliver_all" alt="" coords="419,31,589,57"/>
+<area shape="rect" id="node4" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga3a49def9d891f703ead27c9e154e951c" title="nlx_xo_tm_init" alt="" coords="219,107,337,133"/>
+<area shape="rect" id="node5" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gaefd7f92ee503c744041f6d4faf26ae94" title="nlx_xo_tm_fini" alt="" coords="219,157,337,184"/>
+<area shape="rect" id="node6" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga95e95b2526091b50996ee350fb5dfda9" title="nlx_xo_tm_start" alt="" coords="215,208,341,235"/>
+<area shape="rect" id="node7" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gac218309f3cae3f0900be05ff1ee217fb" title="nlx_xo_tm_stop" alt="" coords="215,259,341,285"/>
+<area shape="rect" id="node8" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gad8b371bd12bbf18146c2d1fab215538f" title="nlx_xo_tm_confine" alt="" coords="206,309,350,336"/>
+<area shape="rect" id="node9" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga3b6394372e53f5a224d4769915c0db19" title="nlx_xo_bev_deliver_sync" alt="" coords="185,360,371,387"/>
+<area shape="rect" id="node10" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga0bb1d1531087ab3c7e94324770b92679" title="nlx_xo_bev_pending" alt="" coords="201,411,355,437"/>
+<area shape="rect" id="node11" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga9f25f7040a5cf21ed4c97b3e20df9631" title="nlx_xo_bev_notify" alt="" coords="207,461,349,488"/>
+</map>

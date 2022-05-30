@@ -1,0 +1,11 @@
+<map id="m0_be_reg_area__invariant" name="m0_be_reg_area__invariant">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga2fd4ceedcedf897e19a726a804c32d22" title="m0_be_tx__invariant" alt="" coords="278,5,437,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gad2bac6b057312721ab0c66761ef0de01" title="m0_be_reg_area_init" alt="" coords="278,56,437,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga4463e681f74198fa1254f4ab34d38663" title="m0_be_reg_area_fini" alt="" coords="279,107,436,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga6574432283579ea41e1a725fa87a0df9" title="m0_be_reg_area_used" alt="" coords="273,157,441,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gaaa24c58f091ffd9bf8e1fad1c07ac749" title="m0_be_reg_area_prepared" alt="" coords="260,208,455,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gaa2d7aba6e1ffee44a43dde0d952180a2" title="m0_be_reg_area_captured" alt="" coords="260,259,455,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga0dc33358bc8df1809ce4ec0c4d501db4" title="m0_be_reg_area_capture" alt="" coords="264,309,451,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga3f9da08473f4ac0ce90ae2752eb868d8" title="m0_be_reg_area_uncapture" alt="" coords="256,360,459,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gac40f392395df17a46af3b95706d582af" title="m0_be_reg_area_reset" alt="" coords="272,411,443,437"/>
+</map>

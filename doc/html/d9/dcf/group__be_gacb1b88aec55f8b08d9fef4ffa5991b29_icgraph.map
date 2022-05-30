@@ -1,0 +1,6 @@
+<map id="be_engine_tx_group_state_move" name="be_engine_tx_group_state_move">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga244d8fc854a8a51a90d75b6713ac13d6" title="be_engine_group_freeze" alt="" coords="212,5,393,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga93e8444f9bf08d7012a8a8ce0faa3155" title="be_engine_group_tryclose" alt="" coords="447,67,639,93"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga4729a8fa29c1da2f6ab6a196c6015da8" title="be_engine_tx_group_open" alt="" coords="207,107,399,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga74a675c36dcf9a94fe06f7d302e16726" title="be_engine_tx_group\l_ready" alt="" coords="466,129,619,170"/>
+</map>

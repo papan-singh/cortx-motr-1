@@ -1,0 +1,11 @@
+<map id="net/bulk_emulation/mem_xprt_xo.c" name="net/bulk_emulation/mem_xprt_xo.c">
+<area shape="rect" id="node2" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="5,102,92,129"/>
+<area shape="rect" id="node3" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="58,184,143,211"/>
+<area shape="rect" id="node4" href="$da/d66/string_8h.html" title="string.h" alt="" coords="105,259,176,285"/>
+<area shape="rect" id="node5" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="218,102,325,129"/>
+<area shape="rect" id="node6" href="$d2/d35/mem__xprt__pvt_8h.html" title="net/bulk_emulation\l/mem_xprt_pvt.h" alt="" coords="349,95,497,136"/>
+<area shape="rect" id="node7" href="$df/d75/mem__xprt__ep_8c.html" title="net/bulk_emulation\l/mem_xprt_ep.c" alt="" coords="521,95,669,136"/>
+<area shape="rect" id="node8" href="$d8/d77/mem__xprt__tm_8c.html" title="net/bulk_emulation\l/mem_xprt_tm.c" alt="" coords="693,95,841,136"/>
+<area shape="rect" id="node9" href="$dd/d70/mem__xprt__msg_8c.html" title="net/bulk_emulation\l/mem_xprt_msg.c" alt="" coords="865,95,1013,136"/>
+<area shape="rect" id="node10" href="$de/dfc/mem__xprt__bulk_8c.html" title="net/bulk_emulation\l/mem_xprt_bulk.c" alt="" coords="1037,95,1185,136"/>
+</map>

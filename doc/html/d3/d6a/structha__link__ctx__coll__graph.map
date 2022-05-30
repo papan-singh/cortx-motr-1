@@ -1,0 +1,8 @@
+<map id="ha_link_ctx" name="ha_link_ctx">
+<area shape="rect" id="node9" href="$d6/d50/structm0__ha.html" title="{m0_ha\n||}" alt="" coords="1072,800,1139,877"/>
+<area shape="rect" id="node5" href="$d0/d06/structm0__clink.html" title="{m0_clink\n||}" alt="" coords="858,202,939,279"/>
+<area shape="rect" id="node7" href="$d9/d8a/structm0__fid.html" title="{m0_fid\n||}" alt="" coords="289,345,356,423"/>
+<area shape="rect" id="node8" href="$da/d7e/structm0__ha__link.html" title="{m0_ha_link\n|+ hln_fom_enable_wakeup\l+ hln_replied\l+ hln_released\l+ hln_reconnect_cfg_is_set\l+ hln_quiesced\l+ hln_service_quiescing\l|}" alt="" coords="1035,447,1235,597"/>
+<area shape="rect" id="node3" href="$d8/d9e/structm0__semaphore.html" title="{m0_semaphore\n||}" alt="" coords="664,5,787,83"/>
+<area shape="rect" id="node4" href="$d9/de0/structm0__tlink.html" title="{m0_tlink\n||}" alt="" coords="855,5,934,83"/>
+</map>

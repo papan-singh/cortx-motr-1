@@ -1,0 +1,19 @@
+<map id="conf/confc.c" name="conf/confc.c">
+<area shape="rect" id="node2" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="103,80,190,107"/>
+<area shape="rect" id="node3" href="$d7/deb/arith_8h.html" title="lib/arith.h" alt="" coords="270,229,354,256"/>
+<area shape="rect" id="node4" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="5,155,91,181"/>
+<area shape="rect" id="node5" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="165,155,275,181"/>
+<area shape="rect" id="node6" href="$d7/d14/confc_8h.html" title="conf/confc.h" alt="" coords="389,80,491,107"/>
+<area shape="rect" id="node7" href="$dc/d76/conf_2cache_8h.html" title="conf/cache.h" alt="" coords="369,155,473,181"/>
+<area shape="rect" id="node8" href="$d3/dd7/obj__ops_8h.html" title="conf/obj_ops.h" alt="" coords="515,80,631,107"/>
+<area shape="rect" id="node9" href="$d5/d34/preload_8h.html" title="conf/preload.h" alt="" coords="656,80,771,107"/>
+<area shape="rect" id="node10" href="$db/d84/conf_2fop_8h.html" title="conf/fop.h" alt="" coords="795,80,882,107"/>
+<area shape="rect" id="node11" href="$d0/dab/fom__generic_8h.html" title="fop/fom_generic.h" alt="" coords="906,80,1046,107"/>
+<area shape="rect" id="node12" href="$d0/d44/rpc_8h.html" title="rpc/rpc.h" alt="" coords="1087,155,1166,181"/>
+<area shape="rect" id="node13" href="$d6/d29/rpc__machine_8h.html" title="rpc/rpc_machine.h" alt="" coords="1188,229,1329,256"/>
+<area shape="rect" id="node14" href="$d8/dcf/fid_8h.html" title="fid/fid.h" alt="" coords="1241,80,1311,107"/>
+<area shape="rect" id="node15" href="$d3/d5a/rpclib_8h.html" title="rpc/rpclib.h" alt="" coords="1122,80,1217,107"/>
+<area shape="rect" id="node16" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="1387,80,1475,107"/>
+<area shape="rect" id="node17" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="1573,80,1680,107"/>
+<area shape="rect" id="node18" href="$dd/dc9/finject_8h.html" title="lib/finject.h" alt="" coords="1534,155,1629,181"/>
+</map>

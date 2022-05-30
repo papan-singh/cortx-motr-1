@@ -1,0 +1,8 @@
+<map id="pin_del" name="pin_del">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#gaa9cdbff3a446fd6be5bba4e3d8f0eed1" title="cached_credits_remove" alt="" coords="123,5,299,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga8adf525ee32ba8004882a472954bcace" title="cached_credits_hold" alt="" coords="133,56,288,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga5159479313702fc3a0fc12ffab7073e6" title="incoming_pins_del" alt="" coords="139,107,282,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga6a8ea4c3c7e33a668de02ce2b4df5418" title="owner_balance" alt="" coords="151,157,271,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gad5a3aac7dfa4ff7955c5732c3fc11a56" title="barrier_pins_del" alt="" coords="147,208,274,235"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga4a7851bec01074631f34ad390d6810f0" title="incoming_release" alt="" coords="142,259,279,285"/>
+</map>

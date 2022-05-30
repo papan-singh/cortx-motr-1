@@ -1,0 +1,9 @@
+<map id="m0_storage_devs_init" name="m0_storage_devs_init">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="270,5,390,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="275,56,385,83"/>
+<area shape="rect" id="node4" href="$d0/dfe/group__sdev.html#ga0e96a42ae6577cc5fa1ce35dbe944494" title="storage_devs_conf_ready\l_async_cb" alt="" coords="236,107,424,149"/>
+<area shape="rect" id="node5" href="$d0/dfe/group__sdev.html#ga49859b16baaad566da84ed6c98a73345" title="storage_devs_conf_expired_cb" alt="" coords="219,173,441,200"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="257,224,403,251"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="297,275,363,301"/>
+<area shape="rect" id="node8" href="$d4/d67/group__thread__pool.html#gaa58afa842dbf5484a2114e6aa6ba6283" title="m0_parallel_pool_init" alt="" coords="249,325,411,352"/>
+</map>

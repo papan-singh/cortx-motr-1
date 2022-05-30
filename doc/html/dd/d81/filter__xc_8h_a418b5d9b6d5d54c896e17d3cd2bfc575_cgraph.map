@@ -1,0 +1,7 @@
+<map id="m0_xc_m0_fdmi_flt_opnd_pld_struct_init" name="m0_xc_m0_fdmi_flt_opnd_pld_struct_init">
+<area shape="rect" id="node2" href="$dd/d6d/group__xcode.html#ga7de6a98996205656f3a9ec577d6823a4" title="m0_xc_u32_init" alt="" coords="277,5,401,32"/>
+<area shape="rect" id="node3" href="$dd/d6d/group__xcode.html#ga25bdfe90ffe6469f7746a8c9d8562487" title="m0_xc_u64_init" alt="" coords="517,69,641,96"/>
+<area shape="rect" id="node4" href="$dd/d6d/group__xcode.html#ga91d5eb881ee5d761dc739afc65a13501" title="m0_xc_u8_init" alt="" coords="521,132,637,159"/>
+<area shape="rect" id="node5" href="$d1/ddf/buf__xc_8c.html#ac3eab92cc54ed916a30cc6305e4985a1" title="m0_xc_m0_buf_struct_init" alt="" coords="243,157,436,184"/>
+<area shape="rect" id="node6" href="$dd/d6d/group__xcode.html#ga521dbd4a0648fa705e3fbb4cfd1ca302" title="m0_xcode_type_invariant" alt="" coords="484,195,675,221"/>
+</map>

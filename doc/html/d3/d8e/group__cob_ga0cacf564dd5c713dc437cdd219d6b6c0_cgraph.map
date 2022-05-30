@@ -1,0 +1,12 @@
+<map id="m0_cob_bc_entries_dump" name="m0_cob_bc_entries_dump">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="298,5,373,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga0e2658de8e10d7720d81da238e4c36e4" title="m0_be_btree_cursor_init" alt="" coords="244,56,427,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gad0a21257040bbfe406cfe00ca9660c45" title="m0_be_btree_cursor\l_first_sync" alt="" coords="258,107,413,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gae517a9ece0cbcac712467b75e6c88133" title="m0_be_btree_cursor\l_next_sync" alt="" coords="258,173,413,214"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="297,239,373,265"/>
+<area shape="rect" id="node7" href="$d8/d64/group__buf.html#ga5eecf2781f894768488bbed1d17c33f9" title="m0_buf_alloc" alt="" coords="281,289,390,316"/>
+<area shape="rect" id="node8" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="283,340,387,367"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gad280ff6a6e1e69b67f6dd1624336abcc" title="m0_be_btree_cursor\l_kv_get" alt="" coords="258,391,413,433"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga2490e6a98b50eae3ce762ab9c4b4e06e" title="m0_be_btree_cursor_fini" alt="" coords="245,457,426,484"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="303,508,368,535"/>
+</map>

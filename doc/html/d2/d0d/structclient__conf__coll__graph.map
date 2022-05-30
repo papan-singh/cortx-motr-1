@@ -1,0 +1,6 @@
+<map id="client_conf" name="client_conf">
+<area shape="rect" id="node6" href="$d3/db7/structclient.html" title="{client\n||}" alt="" coords="455,855,513,932"/>
+<area shape="rect" id="node2" href="$d7/de6/structcnt.html" title="{cnt\n||}" alt="" coords="347,231,389,309"/>
+<area shape="rect" id="node4" href="$da/dbd/structnet__conf.html" title="{net_conf\n|+ nc_rpc_size\l+ nc_frag_delay_max\l|}" alt="" coords="451,560,615,652"/>
+<area shape="rect" id="node7" href="$da/dd9/structnet__srv.html" title="{net_srv\n||}" alt="" coords="162,567,233,645"/>
+</map>

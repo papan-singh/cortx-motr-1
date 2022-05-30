@@ -1,0 +1,7 @@
+<map id="spiel_device_command_send" name="spiel_device_command_send">
+<area shape="rect" id="node2" href="$dd/df9/group__conf__dfspec__obj.html#gac94589115bdffb8bb040eb570cb489a7" title="m0_conf_fid_type" alt="" coords="489,11,627,38"/>
+<area shape="rect" id="node3" href="$df/d3a/group__spiel-api-fspec-intr.html#ga86aa22416fdc2ee542ee2eece9c7729d" title="spiel_endpoints_for\l_device_generic" alt="" coords="279,33,429,74"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="525,99,591,126"/>
+<area shape="rect" id="node5" href="$df/d3a/group__spiel-api-fspec-intr.html#ga22843c0911623df35e0640086a591dad" title="spiel_device_command\l_fop_send" alt="" coords="267,150,441,192"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="316,216,392,243"/>
+</map>

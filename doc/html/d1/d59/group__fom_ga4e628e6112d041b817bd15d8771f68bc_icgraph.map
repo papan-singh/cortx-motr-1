@@ -1,0 +1,25 @@
+<map id="m0_fom_type_init" name="m0_fom_type_init">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga5469bac32a15f554693b1a76877d0ed5" title="m0_be_tx_group_fom\l_mod_init" alt="" coords="218,5,381,47"/>
+<area shape="rect" id="node3" href="$dd/dfa/group___c_m_s_t_o_r_e.html#ga841972eff729c988481914cba5e73a6d" title="m0_cm_ag_store_init" alt="" coords="219,71,380,98"/>
+<area shape="rect" id="node4" href="$d0/d80/group___c_p.html#ga15e61a1b2b5b572229d9cb688b8102a9" title="m0_cm_cp_init" alt="" coords="239,122,359,149"/>
+<area shape="rect" id="node5" href="$d0/da4/group___c_m.html#ga13c3cfd849f3939d8388d8be1842be02" title="m0_cm_cp_pump_init" alt="" coords="217,173,381,199"/>
+<area shape="rect" id="node6" href="$db/d70/group___c_m_s_w_f_o_m.html#ga78ea53869c9e9eef43bd64be2c5ad25f" title="m0_cm_sw_update_init" alt="" coords="212,223,387,250"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga63a4ec7199cf12cccd83c999a194c92f" title="m0_fop_type_init" alt="" coords="232,274,367,301"/>
+<area shape="rect" id="node8" href="$d7/d98/rconfc__link__fom_8h.html#a7541c5dbd7355e37d19fae623a38a8e8" title="m0_rconfc_mod_init" alt="" coords="222,325,377,351"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#ga4c0cde38ecd6238a3d5b6bb8a9586976" title="m0_dix_cm_iter_type\l_register" alt="" coords="218,376,381,417"/>
+<area shape="rect" id="node10" href="$d0/df1/iter__ut_8c.html#ab7302241ea5e48493a0434b604de66b3" title="iter_ut_init" alt="" coords="253,442,345,469"/>
+<area shape="rect" id="node11" href="$da/d9b/drlink_8h.html#a3c70990370a6b2d5c32336d4f1859d72" title="m0_dtm0_rpc_link_mod_init" alt="" coords="196,493,403,519"/>
+<area shape="rect" id="node12" href="$d0/d50/group__fdmi__pd__int.html#ga0491bf85609bbb21e9ee59e12fa16498" title="m0_fdmi__plugin_dock\l_fom_init" alt="" coords="213,544,385,585"/>
+<area shape="rect" id="node13" href="$d6/dc3/group__fdmi__sd__int.html#gaf8282ee8e10f347f9ef1ee2415ac2e12" title="m0_fdmi__src_dock_fom_init" alt="" coords="193,610,405,637"/>
+<area shape="rect" id="node14" href="$d2/d76/fop_2ub_2ub_8c.html#adb3d164055026092d14160bfea44386a" title="_init" alt="" coords="274,661,325,687"/>
+<area shape="rect" id="node15" href="$d9/d2c/ms__fom__ut_8c.html#a1ee3c0bc3bfcc406d128cc0970f2e68c" title="leader_fom_create" alt="" coords="227,711,371,738"/>
+<area shape="rect" id="node16" href="$d9/d2c/ms__fom__ut_8c.html#a2a44c941dcfefcf7ac8edaa2f089c13e" title="follower_fom_create" alt="" coords="221,762,377,789"/>
+<area shape="rect" id="node17" href="$d0/d16/fom__timedwait__ut_8c.html#a55d5f72f418fec0d85efd0aab97eb121" title="tw_test_suite_init" alt="" coords="231,813,368,839"/>
+<area shape="rect" id="node18" href="$d8/dd3/long__lock__ut_8c.html#a2207e6b9c73c5b25847c4efca0020426" title="test_long_lock_init" alt="" coords="227,863,371,890"/>
+<area shape="rect" id="node19" href="$d3/df2/fop_2ut_2stats_2stats__ut_8c.html#a6f251e1b31fbe3b592fb61eb183de4e3" title="test_stats_init" alt="" coords="242,914,357,941"/>
+<area shape="rect" id="node20" href="$db/dec/group__ha.html#gad6fb33d32fd8f7a8de22061dc7c71b3d" title="m0_ha_entrypoint_mod_init" alt="" coords="197,965,401,991"/>
+<area shape="rect" id="node21" href="$db/dec/group__ha.html#gaa76a9f475bdab7e72395d3547bc93cf2" title="m0_ha_link_mod_init" alt="" coords="219,1015,380,1042"/>
+<area shape="rect" id="node22" href="$de/d82/group__rpc__link.html#gae1d5445c6d1dee8bd7abe65511ebb9b1" title="m0_rpc_link_module_init" alt="" coords="207,1066,392,1093"/>
+<area shape="rect" id="node23" href="$d5/d5d/ut_2cob__foms_8c.html#a4ae0d99cad0ddddc9cf5e31ee9967fd6" title="cobfoms_utinit" alt="" coords="240,1117,359,1143"/>
+<area shape="rect" id="node24" href="$d3/d04/isc__fops_8h.html#a203ce32585b8e8c00adb20fe4ab8551e" title="m0_isc_fom_type_init" alt="" coords="217,1167,382,1194"/>
+</map>

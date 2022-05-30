@@ -1,0 +1,7 @@
+<map id="m0_net_test_network_buffer_dequeue" name="m0_net_test_network_buffer_dequeue">
+<area shape="rect" id="node2" href="$d0/de6/group___net_test_commands_internals.html#ga88acc7fd2cb621c6d1534d2395cb762b" title="commands_recv_dequeue" alt="" coords="216,5,408,32"/>
+<area shape="rect" id="node3" href="$d3/d88/ut_2network_8c.html#a0c6b807ea79b3ee8b044e071882f19e0" title="m0_net_test_network\l_ut_buf_desc" alt="" coords="231,57,393,98"/>
+<area shape="rect" id="node4" href="$dd/da5/group___net_test_bulk_node_internals.html#gac343478753850b89b3eeda98e287ef20" title="client_bulk_dequeue" alt="" coords="234,123,390,149"/>
+<area shape="rect" id="node5" href="$dd/da5/group___net_test_bulk_node_internals.html#ga00335f29d4c42cc08b7250b9bf2ce0c3" title="node_bulk_buf_dequeue" alt="" coords="222,173,402,200"/>
+<area shape="rect" id="node6" href="$da/d84/group___net_test_ping_node_internals.html#gadefb080f43cb93dc2832ea0f1577b922" title="node_ping_worker" alt="" coords="241,224,383,251"/>
+</map>

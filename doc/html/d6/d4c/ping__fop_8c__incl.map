@@ -1,0 +1,12 @@
+<map id="rpc/it/ping_fop.c" name="rpc/it/ping_fop.c">
+<area shape="rect" id="node2" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="73,304,161,331"/>
+<area shape="rect" id="node3" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="37,80,143,107"/>
+<area shape="rect" id="node4" href="$dc/d40/fom_8h.html" title="fop/fom.h" alt="" coords="570,304,655,331"/>
+<area shape="rect" id="node5" href="$d9/d51/fop_2fop_8h.html" title="fop/fop.h" alt="" coords="193,229,273,256"/>
+<area shape="rect" id="node6" href="$d4/dc6/ping__fop_8h.html" title="rpc/it/ping_fop.h" alt="" coords="221,155,348,181"/>
+<area shape="rect" id="node7" href="$de/deb/ping__fop__xc_8h.html" title="rpc/it/ping_fop_xc.h" alt="" coords="426,80,575,107"/>
+<area shape="rect" id="node8" href="$d5/db1/ping__fom_8h.html" title="rpc/it/ping_fom.h" alt="" coords="219,80,351,107"/>
+<area shape="rect" id="node9" href="$d0/d44/rpc_8h.html" title="rpc/rpc.h" alt="" coords="651,80,729,107"/>
+<area shape="rect" id="node10" href="$d0/d07/fop__item__type_8h.html" title="fop/fop_item_type.h" alt="" coords="753,80,907,107"/>
+<area shape="rect" id="node11" href="$d0/dab/fom__generic_8h.html" title="fop/fom_generic.h" alt="" coords="763,155,903,181"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="m0_cons_fop_obj_input" name="m0_cons_fop_obj_input">
+<area shape="rect" id="node2" href="$d9/de6/group__console.html#gaee7daecf8a24a874cd6b0500ef7e94c4" title="Build the RPC item using FOP (Embedded into item) and send it. " alt="" coords="228,5,377,32"/>
+<area shape="rect" id="node3" href="$d9/de6/group__console.html#ga14f73762c31080b0264b45a7da179665" title="input_test" alt="" coords="259,56,346,83"/>
+<area shape="rect" id="node4" href="$d9/de6/group__console.html#ga5927fe30a02c376832bfecf49ec39626" title="output_test" alt="" coords="255,107,351,133"/>
+<area shape="rect" id="node5" href="$d9/de6/group__console.html#gaf3ab40334dd3d719f40c417d68f0882c" title="mesg_send_client" alt="" coords="233,157,372,184"/>
+</map>

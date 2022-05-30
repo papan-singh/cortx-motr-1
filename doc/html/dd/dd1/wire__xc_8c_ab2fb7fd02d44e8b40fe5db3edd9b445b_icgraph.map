@@ -1,0 +1,20 @@
+<map id="m0_xc_m0_fop_str_struct_init" name="m0_xc_m0_fop_str_struct_init">
+<area shape="rect" id="node2" href="$dd/d8b/wire__xc_8h.html#a333ce067de0e49365d3ef8c527b77cfc" title="m0_xc_m0_fop_generic\l_reply_struct_init" alt="" coords="299,5,475,47"/>
+<area shape="rect" id="node3" href="$dd/d8b/wire__xc_8h.html#adedc7413b6429df1ebed5affb685a9d5" title="m0_xc_fop_wire_init" alt="" coords="551,42,707,69"/>
+<area shape="rect" id="node4" href="$d7/d5c/md__fops__xc_8h.html#a64a26306ccfdec82b1a34338a841d864" title="m0_xc_m0_fop_create\l_struct_init" alt="" coords="302,123,471,164"/>
+<area shape="rect" id="node5" href="$d7/d5c/md__fops__xc_8h.html#ac81f9a9bfbcbdb0f3840640183c29cb6" title="m0_xc_m0_fop_lookup\l_struct_init" alt="" coords="301,188,473,229"/>
+<area shape="rect" id="node6" href="$d7/d5c/md__fops__xc_8h.html#a672b3039a359b6818b06e2d9159defc3" title="m0_xc_m0_fop_link_struct_init" alt="" coords="275,254,499,281"/>
+<area shape="rect" id="node7" href="$d7/d5c/md__fops__xc_8h.html#a0383d955ffda51d13ff766f0394e4812" title="m0_xc_m0_fop_unlink\l_struct_init" alt="" coords="303,305,471,347"/>
+<area shape="rect" id="node8" href="$d7/d5c/md__fops__xc_8h.html#abb3b57a97dcf6028dcacfa050c26cf9e" title="m0_xc_m0_fop_rename\l_struct_init" alt="" coords="297,371,476,412"/>
+<area shape="rect" id="node9" href="$d7/d5c/md__fops__xc_8h.html#a1bc6fc89dc4e9db25d5d690474a95f05" title="m0_xc_m0_fop_open_struct_init" alt="" coords="271,437,503,463"/>
+<area shape="rect" id="node10" href="$d7/d5c/md__fops__xc_8h.html#a5573c46fa82dec64bdc8487cf0d1eb76" title="m0_xc_m0_fop_close\l_struct_init" alt="" coords="305,488,468,529"/>
+<area shape="rect" id="node11" href="$d7/d5c/md__fops__xc_8h.html#a74a4029060e15dc41df0c6b5aa9a32f3" title="m0_xc_m0_fop_setattr\l_struct_init" alt="" coords="301,553,472,595"/>
+<area shape="rect" id="node12" href="$d7/d5c/md__fops__xc_8h.html#ae6b0523d8366c0a1bd12dc3fa858c892" title="m0_xc_m0_fop_getattr\l_struct_init" alt="" coords="301,619,473,660"/>
+<area shape="rect" id="node13" href="$d7/d5c/md__fops__xc_8h.html#a1f6d9bf42b54edbdeb8f35fc6bcea5a6" title="m0_xc_m0_fop_getxattr\l_struct_init" alt="" coords="297,684,477,725"/>
+<area shape="rect" id="node14" href="$d7/d5c/md__fops__xc_8h.html#a61a938c2ca15519efde8829be823d0ee" title="m0_xc_m0_fop_getxattr\l_rep_struct_init" alt="" coords="297,749,477,791"/>
+<area shape="rect" id="node15" href="$d7/d5c/md__fops__xc_8h.html#a5eabfeab9fd16240061658def707efd6" title="m0_xc_m0_fop_setxattr\l_struct_init" alt="" coords="297,815,476,856"/>
+<area shape="rect" id="node16" href="$d7/d5c/md__fops__xc_8h.html#a4c3394a177bce18ec2205d9ecdd26241" title="m0_xc_m0_fop_delxattr\l_struct_init" alt="" coords="297,880,476,921"/>
+<area shape="rect" id="node17" href="$d7/d5c/md__fops__xc_8h.html#aa2362add46110ae6f915ebe7efadaba5" title="m0_xc_m0_fop_listxattr\l_rep_struct_init" alt="" coords="297,945,476,987"/>
+<area shape="rect" id="node18" href="$d7/d5c/md__fops__xc_8h.html#a6b8d202fd071482be6340c136ec14bf0" title="m0_xc_m0_fop_readdir\l_struct_init" alt="" coords="299,1011,474,1052"/>
+<area shape="rect" id="node19" href="$d7/d5c/md__fops__xc_8h.html#a28055f017e73787ee65c9945aa85efb5" title="m0_xc_m0_fop_readdir\l_rep_struct_init" alt="" coords="299,1076,474,1117"/>
+</map>

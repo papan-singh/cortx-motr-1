@@ -1,0 +1,16 @@
+<map id="list_decode" name="list_decode">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="648,91,691,117"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#gad481d7c4ffe49912e0cca7c0262baa0b" title="m0_bufvec_cursor_step" alt="" coords="150,167,326,193"/>
+<area shape="rect" id="node4" href="$da/da8/group__layout.html#ga2186ddacf1fb565ab0d6250e74b72b00" title="m0_layout__striped\l_allocated_invariant" alt="" coords="161,218,315,259"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#gae76766a88069edeffeb892b1efe79d09" title="m0_bufvec_cursor_addr" alt="" coords="149,65,327,92"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#ga0519cf756af050c693a2b1ddc67394ef" title="m0_bufvec_cursor_move" alt="" coords="375,15,560,41"/>
+<area shape="rect" id="node7" href="$d5/daa/group__list__enum.html#ga74df4ea68672ea6095416390abab4b58" title="list_allocated_invariant" alt="" coords="380,309,555,336"/>
+<area shape="rect" id="node8" href="$da/da8/group__layout.html#ga9e15dc29aa4b0356b209342bcddcdc2e" title="m0_layout__log" alt="" coords="405,487,530,513"/>
+<area shape="rect" id="node9" href="$dd/d5f/group__fid.html#ga9f695a7bd0b64f3897a471dff7a96549" title="m0_fid_is_valid" alt="" coords="608,436,731,463"/>
+<area shape="rect" id="node10" href="$d5/daa/group__list__enum.html#ga21548361f09c23b5f6399e8b22685137" title="noninline_read" alt="" coords="179,537,297,564"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="435,588,500,615"/>
+<area shape="rect" id="node12" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="423,639,511,665"/>
+<area shape="rect" id="node13" href="$d5/daa/group__list__enum.html#ga011800a5deeb81eb4ef36dcd7ccc35ae" title="list_populate" alt="" coords="185,335,291,361"/>
+<area shape="rect" id="node14" href="$d5/daa/group__list__enum.html#ga51625a2405f219db649400169f989263" title="list_invariant" alt="" coords="414,385,521,412"/>
+<area shape="rect" id="node15" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="200,689,276,716"/>
+</map>

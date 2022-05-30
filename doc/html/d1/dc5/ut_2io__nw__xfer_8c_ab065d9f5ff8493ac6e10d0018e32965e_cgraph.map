@@ -1,0 +1,8 @@
+<map id="ut_test_dgmode_rwvec_dealloc_fini" name="ut_test_dgmode_rwvec_dealloc_fini">
+<area shape="rect" id="node2" href="$d0/ddc/motr_2ut_2client_8h.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="245,5,411,32"/>
+<area shape="rect" id="node3" href="$d0/ddc/motr_2ut_2client_8h.html#a07897fc86962ea2527d642756e23b200" title="ut_dummy_target_ioreq\l_create" alt="" coords="239,57,417,98"/>
+<area shape="rect" id="node4" href="$de/df0/io__nw__xfer_8c.html#a8a3f308d383bd1621fc0ae770e893346" title="dgmode_rwvec_alloc_init" alt="" coords="235,123,421,149"/>
+<area shape="rect" id="node5" href="$de/df0/io__nw__xfer_8c.html#a84bb73725cb99ee67665fa5c4381d2fd" title="dgmode_rwvec_dealloc_fini" alt="" coords="227,173,429,200"/>
+<area shape="rect" id="node6" href="$d0/ddc/motr_2ut_2client_8h.html#acebfa9a61ae2957ace18ca283e0eeb5d" title="ut_dummy_target_ioreq\l_delete" alt="" coords="239,225,417,266"/>
+<area shape="rect" id="node7" href="$d0/ddc/motr_2ut_2client_8h.html#a1b3b48dd6920a2dd5e1f56fc2b08c319" title="ut_dummy_ioo_delete" alt="" coords="245,291,411,317"/>
+</map>

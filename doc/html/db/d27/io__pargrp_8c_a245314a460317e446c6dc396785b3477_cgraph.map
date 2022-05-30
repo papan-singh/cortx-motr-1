@@ -1,0 +1,16 @@
+<map id="pargrp_iomap_init" name="pargrp_iomap_init">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#abe25a286772ff411fb60202c22fd6cd7" title="m0__op_instance" alt="" coords="219,5,353,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="233,56,339,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga6e71aa45c7f34855cbdd4b162594b0f0" title="m0_indexvec_alloc" alt="" coords="213,157,359,184"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="479,157,554,184"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ae85c2b3583142b344d61bc397e43384b" title="page_nr" alt="" coords="479,335,554,361"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa3c9d000e95c41896417fffbd5a3a26d" title="data_size" alt="" coords="244,461,328,488"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a2e307ebd1efd4256bde19a2315824972" title="layout_n" alt="" coords="477,436,556,463"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aefc5966b362e3ffba1593e10d4f5cb7a" title="rows_nr" alt="" coords="249,360,323,387"/>
+<area shape="rect" id="node10" href="$db/d27/io__pargrp_8c.html#ad6370a95abcf297e5c7fab439ca46660" title="pargrp_iomap_bufs_alloc" alt="" coords="193,208,379,235"/>
+<area shape="rect" id="node11" href="$db/d27/io__pargrp_8c.html#ab0651183236e53b3be175b2f34a47449" title="pargrp_iomap_bufs_free" alt="" coords="427,233,607,260"/>
+<area shape="rect" id="node12" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aec9576e37980f9a1fab95971a6fc2d55" title="layout_k" alt="" coords="247,512,325,539"/>
+<area shape="rect" id="node13" href="$db/d27/io__pargrp_8c.html#a9795f9bb68a7c292ffd94bb1d51746c1" title="pargrp_iomap_invariant" alt="" coords="197,613,375,640"/>
+<area shape="rect" id="node14" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="484,588,549,615"/>
+<area shape="rect" id="node15" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="215,664,357,691"/>
+</map>

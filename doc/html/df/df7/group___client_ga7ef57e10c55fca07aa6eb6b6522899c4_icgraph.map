@@ -1,0 +1,12 @@
+<map id="st_idx_init" name="st_idx_init">
+<area shape="rect" id="node2" href="$da/dbb/st_2idx_8c.html#a5feba7936f44b7dd6fec0fcb418f4ea4" title="idx_do_insert_kv_pairs" alt="" coords="159,5,330,32"/>
+<area shape="rect" id="node3" href="$da/dbb/st_2idx_8c.html#ab6a754ded4f7666f30ea9d4c2ac574ca" title="idx_create_one" alt="" coords="184,56,305,83"/>
+<area shape="rect" id="node4" href="$da/dbb/st_2idx_8c.html#a0f2f9a205f31036a0726af1ec08533f4" title="idx_delete_one" alt="" coords="184,107,305,133"/>
+<area shape="rect" id="node5" href="$da/dbb/st_2idx_8c.html#a458375530ecf7cd7301e3c5f2aa36f7b" title="idx_query_callbacks" alt="" coords="395,132,549,159"/>
+<area shape="rect" id="node6" href="$da/dbb/st_2idx_8c.html#a52c47f348df5b912af769c836fc0ae01" title="idx_query_get" alt="" coords="187,208,302,235"/>
+<area shape="rect" id="node7" href="$da/dbb/st_2idx_8c.html#a17d5895b67cfa065194813f6e7eef1cf" title="idx_query_get_cancel" alt="" coords="163,259,326,285"/>
+<area shape="rect" id="node8" href="$da/dbb/st_2idx_8c.html#a359d0416a0d057760d778710d5171019" title="idx_query_get_nonexist" alt="" coords="156,309,333,336"/>
+<area shape="rect" id="node9" href="$da/dbb/st_2idx_8c.html#aa2ae76e17183283dc6347cbf6d8c5b35" title="idx_query_get_non_existing\l_index" alt="" coords="143,361,347,402"/>
+<area shape="rect" id="node10" href="$df/d61/isync_8c.html#acdeacb0f82f3b84358fec0998ebae8a8" title="idx_add_or_del_kv_pairs" alt="" coords="153,427,336,453"/>
+<area shape="rect" id="node11" href="$df/d61/isync_8c.html#a76563408100863d85b3f360d04359046" title="idx_create_or_delete" alt="" coords="165,477,324,504"/>
+</map>

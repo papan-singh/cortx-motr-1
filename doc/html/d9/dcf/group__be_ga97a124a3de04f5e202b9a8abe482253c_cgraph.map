@@ -1,0 +1,11 @@
+<map id="be_engine_try_recovery" name="be_engine_try_recovery">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaceb81dff92372aff7f1189675a09118f" title="be_engine_is_locked" alt="" coords="475,290,632,316"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga8f8be55a022d6fb043e16984f666dc91" title="m0_be_log_recovery\l_record_available" alt="" coords="475,18,632,60"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga84eedecce8e1ee6983fb7aa0a35798ee" title="be_engine_group_find" alt="" coords="247,114,411,140"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga79bf2b772dfe6498f351d0db2eed0628" title="m0_be_tx_group_recovery\l_prepare" alt="" coords="232,165,427,206"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga244d8fc854a8a51a90d75b6713ac13d6" title="be_engine_group_freeze" alt="" coords="239,348,420,375"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga93e8444f9bf08d7012a8a8ce0faa3155" title="be_engine_group_tryclose" alt="" coords="233,399,425,426"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga3efc149c8b5900700dc914e835bdd83a" title="be_engine_recovery\l_is_finished" alt="" coords="253,48,406,89"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gac9d4633e6164aece4325663fc760a36e" title="be_engine_recovery\l_finish" alt="" coords="253,282,406,324"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="285,450,373,476"/>
+</map>

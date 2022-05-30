@@ -1,0 +1,23 @@
+<map id="net/sock/sock.c" name="net/sock/sock.c">
+<area shape="rect" id="node9" href="$da/d66/string_8h.html" title="string.h" alt="" coords="733,304,804,331"/>
+<area shape="rect" id="node10" href="$d9/d49/types_8h.html" title="lib/types.h" alt="" coords="871,453,962,480"/>
+<area shape="rect" id="node12" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="1016,155,1103,181"/>
+<area shape="rect" id="node13" href="$de/df7/time_8h.html" title="lib/time.h" alt="" coords="1175,379,1259,405"/>
+<area shape="rect" id="node14" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="783,229,869,256"/>
+<area shape="rect" id="node15" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="1045,229,1154,256"/>
+<area shape="rect" id="node16" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="2343,80,2431,107"/>
+<area shape="rect" id="node17" href="$db/dd5/thread_8h.html" title="lib/thread.h" alt="" coords="1535,229,1631,256"/>
+<area shape="rect" id="node18" href="$d2/d30/tlist_8h.html" title="lib/tlist.h" alt="" coords="1503,379,1581,405"/>
+<area shape="rect" id="node19" href="$d2/dcf/chan_8h.html" title="lib/chan.h" alt="" coords="1279,304,1365,331"/>
+<area shape="rect" id="node20" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="1911,304,2018,331"/>
+<area shape="rect" id="node21" href="$d5/d85/lib_2cookie_8h.html" title="lib/cookie.h" alt="" coords="589,155,687,181"/>
+<area shape="rect" id="node22" href="$da/dcb/bitmap_8h.html" title="lib/bitmap.h" alt="" coords="1993,379,2093,405"/>
+<area shape="rect" id="node23" href="$d5/df7/refs_8h.html" title="lib/refs.h" alt="" coords="1656,229,1735,256"/>
+<area shape="rect" id="node24" href="$d7/d56/sm_8h.html" title="sm/sm.h" alt="" coords="1381,229,1460,256"/>
+<area shape="rect" id="node25" href="$db/db3/net_2net_8h.html" title="net/net.h" alt="" coords="1447,155,1527,181"/>
+<area shape="rect" id="node26" href="$d2/d03/buffer__pool_8h.html" title="net/buffer_pool.h" alt="" coords="1653,80,1785,107"/>
+<area shape="rect" id="node27" href="$d5/d7c/net__internal_8h.html" title="net/net_internal.h" alt="" coords="1339,80,1476,107"/>
+<area shape="rect" id="node28" href="$d0/d0a/format_8h.html" title="format/format.h" alt="" coords="813,155,940,181"/>
+<area shape="rect" id="node29" href="$da/da2/net_2sock_2xcode_8h.html" title="net/sock/xcode.h" alt="" coords="453,80,585,107"/>
+<area shape="rect" id="node30" href="$de/da6/xcode__xc_8h.html" title="net/sock/xcode_xc.h" alt="" coords="122,80,277,107"/>
+</map>

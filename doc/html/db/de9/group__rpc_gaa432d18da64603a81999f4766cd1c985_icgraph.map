@@ -1,0 +1,6 @@
+<map id="m0_rpc_item_send" name="m0_rpc_item_send">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaa5647552e63e016f70f9c597fce592b3" title="item_resend" alt="" coords="240,5,343,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga33ea1685d85d50b79065118d3497a3c1" title="m0_rpc_item_send_reply" alt="" coords="199,56,384,83"/>
+<area shape="rect" id="node4" href="$d9/dbf/ut_2item_8c.html#a99d313b3ec97133bbc33fa871cd5e233" title="test_resend" alt="" coords="242,107,341,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#gaff1b235d6f391e6f7affd1753281ee51" title="m0_rpc__post_locked" alt="" coords="210,157,373,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="dix_idxop_reqs_send" name="dix_idxop_reqs_send">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#gab0f8e68af915368fbd269256b9a61b33" title="dix_req_state" alt="" coords="447,19,557,46"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#gaa7610316e0750b024d9973bf67507c10" title="dix_item_should_be_sent" alt="" coords="212,38,399,64"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="465,107,539,134"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gaae6ceda32b9180257df59ca21f87e126" title="dix_pver_find" alt="" coords="251,139,360,166"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga022efc09825f05201eacd8151cd4e6e7" title="dix_idxop_req_send" alt="" coords="230,190,381,216"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="469,215,535,242"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#ga90773259045257ef45d9de53a6b48761" title="dix_idxop_ctx_free" alt="" coords="233,291,378,318"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="motr/io_req_fop.c" name="motr/io_req_fop.c">
+<area shape="rect" id="node2" href="$d4/dea/motr_2client_8h.html" title="motr/client.h" alt="" coords="5,229,111,256"/>
+<area shape="rect" id="node3" href="$d7/dcd/motr_2client__internal_8h.html" title="motr/client_internal.h" alt="" coords="70,155,233,181"/>
+<area shape="rect" id="node4" href="$d1/da5/pg_8h.html" title="motr/pg.h" alt="" coords="149,229,234,256"/>
+<area shape="rect" id="node5" href="$de/d6b/sync_8h.html" title="motr/sync.h" alt="" coords="265,229,363,256"/>
+<area shape="rect" id="node6" href="$db/d77/addb_8h.html" title="motr/addb.h" alt="" coords="358,80,459,107"/>
+<area shape="rect" id="node7" href="$d4/dc1/motr_2io_8h.html" title="motr/io.h" alt="" coords="100,80,181,107"/>
+<area shape="rect" id="node8" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="483,80,590,107"/>
+<area shape="rect" id="node9" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="614,80,702,107"/>
+<area shape="rect" id="node10" href="$dd/d02/atomic_8h.html" title="lib/atomic.h" alt="" coords="794,155,893,181"/>
+<area shape="rect" id="node11" href="$d2/d52/cksum__utils_8h.html" title="lib/cksum_utils.h" alt="" coords="1020,80,1152,107"/>
+<area shape="rect" id="node12" href="$d9/d2b/rpc__machine__internal_8h.html" title="rpc/rpc_machine_internal.h" alt="" coords="1196,155,1395,181"/>
+<area shape="rect" id="node13" href="$d0/dab/fom__generic_8h.html" title="fop/fom_generic.h" alt="" coords="1387,80,1527,107"/>
+<area shape="rect" id="node14" href="$d7/dd5/cob_8h.html" title="cob/cob.h" alt="" coords="801,80,885,107"/>
+<area shape="rect" id="node15" href="$de/d82/rpc_2addb2_8h.html" title="rpc/addb2.h" alt="" coords="1551,80,1650,107"/>
+<area shape="rect" id="node16" href="$df/d1f/item_8h.html" title="rpc/item.h" alt="" coords="1674,80,1762,107"/>
+<area shape="rect" id="node17" href="$dd/d7b/rpc__internal_8h.html" title="rpc/rpc_internal.h" alt="" coords="1176,80,1311,107"/>
+<area shape="rect" id="node18" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="909,80,996,107"/>
+</map>

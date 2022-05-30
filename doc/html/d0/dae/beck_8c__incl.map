@@ -1,0 +1,33 @@
+<map id="be/tool/beck.c" name="be/tool/beck.c">
+<area shape="rect" id="node4" href="$da/d66/string_8h.html" title="string.h" alt="" coords="81,80,151,107"/>
+<area shape="rect" id="node13" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="1114,80,1201,107"/>
+<area shape="rect" id="node14" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="1061,155,1171,181"/>
+<area shape="rect" id="node15" href="$dc/df9/getopts_8h.html" title="lib/getopts.h" alt="" coords="1225,80,1327,107"/>
+<area shape="rect" id="node16" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="1405,155,1512,181"/>
+<area shape="rect" id="node17" href="$dc/da7/assert_8h.html" title="lib/assert.h" alt="" coords="1365,229,1459,256"/>
+<area shape="rect" id="node18" href="$db/dd5/thread_8h.html" title="lib/thread.h" alt="" coords="1539,80,1635,107"/>
+<area shape="rect" id="node19" href="$df/dfc/version_8h.html" title="motr/version.h" alt="" coords="1659,80,1776,107"/>
+<area shape="rect" id="node20" href="$dd/d1d/uuid_8h.html" title="lib/uuid.h" alt="" coords="1800,80,1883,107"/>
+<area shape="rect" id="node21" href="$de/dc8/motr_2init_8h.html" title="motr/init.h" alt="" coords="1907,80,1997,107"/>
+<area shape="rect" id="node22" href="$d7/d0c/reqh_8h.html" title="reqh/reqh.h" alt="" coords="2021,80,2117,107"/>
+<area shape="rect" id="node23" href="$d9/dda/instance_8h.html" title="module/instance.h" alt="" coords="2142,80,2285,107"/>
+<area shape="rect" id="node24" href="$d0/d0a/format_8h.html" title="format/format.h" alt="" coords="2753,229,2879,256"/>
+<area shape="rect" id="node25" href="$d4/d7e/format__xc_8h.html" title="format/format_xc.h" alt="" coords="2385,229,2533,256"/>
+<area shape="rect" id="node26" href="$d1/d88/balloc_8h.html" title="balloc/balloc.h" alt="" coords="2673,80,2789,107"/>
+<area shape="rect" id="node27" href="$d7/ded/ad_8h.html" title="stob/ad.h" alt="" coords="2645,155,2728,181"/>
+<area shape="rect" id="node28" href="$db/dc6/btree__internal_8h.html" title="be/btree_internal.h" alt="" coords="2854,155,2999,181"/>
+<area shape="rect" id="node29" href="$dd/df6/be_2list_8h.html" title="be/list.h" alt="" coords="2547,155,2621,181"/>
+<area shape="rect" id="node30" href="$d7/ddb/seg__internal_8h.html" title="be/seg_internal.h" alt="" coords="2411,80,2546,107"/>
+<area shape="rect" id="node31" href="$d5/d6c/op_8h.html" title="be/op.h" alt="" coords="3075,155,3146,181"/>
+<area shape="rect" id="node32" href="$d2/dd6/be_2ut_2helper_8h.html" title="be/ut/helper.h" alt="" coords="1403,80,1514,107"/>
+<area shape="rect" id="node33" href="$d6/df0/ctg__store_8h.html" title="cas/ctg_store.h" alt="" coords="2915,80,3035,107"/>
+<area shape="rect" id="node34" href="$d7/dd5/cob_8h.html" title="cob/cob.h" alt="" coords="3887,155,3971,181"/>
+<area shape="rect" id="node35" href="$d4/d20/pool_2pool_8h.html" title="pool/pool.h" alt="" coords="3187,155,3282,181"/>
+<area shape="rect" id="node36" href="$da/d3e/ad__private_8h.html" title="stob/ad_private.h" alt="" coords="3289,80,3423,107"/>
+<area shape="rect" id="node37" href="$d9/d2a/dix_2fid__convert_8h.html" title="dix/fid_convert.h" alt="" coords="3448,80,3579,107"/>
+<area shape="rect" id="node38" href="$d1/df3/io__service_8h.html" title="ioservice/io_service.h" alt="" coords="3848,80,4011,107"/>
+<area shape="rect" id="node39" href="$d4/d7c/ioservice_2fid__convert_8h.html" title="ioservice/fid_convert.h" alt="" coords="3654,80,3823,107"/>
+<area shape="rect" id="node40" href="$db/d1f/cob__foms_8h.html" title="ioservice/cob_foms.h" alt="" coords="4221,80,4381,107"/>
+<area shape="rect" id="node41" href="$d5/d08/extmap__internal_8h.html" title="be/extmap_internal.h" alt="" coords="4035,80,4197,107"/>
+<area shape="rect" id="node42" href="$d0/d4a/tx__bulk_8h.html" title="be/tx_bulk.h" alt="" coords="3059,80,3162,107"/>
+</map>

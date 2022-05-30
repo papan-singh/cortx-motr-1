@@ -1,0 +1,11 @@
+<map id="m0_be_btree_cursor_next_sync" name="m0_be_btree_cursor_next_sync">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga666feccea82d48aa194922d586c4bc05" title="btree_count_items" alt="" coords="232,5,375,32"/>
+<area shape="rect" id="node3" href="$d8/d50/ctg__store_8c.html#ad01b093b048321aa4649150a809180cf" title="ctg_index_btree_dump" alt="" coords="218,56,389,83"/>
+<area shape="rect" id="node4" href="$d9/d21/group__cas-ctg-store.html#ga6dd9ac945f7eed8d813353c86cf86f21" title="ctgdump" alt="" coords="447,81,525,108"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#gae20dc241f328d5e3b7a7b52f2bf2fc75" title="m0_cob_bc_iterator_next" alt="" coords="210,157,397,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#ga0cacf564dd5c713dc437cdd219d6b6c0" title="m0_cob_bc_entries_dump" alt="" coords="208,208,399,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#ga51d9713ae3a4e51d62e40021523e47f3" title="m0_cob_iterator_next" alt="" coords="221,259,385,285"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#ga0380ac13e09d11b569b098d80cf1377c" title="m0_cob_ea_iterator_next" alt="" coords="210,309,397,336"/>
+<area shape="rect" id="node9" href="$d2/db5/db_8c.html#a3ac104730e43ebffcdec4c3586744f9e" title="confdb_objs_count" alt="" coords="232,360,375,387"/>
+<area shape="rect" id="node10" href="$d2/db5/db_8c.html#a9d2cd186e6f4b52a4f340218685815c1" title="confx_fill" alt="" coords="263,411,344,437"/>
+</map>

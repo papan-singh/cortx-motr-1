@@ -1,0 +1,8 @@
+<map id="m0_xc_m0_bufs_struct_init" name="m0_xc_m0_bufs_struct_init">
+<area shape="rect" id="node2" href="$d9/d80/conf_2onwire__xc_8h.html#a2fb2db1848e91daa8eebc0b64be3c777" title="m0_xc_m0_confx_root\l_struct_init" alt="" coords="264,5,433,47"/>
+<area shape="rect" id="node3" href="$d9/d80/conf_2onwire__xc_8h.html#afeb005587ca31ef6a4cd90075a026d5d" title="m0_xc_m0_confx_service\l_struct_init" alt="" coords="253,71,444,112"/>
+<area shape="rect" id="node4" href="$d9/d80/conf_2onwire__xc_8h.html#a8252873320e6132544390bd8e5657e43" title="m0_xc_m0_confx_fdmi\l_filter_struct_init" alt="" coords="262,136,435,177"/>
+<area shape="rect" id="node5" href="$d3/df4/entrypoint__fops__xc_8h.html#a53c6e844707cb41560718dd417085727" title="m0_xc_m0_ha_entrypoint\l_rep_fop_struct_init" alt="" coords="253,201,444,243"/>
+<area shape="rect" id="node6" href="$dd/df7/buf__xc_8h.html#a3628bf69cbae11bbd8227b8f010e14cb" title="m0_xc_lib_buf_init" alt="" coords="277,267,421,294"/>
+<area shape="rect" id="node7" href="$d9/dce/process__fops__xc_8h.html#afd9429d2c387f470a4b004e6a64ab1a0" title="m0_xc_m0_ss_process\l_svc_list_rep_struct_init" alt="" coords="259,319,438,360"/>
+</map>

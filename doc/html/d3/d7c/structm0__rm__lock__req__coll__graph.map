@@ -1,0 +1,5 @@
+<map id="m0_rm_lock_req" name="m0_rm_lock_req">
+<area shape="rect" id="node2" href="$d0/d12/structm0__chan.html" title="{m0_chan\n||}" alt="" coords="106,145,188,223"/>
+<area shape="rect" id="node3" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="41,5,133,83"/>
+<area shape="rect" id="node5" href="$d3/db4/structm0__rm__incoming.html" title="{m0_rm_incoming\n||}" alt="" coords="310,145,445,223"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="test_bitmap_onwire" name="test_bitmap_onwire">
+<area shape="rect" id="node2" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="229,5,353,32"/>
+<area shape="rect" id="node3" href="$df/df3/group__bitmap.html#gaff8a25aa0c262e35cc2b260b51d2ace0" title="m0_bitmap_set" alt="" coords="230,56,353,83"/>
+<area shape="rect" id="node4" href="$df/df3/group__bitmap.html#ga8530cc649c5a39b3440ba0eebfbd4be4" title="m0_bitmap_onwire_init" alt="" coords="204,107,379,133"/>
+<area shape="rect" id="node5" href="$df/df3/group__bitmap.html#ga352a2aef4b0e72a22713557e5dfc9379" title="m0_bitmap_store" alt="" coords="223,157,359,184"/>
+<area shape="rect" id="node6" href="$df/df3/group__bitmap.html#ga342ec39b30a5636d85c307fd615bc78b" title="m0_bitmap_load" alt="" coords="226,208,357,235"/>
+<area shape="rect" id="node7" href="$df/df3/group__bitmap.html#ga0e2870d0310664efdf37a687856a5605" title="m0_bitmap_get" alt="" coords="229,259,353,285"/>
+<area shape="rect" id="node8" href="$df/df3/group__bitmap.html#ga0bd81180cdf7ef9abfb814a99fd9377a" title="m0_bitmap_fini" alt="" coords="230,309,353,336"/>
+<area shape="rect" id="node9" href="$df/df3/group__bitmap.html#ga36be48e5b43152633159f4279549ab9f" title="m0_bitmap_onwire_fini" alt="" coords="204,360,379,387"/>
+</map>

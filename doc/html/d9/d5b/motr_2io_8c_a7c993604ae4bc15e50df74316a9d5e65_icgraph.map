@@ -1,0 +1,8 @@
+<map id="ioo_to_poolmach" name="ioo_to_poolmach">
+<area shape="rect" id="node2" href="$de/df0/io__nw__xfer_8c.html#a9fab9cebdf8ecfa19dcb1e3f87dc0959" title="target_fid" alt="" coords="220,5,304,32"/>
+<area shape="rect" id="node3" href="$de/df0/io__nw__xfer_8c.html#a868fe96209a5da63122469af0fea932b" title="nw_xfer_tioreq_map" alt="" coords="385,31,540,57"/>
+<area shape="rect" id="node4" href="$db/d27/io__pargrp_8c.html#a186628c6b5a9dad614b0f83a623e7499" title="unit_state" alt="" coords="219,107,305,133"/>
+<area shape="rect" id="node5" href="$db/d27/io__pargrp_8c.html#a01fce546f1c0808833f988e7fc9232bb" title="io_spare_map" alt="" coords="406,157,519,184"/>
+<area shape="rect" id="node6" href="$db/d27/io__pargrp_8c.html#a75e9fd9a25ca52124e795bd76d4844fd" title="pargrp_iomap_dgmode\l_process" alt="" coords="588,175,760,217"/>
+<area shape="rect" id="node7" href="$d7/dde/io__req_8c.html#add82857135356cd005afff40da7c1b84" title="ioreq_dgmode_read" alt="" coords="187,259,337,285"/>
+</map>

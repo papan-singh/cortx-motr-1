@@ -1,0 +1,8 @@
+<map id="rconfc_conf_load_fini" name="rconfc_conf_load_fini">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="473,32,535,59"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga7397c535e62e2938d43720d036a67842" title="m0_confc_gate_ops_set" alt="" coords="223,184,401,211"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga9a2fa01246186bdda5eb7d804b5a754d" title="rconfc_idle" alt="" coords="265,32,359,59"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="460,83,548,110"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#ga37242dcf201fc3a4555faa33dc7f74d7" title="rconfc_fail" alt="" coords="267,83,357,110"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#ga6673129331a1922c11eb309bda789423" title="rconfc_load_ast_thread_fini" alt="" coords="212,235,412,262"/>
+</map>

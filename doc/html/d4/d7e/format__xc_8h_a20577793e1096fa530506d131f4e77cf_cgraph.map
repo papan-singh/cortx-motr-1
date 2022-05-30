@@ -1,0 +1,8 @@
+<map id="m0_xc_format_format_init" name="m0_xc_format_format_init">
+<area shape="rect" id="node2" href="$d6/d75/format__xc_8c.html#a52250ed965a66f87fb2ac4096a1962a4" title="m0_xc_m0_format_header\l_struct_init" alt="" coords="269,5,465,47"/>
+<area shape="rect" id="node3" href="$d6/d75/format__xc_8c.html#a36639a1b3184b10c3b91a86f92f4e671" title="m0_xc_m0_format_footer\l_struct_init" alt="" coords="271,71,462,112"/>
+<area shape="rect" id="node4" href="$d6/d75/format__xc_8c.html#ab1ddb622b8935dc68ef7f33e81879484" title="m0_xc_m0_be_mutex_struct_init" alt="" coords="248,137,485,163"/>
+<area shape="rect" id="node5" href="$d6/d75/format__xc_8c.html#a4ba7e7d2cca119622e1b0529dfd54d46" title="m0_xc_m0_be_rwlock\l_struct_init" alt="" coords="283,188,450,229"/>
+<area shape="rect" id="node6" href="$d6/d75/format__xc_8c.html#a124a738e0f3c54fcffca4840f28ce1bd" title="m0_xc_m0_be_clink_struct_init" alt="" coords="253,254,480,281"/>
+<area shape="rect" id="node7" href="$d6/d75/format__xc_8c.html#a3bdafbdcc1cc66086552f904a478835e" title="m0_xc_m0_be_chan_struct_init" alt="" coords="253,305,480,331"/>
+</map>

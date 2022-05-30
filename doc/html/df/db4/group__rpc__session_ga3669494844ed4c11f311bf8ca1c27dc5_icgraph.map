@@ -1,0 +1,5 @@
+<map id="m0_rpc_conn_remove_session" name="m0_rpc_conn_remove_session">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#ga72446434bd5e8641e60550f84072b80d" title="m0_rpc_session_search\l_and_pop" alt="" coords="219,5,395,47"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga4ee92110551d05dfeacede5755ccca64" title="m0_rpc_session_pop" alt="" coords="228,71,385,98"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga0695867ab64bcef425ea4bb8b7c28542" title="m0_rpc_session_fini\l_locked" alt="" coords="230,123,383,164"/>
+</map>

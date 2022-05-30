@@ -1,0 +1,13 @@
+<map id="copy_value" name="copy_value">
+<area shape="rect" id="node2" href="$d1/d22/logger_8c.html#a0471c90e4daf3e4f1a2bce155374beac" title="cr_log" alt="" coords="540,271,601,297"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="187,43,268,69"/>
+<area shape="rect" id="node4" href="$d8/d88/motr_2m0crate_2parser_8c.html#a5c2fc0b1dadd643d568457a86b228e6e" title="get_index_from_key" alt="" coords="150,93,305,120"/>
+<area shape="rect" id="node5" href="$d1/dc0/group__crate__utils.html#gaf79f543de8d420b27f2367b8c5854602" title="getnum" alt="" coords="387,144,459,171"/>
+<area shape="rect" id="node6" href="$d8/d88/motr_2m0crate_2parser_8c.html#ae30380e695fa1975ac521ee1ee1f28a5" title="parse_int" alt="" coords="186,245,269,272"/>
+<area shape="rect" id="node7" href="$d8/d88/motr_2m0crate_2parser_8c.html#a1752165b2b55deed3940e6aece9361e7" title="parser_emit_error" alt="" coords="353,195,492,221"/>
+<area shape="rect" id="node8" href="$d6/dd8/namespacehist.html#a3ac6e02777362ad7f161c50ff240db47" title="hist.load" alt="" coords="188,296,267,323"/>
+<area shape="rect" id="node9" href="$dc/d7e/group__desim.html#ga4f339b5ef8a1449debbba88af654c67c" title="workload_init" alt="" coords="172,347,283,373"/>
+<area shape="rect" id="node10" href="$d8/d88/motr_2m0crate_2parser_8c.html#a685abb784e5a6edae220c76f9d0b1bbd" title="parse_int_with_units" alt="" coords="149,144,305,171"/>
+<area shape="rect" id="node11" href="$d9/d7d/group__time.html#gaa8beed913080475991e2d54285538fac" title="m0_time" alt="" coords="187,448,267,475"/>
+<area shape="rect" id="node12" href="$dd/d5f/group__fid.html#ga273c302062c24b90e9edd680a772552e" title="m0_fid_sscanf" alt="" coords="170,499,285,525"/>
+</map>

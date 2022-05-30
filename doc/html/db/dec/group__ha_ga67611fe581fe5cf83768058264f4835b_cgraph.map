@@ -1,0 +1,22 @@
+<map id="m0_ha_ut_ha_usecase" name="m0_ha_ut_ha_usecase">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#gafd7342a48d9d44929bb48eabc93ce0e0" title="m0_ha_ut_rpc_ctx_init" alt="" coords="249,5,417,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="273,56,393,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gaf976c3b2587bd1975efbfe2c048c202b" title="m0_rpc_machine_ep" alt="" coords="255,107,411,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gaedb93e14d2ea7f758b6e16c0eccbf41d" title="m0_ha_init" alt="" coords="286,157,381,184"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#gadeb26739822db1217e8f920ef5d9af7d" title="m0_ha_start" alt="" coords="282,208,385,235"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga5f5aa5717aaeea3cefb3152ec0002d3e" title="m0_ha_connect" alt="" coords="271,259,395,285"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="279,309,388,336"/>
+<area shape="rect" id="node9" href="$db/dec/group__ha.html#gad94dc6b2cbc9cad5381559dbf13c9010" title="ha_ut_ha_wait_available" alt="" coords="242,360,425,387"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="260,411,407,437"/>
+<area shape="rect" id="node11" href="$db/dec/group__ha.html#gad3bb5be16db0e0f073e8f3f469a635b6" title="m0_ha_entrypoint_client_chan" alt="" coords="223,461,444,488"/>
+<area shape="rect" id="node12" href="$db/dec/group__ha.html#ga70c1cf2656d414cd53e58675045c66e9" title="m0_ha_entrypoint_client\l_request" alt="" coords="242,513,425,554"/>
+<area shape="rect" id="node13" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="275,579,391,605"/>
+<area shape="rect" id="node14" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="262,629,405,656"/>
+<area shape="rect" id="node15" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="279,680,387,707"/>
+<area shape="rect" id="node16" href="$db/dec/group__ha.html#ga56162f9020c04affa7ec9d901e3d16ec" title="m0_ha_disconnect" alt="" coords="262,731,405,757"/>
+<area shape="rect" id="node17" href="$db/dec/group__ha.html#ga735a0fd9c107c412ab41c8defe01d40c" title="m0_ha_stop" alt="" coords="283,781,384,808"/>
+<area shape="rect" id="node18" href="$db/dec/group__ha.html#ga16025e580548dbb17ac31b6cfe55c232" title="m0_ha_fini" alt="" coords="287,832,380,859"/>
+<area shape="rect" id="node19" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="274,883,393,909"/>
+<area shape="rect" id="node20" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="295,933,371,960"/>
+<area shape="rect" id="node21" href="$db/dec/group__ha.html#gaede531878205b1e7c812f8ae1f1c9ae2" title="m0_ha_ut_rpc_ctx_fini" alt="" coords="250,984,417,1011"/>
+</map>

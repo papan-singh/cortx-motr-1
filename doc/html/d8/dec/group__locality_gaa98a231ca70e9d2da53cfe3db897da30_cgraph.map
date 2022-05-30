@@ -1,0 +1,11 @@
+<map id="m0_localities_init" name="m0_localities_init">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="399,17,519,44"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga55da3ef5ff05304cd47d492fe423c496" title="m0_sm_group_init" alt="" coords="199,43,342,69"/>
+<area shape="rect" id="node4" href="$d8/dec/group__locality.html#ga875a7a9f0c46345d024baabacab01f0d" title="m0_locality_init" alt="" coords="207,93,334,120"/>
+<area shape="rect" id="node5" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="235,144,306,171"/>
+<area shape="rect" id="node6" href="$d8/dec/group__locality.html#ga08e1cdef9e4f1550a9059bf661261c8f" title="ast_thread_init" alt="" coords="211,195,330,221"/>
+<area shape="rect" id="node7" href="$d8/dec/group__locality.html#gafd6fb31961c4a50dfc121e4d590fb6d6" title="locs_ast_handler" alt="" coords="205,245,336,272"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga1b49b821f4223167c7b660d3ad40d72a" title="m0_fom_domain_init" alt="" coords="191,347,351,373"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="421,308,496,335"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="421,372,497,399"/>
+</map>

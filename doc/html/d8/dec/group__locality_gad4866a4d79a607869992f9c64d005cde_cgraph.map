@@ -1,0 +1,10 @@
+<map id="m0_locality_chore_init" name="m0_locality_chore_init">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#ga06d4564f5ae52cb260906e0d610cb374" title="loc_glob" alt="" coords="439,13,515,40"/>
+<area shape="rect" id="node3" href="$d8/dec/group__locality.html#ga77e23fc62e1125b9881363f6aeb509d8" title="m0_fom_dom" alt="" coords="251,38,363,65"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="247,89,367,116"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="252,140,361,166"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="243,190,370,217"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="235,241,378,268"/>
+<area shape="rect" id="node8" href="$d8/dec/group__locality.html#gad3def840578faa339e3a08557db2a686" title="chore_add_all" alt="" coords="251,292,363,318"/>
+<area shape="rect" id="node9" href="$d8/dec/group__locality.html#ga0830e91baf683769513f74c036f3f94c" title="m0_locality_chore_fini" alt="" coords="223,342,391,369"/>
+</map>

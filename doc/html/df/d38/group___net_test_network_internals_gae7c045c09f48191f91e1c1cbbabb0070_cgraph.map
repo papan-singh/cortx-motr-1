@@ -1,0 +1,7 @@
+<map id="network_bd_serialize" name="network_bd_serialize">
+<area shape="rect" id="node2" href="$dc/d26/group___net_test_serialize_internals.html#ga5e15fafa5e8e8ee832012c09df7312ef" title="m0_net_test_serialize" alt="" coords="231,5,397,32"/>
+<area shape="rect" id="node3" href="$d1/d19/group___net_test_serialize_d_f_s.html#gadc27b5a418767cd9732f8abd1b3f9fd9" title="net_test_len_accumulate" alt="" coords="463,31,648,57"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="276,107,352,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="273,157,355,184"/>
+<area shape="rect" id="node6" href="$dc/d26/group___net_test_serialize_internals.html#gac03aac7383c7eb65a192a016da170825" title="m0_net_test_serialize_data" alt="" coords="213,208,415,235"/>
+</map>

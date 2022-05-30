@@ -1,0 +1,28 @@
+<map id="m0__op_instance" name="m0__op_instance">
+<area shape="rect" id="node2" href="$d4/dc1/motr_2io_8h.html#a7c993604ae4bc15e50df74316a9d5e65" title="ioo_to_poolmach" alt="" coords="230,5,363,32"/>
+<area shape="rect" id="node3" href="$d9/d5b/motr_2io_8c.html#a85aa71fd1dd8bd2eed8eff5ba6944ac8" title="m0__obj_is_cksum_validation\l_allowed" alt="" coords="188,158,405,199"/>
+<area shape="rect" id="node4" href="$dc/d83/io__req__fop_8c.html#ab71e27c7d8d75e2858f8f53deed8fe14" title="io_bottom_half" alt="" coords="499,107,619,133"/>
+<area shape="rect" id="node5" href="$d7/dcd/motr_2client__internal_8h.html#a95d835f22f66e52e5ff327665b6a35ca" title="m0_op_stable" alt="" coords="240,493,353,520"/>
+<area shape="rect" id="node6" href="$d7/dde/io__req_8c.html#ada3301b2c5cb457edd58779f099f83c7" title="ioreq_iosm_handle_executed" alt="" coords="453,359,665,385"/>
+<area shape="rect" id="node7" href="$d7/dcd/motr_2client__internal_8h.html#a28ecb243a3ccc4a8314a9534e1ca835d" title="m0_op_failed" alt="" coords="241,275,352,301"/>
+<area shape="rect" id="node8" href="$d6/db6/motr_2client_8c.html#a16b4a6ba8da885fc83fecb7900c09cc4" title="m0_op_launch_one" alt="" coords="223,325,370,352"/>
+<area shape="rect" id="node9" href="$de/df0/io__nw__xfer_8c.html#aa6dfefa6688da18e6d1fa43cf7dafde3" title="target_session" alt="" coords="238,376,355,403"/>
+<area shape="rect" id="node10" href="$de/df0/io__nw__xfer_8c.html#aa4335ac7529536ab734631137a5de987" title="target_ioreq_iofops\l_prepare" alt="" coords="223,427,371,469"/>
+<area shape="rect" id="node11" href="$de/df0/io__nw__xfer_8c.html#a5746d58c55587730f5bd92eaf416e284" title="target_ioreq_init" alt="" coords="232,1379,361,1405"/>
+<area shape="rect" id="node12" href="$de/df0/io__nw__xfer_8c.html#a65d27f4a75ac9060e9b361e5a92be248" title="nw_xfer_tioreq_get" alt="" coords="486,961,633,988"/>
+<area shape="rect" id="node13" href="$de/df0/io__nw__xfer_8c.html#a2f691720efc8e91ab45fd7e7a680353a" title="nw_xfer_io_distribute" alt="" coords="215,595,378,621"/>
+<area shape="rect" id="node14" href="$de/df0/io__nw__xfer_8c.html#a8fc25e92271895c0d81c35f244d5d6a0" title="nw_xfer_req_complete" alt="" coords="211,645,382,672"/>
+<area shape="rect" id="node15" href="$de/df0/io__nw__xfer_8c.html#aa4bf7cbec21e370bb79fc606e8fa5801" title="nw_xfer_req_dispatch" alt="" coords="215,696,379,723"/>
+<area shape="rect" id="node16" href="$db/d27/io__pargrp_8c.html#a191271ce1e40957aeb50518f9f4cae11" title="pargrp_iomap_populate" alt="" coords="209,747,385,773"/>
+<area shape="rect" id="node17" href="$db/d27/io__pargrp_8c.html#a14ec11ba28525c4a55f45607117bd16f" title="pargrp_iomap_parity\l_recalc" alt="" coords="218,798,375,839"/>
+<area shape="rect" id="node18" href="$db/d27/io__pargrp_8c.html#af2c6d329476b15854518e634afd533d5" title="pargrp_iomap_paritybufs\l_alloc" alt="" coords="204,863,389,905"/>
+<area shape="rect" id="node19" href="$db/d27/io__pargrp_8c.html#a801e2903673a15e9fc733a3fc9dc2535" title="pargrp_iomap_dgmode\l_postprocess" alt="" coords="211,929,383,970"/>
+<area shape="rect" id="node20" href="$db/d27/io__pargrp_8c.html#a5d099ad5d9bd8438c7f3a1c30319a75b" title="pargrp_iomap_replica\l_elect" alt="" coords="215,994,378,1035"/>
+<area shape="rect" id="node21" href="$db/d27/io__pargrp_8c.html#ad6e99c93cf477d1b68d6a6cec2f5e909" title="pargrp_iomap_parity\l_verify" alt="" coords="218,1059,375,1101"/>
+<area shape="rect" id="node22" href="$db/d27/io__pargrp_8c.html#a245314a460317e446c6dc396785b3477" title="pargrp_iomap_init" alt="" coords="227,1125,367,1152"/>
+<area shape="rect" id="node23" href="$db/d27/io__pargrp_8c.html#ac607c5593b67f8aa5814b50264c9a571" title="pargrp_iomap_fini" alt="" coords="227,1176,366,1203"/>
+<area shape="rect" id="node24" href="$d7/dde/io__req_8c.html#a24a9bdd477fc8cee6d0fdbab3490f9dc" title="set_paritybuf_type" alt="" coords="225,1227,369,1253"/>
+<area shape="rect" id="node25" href="$d7/dde/io__req_8c.html#ae9e72a731d2ec6b218854d6adeba043e" title="device_check" alt="" coords="241,1277,352,1304"/>
+<area shape="rect" id="node26" href="$d7/dde/io__req_8c.html#ad8ed1fb1e9b0e6190d0ef976f7f1dee8" title="ioreq_parity_verify" alt="" coords="224,1328,369,1355"/>
+<area shape="rect" id="node27" href="$dc/d83/io__req__fop_8c.html#afcbc9d76ea157b0a53034b02a4fc9ec6" title="should_ioreq_sm_complete" alt="" coords="197,107,397,133"/>
+</map>

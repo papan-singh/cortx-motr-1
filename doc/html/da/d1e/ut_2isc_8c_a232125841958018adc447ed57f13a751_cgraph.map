@@ -1,0 +1,14 @@
+<map id="test_register" name="test_register">
+<area shape="rect" id="node2" href="$da/d1e/ut_2isc_8c.html#a17fb021b480a1f220d2579807fa2e398" title="init" alt="" coords="233,5,276,32"/>
+<area shape="rect" id="node3" href="$dd/d5f/group__fid.html#ga93e17e15f5e23270b07c6bf65f41e499" title="m0_fid_set" alt="" coords="437,81,531,108"/>
+<area shape="rect" id="node4" href="$d6/d85/group__iscservice.html#ga6b15fb2986f99384e1b300f9b223d2b1" title="m0_isc_comp_register" alt="" coords="400,220,568,247"/>
+<area shape="rect" id="node5" href="$da/d1e/ut_2isc_8c.html#a6fea67784b6b4c2d2213767c4d866fc2" title="null_computation" alt="" coords="417,385,551,412"/>
+<area shape="rect" id="node6" href="$d6/d85/group__iscservice.html#ga705cbb40c9f6113c243ca6ee697ecc59" title="m0_isc_comp_state_probe" alt="" coords="157,208,352,235"/>
+<area shape="rect" id="node7" href="$d6/d85/group__iscservice.html#gaccd2f20ff70f866b42e6321084afd8fa" title="m0_isc_comp_unregister" alt="" coords="163,259,347,285"/>
+<area shape="rect" id="node8" href="$d3/def/iscservice_2ut_2common_8c.html#a7aa34410c8cb5202499b5b434b151115" title="cc_block_init" alt="" coords="201,309,308,336"/>
+<area shape="rect" id="node9" href="$da/d1e/ut_2isc_8c.html#a9a645d1fc37b3655820d06f12b2e57f0" title="fid_set" alt="" coords="222,107,287,133"/>
+<area shape="rect" id="node10" href="$d3/def/iscservice_2ut_2common_8c.html#aaa874ee71e5dfe5e856e6eee04a8cf9c" title="cc_block_launch" alt="" coords="191,461,319,488"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="446,487,522,513"/>
+<area shape="rect" id="node12" href="$da/d1e/ut_2isc_8c.html#a556c369200b8bca841086f1bec472c72" title="comp_register" alt="" coords="197,360,312,387"/>
+<area shape="rect" id="node13" href="$da/d1e/ut_2isc_8c.html#a5337c3b3d4bf64ab7d63589fd6c79035" title="fini" alt="" coords="233,563,276,589"/>
+</map>

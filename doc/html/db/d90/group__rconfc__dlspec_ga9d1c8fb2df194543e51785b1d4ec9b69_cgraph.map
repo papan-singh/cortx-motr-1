@@ -1,0 +1,17 @@
+<map id="rconfc_version_elected" name="rconfc_version_elected">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="703,340,765,366"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#gaccd01aa86fa643a5ed9927174b066a3a" title="rconfc_is_locked" alt="" coords="512,416,643,442"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga2f9a2160f97d69667a7fb99370715108" title="rconfc_herd_cctxs_fini" alt="" coords="255,213,422,240"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="533,162,621,189"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#gaf4bb017ba0433bb164c8cd696df89128" title="rconfc_quorum_is_reached" alt="" coords="241,365,437,392"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#ga70de144f1a092217192b3965ca3522b0" title="rconfc_conductor_engage" alt="" coords="245,466,433,493"/>
+<area shape="rect" id="node8" href="$d5/d25/group__confc__dlspec.html#gaba17e47832aa4f32f86a3ba5d77463fe" title="m0_confc_is_inited" alt="" coords="504,517,651,544"/>
+<area shape="rect" id="node9" href="$db/d90/group__rconfc__dlspec.html#gaf67c5010b8dc67f9410cce1a906f36d0" title="rconfc_herd_destroy" alt="" coords="500,314,655,341"/>
+<area shape="rect" id="node10" href="$db/dec/group__ha.html#ga58ee0db498285197a79e3df09a11528b" title="m0_ha_client_del" alt="" coords="271,618,407,645"/>
+<area shape="rect" id="node11" href="$d5/d25/group__confc__dlspec.html#ga246f8e1e88c76a3045fa0762fd5712ed" title="m0_confc_fini" alt="" coords="283,162,395,189"/>
+<area shape="rect" id="node12" href="$db/d90/group__rconfc__dlspec.html#ga773b83842608e7994de0a7a16fa30b6d" title="rconfc_conductor_disconnected" alt="" coords="225,264,452,290"/>
+<area shape="rect" id="node13" href="$d5/d25/group__confc__dlspec.html#ga7397c535e62e2938d43720d036a67842" title="m0_confc_gate_ops_set" alt="" coords="249,669,428,696"/>
+<area shape="rect" id="node14" href="$db/d90/group__rconfc__dlspec.html#ga3135666601237aee1bec7e928bee6f33" title="rconfc_conf_full_load" alt="" coords="259,61,419,88"/>
+<area shape="rect" id="node15" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="511,24,643,50"/>
+<area shape="rect" id="node16" href="$db/d90/group__rconfc__dlspec.html#gaf7b776039bbd81595510404fcc14fa9b" title="rconfc_load_ast_thread_init" alt="" coords="238,720,439,746"/>
+</map>

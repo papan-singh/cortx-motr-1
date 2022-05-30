@@ -1,0 +1,23 @@
+<map id="m0_buf_copy" name="m0_buf_copy">
+<area shape="rect" id="node2" href="$d0/d60/cas_2service_8c.html#a57b990e1e5a3275a82ac9f8ba7967990" title="cas_place" alt="" coords="218,5,305,32"/>
+<area shape="rect" id="node3" href="$db/de1/dtm0__log_8c.html#ac004381feedbb3f7bbc9cd5615c0184a" title="log_rec_init" alt="" coords="213,56,310,83"/>
+<area shape="rect" id="node4" href="$db/de1/dtm0__log_8c.html#a3b5be1586edfde4f0fc8f8e7959fb131" title="dtm0_log__set" alt="" coords="203,107,320,133"/>
+<area shape="rect" id="node5" href="$de/d0c/group___d_t_m0_internals.html#gabe8bb880cfbb937e5f93405dc50d80b3" title="m0_dtm0_log_rec_copy" alt="" coords="173,157,349,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gab3c1e0dbef55a67a6aa9d9dfa36119b4" title="m0_be_tx_reconstruct" alt="" coords="178,208,345,235"/>
+<area shape="rect" id="node7" href="$d9/d21/group__cas-ctg-store.html#ga4ef0544b2e045e62ab2a80b5b183728a" title="m0_ctg_lookup_delete" alt="" coords="177,259,346,285"/>
+<area shape="rect" id="node8" href="$db/d71/dix_2ut_2client__ut_8c.html#a4acf8d68d339abefdf3a551dc3278cd5" title="dix_common_rec_op" alt="" coords="183,309,339,336"/>
+<area shape="rect" id="node9" href="$d4/d44/group__cas.html#ga806c640ded85ecb3b68f379d2f71e214" title="at_inline_fill" alt="" coords="211,360,312,387"/>
+<area shape="rect" id="node10" href="$d3/de4/fdmi__filter_8c.html#a1bf36b09049b6e5ddfd73c36ccd93cf6" title="fdmi_filter_encode" alt="" coords="408,680,551,707"/>
+<area shape="rect" id="node11" href="$d0/d85/process_8c.html#a3b265114ce56843883d0f75cdeab27e7" title="process_encode" alt="" coords="198,461,325,488"/>
+<area shape="rect" id="node12" href="$d4/d7c/sdev_8c.html#a972047604eaf843d368f5e8a5c3bc952" title="sdev_encode" alt="" coords="208,512,315,539"/>
+<area shape="rect" id="node13" href="$de/d70/group___d_i_x_c_m.html#ga699556222d6354c65850d17429197b25" title="dix_cm_iter_buf_copy" alt="" coords="179,563,343,589"/>
+<area shape="rect" id="node14" href="$db/d1b/drlink_8c.html#afcda21fe0ae533a979c5c555b333c4be" title="dtm0_req_fop_dup" alt="" coords="190,613,333,640"/>
+<area shape="rect" id="node15" href="$d2/dd9/rpc_2ub_2fops_8c.html#a20aea6fe26da81f44693e4de16a4a656" title="ub_req_fom_tick" alt="" coords="196,664,327,691"/>
+<area shape="rect" id="node16" href="$db/dec/group__ha.html#ga8c5d64dda09ea27502018af50c898214" title="m0_ha_entrypoint_rep2fop" alt="" coords="163,715,360,741"/>
+<area shape="rect" id="node17" href="$db/d53/bulkio__ut_8c.html#af0cd40562e76e86bab20068b581b2383" title="bulkio_server_write\l_fom_tick" alt="" coords="186,766,337,807"/>
+<area shape="rect" id="node18" href="$db/d53/bulkio__ut_8c.html#a17f5ab05b35fa0bfd8420c86eb3ab7f2" title="bulkio_server_write\l_fol_rec_undo_verify" alt="" coords="183,831,340,873"/>
+<area shape="rect" id="node19" href="$d6/d85/group__iscservice.html#ga1cb0e45e076326b888b93ceb9610f8ff" title="m0_isc_comp_req_init" alt="" coords="178,897,345,924"/>
+<area shape="rect" id="node20" href="$d8/d64/group__buf.html#gab287d06ca2b81af392d10d62daebf434" title="m0_bufs_from_strings" alt="" coords="178,948,345,975"/>
+<area shape="rect" id="node21" href="$d0/d11/lib_2ut_2main_8c.html#aa8b14ea789b3c6dc9a07c4c88f35e7cc" title="m0_ut_lib_buf_test" alt="" coords="188,999,335,1025"/>
+<area shape="rect" id="node22" href="$d2/d39/ss__svc_8c.html#a849358a0b92877c90bad65c89ee2720a" title="ss_fom_tick__svc_alloc" alt="" coords="174,1049,349,1076"/>
+</map>

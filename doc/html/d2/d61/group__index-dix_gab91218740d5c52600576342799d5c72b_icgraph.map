@@ -1,0 +1,10 @@
+<map id="dix_req_exec" name="dix_req_exec">
+<area shape="rect" id="node2" href="$d2/d61/group__index-dix.html#gad465aeee53ed5c50fd12270feeb8c636" title="dix_index_create" alt="" coords="163,5,296,32"/>
+<area shape="rect" id="node3" href="$d2/d61/group__index-dix.html#ga46b00ea10bde65691446c1f2e62f30b7" title="dix_index_delete" alt="" coords="163,56,296,83"/>
+<area shape="rect" id="node4" href="$d2/d61/group__index-dix.html#gabceeae5f4b25adfe054ea47773991dcc" title="dix_index_lookup" alt="" coords="161,107,297,133"/>
+<area shape="rect" id="node5" href="$d2/d61/group__index-dix.html#ga188bc55216a5422c761c8094dcfc7f92" title="dix_index_list" alt="" coords="173,157,285,184"/>
+<area shape="rect" id="node6" href="$d2/d61/group__index-dix.html#ga1611b41518b39984da0e4e3bc68ff42d" title="dix_put" alt="" coords="194,208,265,235"/>
+<area shape="rect" id="node7" href="$d2/d61/group__index-dix.html#gac1348c2664d702b1cf6c43fd49d3d28b" title="dix_get" alt="" coords="194,259,265,285"/>
+<area shape="rect" id="node8" href="$d2/d61/group__index-dix.html#gad313163f724c399c81999c7843bad3ec" title="dix_del" alt="" coords="195,309,264,336"/>
+<area shape="rect" id="node9" href="$d2/d61/group__index-dix.html#ga0e88613bea97a4ec81a178c0af43f3a5" title="dix_next" alt="" coords="190,360,269,387"/>
+</map>

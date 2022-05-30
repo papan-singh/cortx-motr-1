@@ -1,0 +1,7 @@
+<map id="is_log_rotation_needed" name="is_log_rotation_needed">
+<area shape="rect" id="node2" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="417,135,532,162"/>
+<area shape="rect" id="node3" href="$d9/d7d/group__time.html#ga1011dd8f416435c5a5d0f0f7f98d754d" title="m0_time_sub" alt="" coords="243,34,353,61"/>
+<area shape="rect" id="node4" href="$d9/d7d/group__time.html#gacfac2ac7f95e189a0202dca2335cc423" title="m0_time_seconds" alt="" coords="228,85,368,111"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="235,135,361,162"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="227,186,369,213"/>
+</map>

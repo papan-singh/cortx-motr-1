@@ -1,0 +1,10 @@
+<map id="stobio_init" name="stobio_init">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga73edd9e177abafdf4b508ffb2b467218" title="m0_stob_id_make" alt="" coords="164,5,305,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#ga7beeba62c9004164b99c898d14cdf729" title="m0_stob_domain_id_get" alt="" coords="144,56,325,83"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#gaa6b83e28f137dbf105b2879f854e28fa" title="m0_stob_find" alt="" coords="180,107,289,133"/>
+<area shape="rect" id="node5" href="$dc/da5/stobio_8c.html#a2e22102a17a1aef59c17030bedfd9638" title="stob_dev_init" alt="" coords="180,157,289,184"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#ga56160fb005c7a5e49471b61ff48271d4" title="m0_stob_locate" alt="" coords="172,208,297,235"/>
+<area shape="rect" id="node7" href="$da/dda/group__utstob.html#ga8fc0f60606d088767c1b55e55a091451" title="m0_ut_stob_create" alt="" coords="161,259,308,285"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#ga41c9d7821c6eb59f2d7052b1fce5b490" title="m0_stob_block_shift" alt="" coords="157,309,313,336"/>
+<area shape="rect" id="node9" href="$dc/da5/stobio_8c.html#aa58e05aec181edc188b9c49fca552efc" title="stobio_rw_buffs_init" alt="" coords="159,360,311,387"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="pool/pool.c" name="pool/pool.c">
+<area shape="rect" id="node2" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="34,80,121,107"/>
+<area shape="rect" id="node3" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="62,155,147,181"/>
+<area shape="rect" id="node4" href="$da/d66/string_8h.html" title="string.h" alt="" coords="28,229,98,256"/>
+<area shape="rect" id="node5" href="$dc/da7/assert_8h.html" title="lib/assert.h" alt="" coords="188,229,282,256"/>
+<area shape="rect" id="node6" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="428,80,516,107"/>
+<area shape="rect" id="node7" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="247,80,354,107"/>
+<area shape="rect" id="node8" href="$dd/dc9/finject_8h.html" title="lib/finject.h" alt="" coords="298,155,393,181"/>
+<area shape="rect" id="node9" href="$db/dfb/hash_8h.html" title="lib/hash.h" alt="" coords="564,80,650,107"/>
+<area shape="rect" id="node10" href="$d7/d14/confc_8h.html" title="conf/confc.h" alt="" coords="640,229,742,256"/>
+<area shape="rect" id="node11" href="$dc/d76/conf_2cache_8h.html" title="conf/cache.h" alt="" coords="535,304,639,331"/>
+<area shape="rect" id="node12" href="$d7/de3/schema_8h.html" title="conf/schema.h" alt="" coords="948,304,1066,331"/>
+<area shape="rect" id="node13" href="$d6/d88/diter_8h.html" title="conf/diter.h" alt="" coords="521,155,616,181"/>
+<area shape="rect" id="node14" href="$d3/dd7/obj__ops_8h.html" title="conf/obj_ops.h" alt="" coords="1362,80,1478,107"/>
+<area shape="rect" id="node15" href="$d2/d49/pvers_8h.html" title="conf/pvers.h" alt="" coords="640,155,742,181"/>
+<area shape="rect" id="node16" href="$df/d22/conf_2helpers_8h.html" title="conf/helpers.h" alt="" coords="1503,80,1618,107"/>
+<area shape="rect" id="node17" href="$d7/d27/reqh__service_8h.html" title="reqh/reqh_service.h" alt="" coords="989,229,1140,256"/>
+<area shape="rect" id="node18" href="$d7/d0c/reqh_8h.html" title="reqh/reqh.h" alt="" coords="818,155,914,181"/>
+<area shape="rect" id="node19" href="$d6/d29/rpc__machine_8h.html" title="rpc/rpc_machine.h" alt="" coords="1642,80,1783,107"/>
+<area shape="rect" id="node20" href="$d5/d85/entrypoint_8h.html" title="ha/entrypoint.h" alt="" coords="1288,229,1409,256"/>
+<area shape="rect" id="node21" href="$df/d7c/ha_2ha_8h.html" title="ha/ha.h" alt="" coords="1261,155,1332,181"/>
+<area shape="rect" id="node22" href="$d9/dda/instance_8h.html" title="module/instance.h" alt="" coords="1808,80,1950,107"/>
+<area shape="rect" id="node23" href="$d4/d20/pool_2pool_8h.html" title="pool/pool.h" alt="" coords="1090,155,1185,181"/>
+<area shape="rect" id="node24" href="$d7/dfb/fd_8h.html" title="fd/fd.h" alt="" coords="1178,229,1242,256"/>
+<area shape="rect" id="node25" href="$d0/d15/pool__fops_8h.html" title="pool/pool_fops.h" alt="" coords="1974,80,2104,107"/>
+<area shape="rect" id="node26" href="$d7/df7/setup_8h.html" title="motr/setup.h" alt="" coords="1029,80,1134,107"/>
+</map>

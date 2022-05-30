@@ -1,0 +1,6 @@
+<map id="m0_stob_io_bufvec_launch" name="m0_stob_io_bufvec_launch">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7f48c6d1c447462e1edb6658984f2209" title="it_read" alt="" coords="305,5,371,32"/>
+<area shape="rect" id="node3" href="$d7/de5/group__confd__stob.html#ga51c448525548acaca6aaac90408b5de3" title="m0_confd_stob_read" alt="" coords="259,56,417,83"/>
+<area shape="rect" id="node4" href="$d7/de5/group__confd__stob.html#ga98f27d26121aa116c2131bfb6743dbee" title="m0_confd_stob_bufvec\l_write" alt="" coords="252,107,424,149"/>
+<area shape="rect" id="node5" href="$d7/de5/group__confd__stob.html#gabf73e6c1c54b1668fdbf5ce03ab3d97a" title="m0_confd_stob_write" alt="" coords="257,173,419,200"/>
+</map>

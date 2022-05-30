@@ -1,0 +1,10 @@
+<map id="ctx_invariant" name="ctx_invariant">
+<area shape="rect" id="node2" href="$d0/dca/group__confc__dfspec.html#ga91bf72b4f1a8aac4121111c141d804d4" title="m0_confc_ctx_init" alt="" coords="193,5,333,32"/>
+<area shape="rect" id="node3" href="$d0/dca/group__confc__dfspec.html#gae63990a2b05b1ea540711250c34cf96b" title="m0_confc_ctx_fini_locked" alt="" coords="169,56,358,83"/>
+<area shape="rect" id="node4" href="$d0/dca/group__confc__dfspec.html#ga1fafd6a0b6fe36dda7a26e32d713cfdd" title="m0_confc_ctx_is_completed" alt="" coords="160,107,367,133"/>
+<area shape="rect" id="node5" href="$d0/dca/group__confc__dfspec.html#ga174008a1ed4337cf57da2f53faa7bfd3" title="m0_confc_ctx_result" alt="" coords="185,157,341,184"/>
+<area shape="rect" id="node6" href="$d0/dca/group__confc__dfspec.html#gaf6a3c51e583aa30e89602b1456a57aec" title="m0_confc__open" alt="" coords="198,208,329,235"/>
+<area shape="rect" id="node7" href="$d5/d25/group__confc__dlspec.html#ga784e9f03c814919df4810f9f276e8379" title="on_replied" alt="" coords="218,259,309,285"/>
+<area shape="rect" id="node8" href="$d5/d25/group__confc__dlspec.html#ga451862a1a6ca80865a9bdcbe007677e6" title="check_st_invariant" alt="" coords="191,309,335,336"/>
+<area shape="rect" id="node9" href="$d5/d25/group__confc__dlspec.html#ga12dac30882ea83f49d6b51e5c52f98e9" title="request_create" alt="" coords="204,360,323,387"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sys_invariant" name="sys_invariant">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="163,5,323,32"/>
+<area shape="rect" id="node3" href="$db/d41/group__kthread.html#ga830dd17058fdf40574ddf1a7ac057d50" title="m0_thread_tls" alt="" coords="185,56,300,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#ga9e3ff104ad65a926beb95ef064e68c2b" title="sys_size" alt="" coords="204,107,281,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="nlx_core_buf_deregister" name="nlx_core_buf_deregister">
+<area shape="rect" id="node2" href="$d8/de0/group___l_net_core.html#gad11c1a84c224954dec2763ca4e92efcb" title="nlx_core_buffer_invariant" alt="" coords="242,5,429,32"/>
+<area shape="rect" id="node3" href="$d6/d8a/group___k_l_net_core.html#ga36b3b25d27b479c6fa9ebe8cb1a9ebe8" title="nlx_kcore_buf_deregister" alt="" coords="242,56,429,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="487,81,563,108"/>
+<area shape="rect" id="node5" href="$d3/d35/group___u_l_net_core.html#gae03491e536a0dfc4dd5231889d5e5d09" title="nlx_ucore_domain_invariant" alt="" coords="232,157,439,184"/>
+<area shape="rect" id="node6" href="$d3/d35/group___u_l_net_core.html#gafe1d794210e9c7f55a1b1e99810bc3de" title="nlx_ucore_buffer_invariant" alt="" coords="238,208,433,235"/>
+<area shape="rect" id="node7" href="$d3/d35/group___u_l_net_core.html#ga03477b58c5db5c1fe1204969e32685cf" title="nlx_ucore_ioctl" alt="" coords="275,259,395,285"/>
+</map>

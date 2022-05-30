@@ -1,0 +1,20 @@
+<map id="m0_sns_cm_file_ctx" name="m0_sns_cm_file_ctx">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="346,158,438,235"/>
+<area shape="rect" id="node4" href="$d9/dc1/structm0__layout.html" title="{m0_layout\n||}" alt="" coords="343,564,433,641"/>
+<area shape="rect" id="node8" href="$d5/d77/structm0__sns__cm.html" title="{m0_sns_cm\n||}" alt="" coords="61,353,160,430"/>
+<area shape="rect" id="node14" href="$d5/d32/structm0__sm__group.html" title="{m0_sm_group\n||}" alt="" coords="723,353,837,430"/>
+<area shape="rect" id="node20" href="$d9/d8c/structm0__pdclust__instance.html" title="{m0_pdclust_instance\n||}" alt="" coords="539,353,698,430"/>
+<area shape="rect" id="node7" href="$d9/d8a/structm0__fid.html" title="{m0_fid\n||}" alt="" coords="1780,564,1847,641"/>
+<area shape="rect" id="node9" href="$d0/d06/structm0__clink.html" title="{m0_clink\n||}" alt="" coords="1241,158,1322,235"/>
+<area shape="rect" id="node11" href="$dd/d9a/structm0__rm__owner.html" title="{m0_rm_owner\n||}" alt="" coords="1363,733,1477,811"/>
+<area shape="rect" id="node12" href="$d6/d34/structm0__rm__remote.html" title="{m0_rm_remote\n||}" alt="" coords="1192,564,1315,641"/>
+<area shape="rect" id="node13" href="$db/d49/structm0__sm.html" title="{m0_sm\n||}" alt="" coords="847,564,918,641"/>
+<area shape="rect" id="node16" href="$d9/d78/structm0__pooldev.html" title="{m0_pooldev\n||+ M0_XCA_FENUM()\l}" alt="" coords="1999,733,2151,811"/>
+<area shape="rect" id="node18" href="$df/d47/structm0__cob__attr.html" title="{m0_cob_attr\n||}" alt="" coords="1570,733,1673,811"/>
+<area shape="rect" id="node21" href="$d3/db4/structm0__rm__incoming.html" title="{m0_rm_incoming\n||}" alt="" coords="1035,733,1170,811"/>
+<area shape="rect" id="node5" href="$dd/d3f/structm0__ref.html" title="{m0_ref\n||}" alt="" coords="447,353,515,430"/>
+<area shape="rect" id="node6" href="$d8/d89/structm0__file.html" title="{m0_file\n||}" alt="" coords="1797,733,1867,811"/>
+<area shape="rect" id="node15" href="$de/d78/structm0__sm__ast.html" title="{m0_sm_ast\n||}" alt="" coords="625,733,722,811"/>
+<area shape="rect" id="node17" href="$dc/dc2/structm0__poolmach.html" title="{m0_poolmach\n||}" alt="" coords="2004,564,2119,641"/>
+<area shape="rect" id="node19" href="$d8/d3a/structm0__hlink.html" title="{m0_hlink\n||}" alt="" coords="1892,733,1975,811"/>
+</map>

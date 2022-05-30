@@ -1,0 +1,7 @@
+<map id="conn_terminate_reply_and_fini" name="conn_terminate_reply_and_fini">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="452,134,619,161"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gadd5208d8ef0cfe3371e75358d43432f3" title="m0_rpc_conn_terminate\l_reply_received" alt="" coords="217,5,396,47"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="489,42,582,69"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="444,198,627,225"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#gafac3857111012e74e39d7c5d30a817d3" title="m0_rpc_conn_fini" alt="" coords="239,173,374,199"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="m0_rpc_frm_remove_item" name="m0_rpc_frm_remove_item">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaeaf73ecb9b490b5fa9f7ccc3072c6380" title="m0_rpc_item_fini" alt="" coords="259,5,393,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga7dedbfbca409a78c9cce12ecde7dc888" title="m0_rpc_item_cancel\l_nolock" alt="" coords="248,57,404,98"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gad548de702d8f344e3c80b1c7627ee723" title="item_timedout" alt="" coords="267,123,385,149"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gaa5647552e63e016f70f9c597fce592b3" title="item_resend" alt="" coords="275,173,377,200"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga51368a3db0057e437f80e4a2c95a6677" title="req_replied" alt="" coords="279,224,373,251"/>
+</map>

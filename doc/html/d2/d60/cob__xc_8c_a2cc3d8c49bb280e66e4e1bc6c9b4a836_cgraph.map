@@ -1,0 +1,15 @@
+<map id="m0_xc_cob_cob_init" name="m0_xc_cob_cob_init">
+<area shape="rect" id="node2" href="$d2/d60/cob__xc_8c.html#a28eaedc29b878336b77b7fb72efcb69c" title="m0_xc_m0_cob_domain\l_struct_init" alt="" coords="209,5,387,47"/>
+<area shape="rect" id="node3" href="$d2/d60/cob__xc_8c.html#a9993a3fe4f2bd42a72b2848e93b95ec3" title="m0_xc_m0_cob_domain\l_id_struct_init" alt="" coords="437,35,616,76"/>
+<area shape="rect" id="node4" href="$d2/d60/cob__xc_8c.html#adff369b7d58d74e566b229c79a7f2775" title="m0_xc_m0_cob_nskey\l_struct_init" alt="" coords="213,123,383,164"/>
+<area shape="rect" id="node5" href="$d2/d60/cob__xc_8c.html#a20df4156b7867a9a741b9a4bf6971959" title="m0_xc_m0_cob_nsrec\l_struct_init" alt="" coords="215,188,381,229"/>
+<area shape="rect" id="node6" href="$d2/d60/cob__xc_8c.html#a2fc84cb6f7477ffc8d734d089b90a6a4" title="m0_xc_m0_cob_oikey\l_struct_init" alt="" coords="215,253,381,295"/>
+<area shape="rect" id="node7" href="$d2/d60/cob__xc_8c.html#a2dff586a349d6013f5c18950fb6ee8a2" title="m0_xc_m0_cob_fabkey\l_struct_init" alt="" coords="211,319,385,360"/>
+<area shape="rect" id="node8" href="$d2/d60/cob__xc_8c.html#af4499dd0c162c9c17b42067f0f067dd9" title="m0_xc_m0_cob_fabrec\l_struct_init" alt="" coords="213,384,383,425"/>
+<area shape="rect" id="node9" href="$d2/d60/cob__xc_8c.html#a588c1e7db97ac981c9021547c99d2b8c" title="m0_xc_m0_cob_omgkey\l_struct_init" alt="" coords="207,449,389,491"/>
+<area shape="rect" id="node10" href="$d2/d60/cob__xc_8c.html#ab464f03718d5d4ebeb46125cfa625e8a" title="m0_xc_m0_cob_omgrec\l_struct_init" alt="" coords="209,515,387,556"/>
+<area shape="rect" id="node11" href="$d2/d60/cob__xc_8c.html#a8be00de155c074da83b10b5f2852152c" title="m0_xc_m0_cob_eakey\l_struct_init" alt="" coords="213,580,383,621"/>
+<area shape="rect" id="node12" href="$d2/d60/cob__xc_8c.html#a6ce35038fc1a8033afae7a8125834fa4" title="m0_xc_m0_cob_earec\l_struct_init" alt="" coords="215,645,381,687"/>
+<area shape="rect" id="node13" href="$d2/d60/cob__xc_8c.html#a9ed3dbc4c6d815f114b3118cdb4a4600" title="m0_xc_m0_cob_bckey\l_struct_init" alt="" coords="213,711,383,752"/>
+<area shape="rect" id="node14" href="$d2/d60/cob__xc_8c.html#a3342b9bdf3034abe9e1e92f1fa92873b" title="m0_xc_m0_cob_bcrec\l_struct_init" alt="" coords="215,776,381,817"/>
+</map>

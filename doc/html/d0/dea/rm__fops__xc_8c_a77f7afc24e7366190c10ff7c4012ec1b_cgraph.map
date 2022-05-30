@@ -1,0 +1,11 @@
+<map id="m0_xc_rm_rm_fops_init" name="m0_xc_rm_rm_fops_init">
+<area shape="rect" id="node2" href="$d0/dea/rm__fops__xc_8c.html#af87f98eaf603523cb15702e36daa35a2" title="m0_xc_m0_rm_fop_owner\l_struct_init" alt="" coords="708,64,901,105"/>
+<area shape="rect" id="node3" href="$d0/dea/rm__fops__xc_8c.html#ad7fc8be30b0b65b5ea2bfa14486250b9" title="m0_xc_m0_rm_fop_loan\l_struct_init" alt="" coords="479,276,660,317"/>
+<area shape="rect" id="node4" href="$d0/dea/rm__fops__xc_8c.html#a2cad99412691ce69c670ba8005424777" title="m0_xc_m0_rm_fop_credit\l_struct_init" alt="" coords="709,364,900,405"/>
+<area shape="rect" id="node5" href="$d0/dea/rm__fops__xc_8c.html#a04beb8ab5b76e5007441dc5c4741c482" title="m0_xc_m0_rm_fop_req\l_struct_init" alt="" coords="482,123,657,164"/>
+<area shape="rect" id="node6" href="$d0/dea/rm__fops__xc_8c.html#aae084e4c23a6d767df2a073fc266075f" title="m0_xc_m0_rm_fop_borrow\l_struct_init" alt="" coords="232,64,431,105"/>
+<area shape="rect" id="node7" href="$d0/dea/rm__fops__xc_8c.html#af316e4d1c5e9b17817c512a75f700a4c" title="m0_xc_m0_rm_fop_borrow\l_rep_struct_init" alt="" coords="232,364,431,405"/>
+<area shape="rect" id="node8" href="$d0/dea/rm__fops__xc_8c.html#ad627481f925cd6d3cbe229fe5b8c7548" title="m0_xc_m0_rm_fop_revoke\l_struct_init" alt="" coords="232,181,431,223"/>
+<area shape="rect" id="node9" href="$d0/dea/rm__fops__xc_8c.html#a676ef83beecb47053d8e001819d5d138" title="m0_xc_m0_rm_fop_revoke\l_rep_struct_init" alt="" coords="232,429,431,471"/>
+<area shape="rect" id="node10" href="$d0/dea/rm__fops__xc_8c.html#a0ed4f5c3dc096f5b0cc54e3f745fdd5a" title="m0_xc_m0_rm_fop_cancel\l_struct_init" alt="" coords="234,247,429,288"/>
+</map>

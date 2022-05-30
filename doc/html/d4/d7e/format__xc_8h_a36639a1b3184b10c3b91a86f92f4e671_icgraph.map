@@ -1,0 +1,22 @@
+<map id="m0_xc_m0_format_footer_struct_init" name="m0_xc_m0_format_footer_struct_init">
+<area shape="rect" id="node2" href="$d1/d66/storage__xc_8h.html#ad0fe69d3a47f26fc04a8992d2e7f7526" title="m0_xc_m0_addb2_frame\l_header_struct_init" alt="" coords="268,5,455,47"/>
+<area shape="rect" id="node3" href="$db/d20/balloc__xc_8h.html#a241824bec8b7f0567e85957f95d50d9e" title="m0_xc_m0_balloc_struct_init" alt="" coords="537,261,748,287"/>
+<area shape="rect" id="node4" href="$db/d20/balloc__xc_8h.html#aa558c713d757d420c14d8fc3030941c2" title="m0_xc_m0_balloc_group\l_desc_struct_init" alt="" coords="270,456,453,497"/>
+<area shape="rect" id="node5" href="$d7/d08/btree__internal__xc_8h.html#a99b7bdcc7d005e8e4ae74102c2141adc" title="m0_xc_m0_be_bnode_struct_init" alt="" coords="244,522,479,549"/>
+<area shape="rect" id="node6" href="$db/df2/btree__xc_8h.html#ab6ed03f8b0567ef4bab37f490b52facb" title="m0_xc_m0_be_btree_struct_init" alt="" coords="247,253,476,279"/>
+<area shape="rect" id="node7" href="$d1/df1/extmap__internal__xc_8h.html#aebe6c5f6533c25a33dffe78b319abd38" title="m0_xc_m0_be_emap_struct_init" alt="" coords="527,202,759,229"/>
+<area shape="rect" id="node8" href="$de/d4e/ad__xc_8h.html#aa63519b6b69619a3418e191275847d24" title="m0_xc_m0_stob_ad_domain\l_struct_init" alt="" coords="807,296,1013,337"/>
+<area shape="rect" id="node9" href="$d8/dc8/cob__xc_8h.html#a28eaedc29b878336b77b7fb72efcb69c" title="m0_xc_m0_cob_domain\l_struct_init" alt="" coords="553,329,732,371"/>
+<area shape="rect" id="node10" href="$d1/df1/extmap__internal__xc_8h.html#a9af583dc0646ab64eab62b22b8d4e240" title="m0_xc_m0_be_emap_key\l_struct_init" alt="" coords="266,71,457,112"/>
+<area shape="rect" id="node11" href="$d1/df1/extmap__internal__xc_8h.html#a950fab2f113cc1658f30d0cff27bec74" title="m0_xc_m0_be_emap_rec\l_struct_init" alt="" coords="268,136,455,177"/>
+<area shape="rect" id="node12" href="$d5/de0/be_2list__xc_8h.html#a8dc8050de3505e53321fe2213bc0c1c0" title="m0_xc_m0_be_list_struct_init" alt="" coords="254,623,469,650"/>
+<area shape="rect" id="node13" href="$d0/d7a/seg__internal__xc_8h.html#a27b867f61a6ff28648c9915152013d96" title="m0_xc_m0_be_seg_hdr\l_struct_init" alt="" coords="555,591,730,632"/>
+<area shape="rect" id="node14" href="$d8/dc8/cob__xc_8h.html#a20df4156b7867a9a741b9a4bf6971959" title="m0_xc_m0_cob_nsrec\l_struct_init" alt="" coords="279,675,444,716"/>
+<area shape="rect" id="node15" href="$de/de1/rpc_2onwire__xc_8h.html#a7cabb1db56b345549f0de8fd4d709e81" title="m0_xc_m0_rpc_packet\l_onwire_footer_struct_init" alt="" coords="266,740,457,781"/>
+<area shape="rect" id="node16" href="$de/de1/rpc_2onwire__xc_8h.html#a2a408c276d6f1b5572aaa01cbab91fce" title="m0_xc_m0_rpc_item_footer\l_struct_init" alt="" coords="260,805,463,847"/>
+<area shape="rect" id="node17" href="$d4/d7e/format__xc_8h.html#a20577793e1096fa530506d131f4e77cf" title="m0_xc_format_format_init" alt="" coords="264,871,459,898"/>
+<area shape="rect" id="node18" href="$d4/d23/ext__xc_8h.html#a146b6409549e4111af894ec56a12c861" title="m0_xc_m0_ext_struct_init" alt="" coords="265,922,458,949"/>
+<area shape="rect" id="node19" href="$de/da6/xcode__xc_8h.html#a9f94bc04e764e164ab1acfaca5e1ea58" title="m0_xc_packet_struct_init" alt="" coords="267,973,455,999"/>
+<area shape="rect" id="node20" href="$d6/d1f/pool__xc_8h.html#ac68924aea0de305ff70520ad3e2b3593" title="m0_xc_m0_pool_spare\l_usage_struct_init" alt="" coords="276,1024,447,1065"/>
+<area shape="rect" id="node21" href="$db/da6/ad__private__xc_8h.html#a9f0756fe6c15ebc96f3b8595519a7106" title="m0_xc_stob_ad_0type\l_rec_struct_init" alt="" coords="278,1089,445,1131"/>
+</map>

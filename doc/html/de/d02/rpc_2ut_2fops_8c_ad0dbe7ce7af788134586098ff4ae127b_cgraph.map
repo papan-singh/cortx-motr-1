@@ -1,0 +1,5 @@
+<map id="m0_rpc_test_fops_fini" name="m0_rpc_test_fops_fini">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="229,5,380,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga21bba86c3ab57ed9fee7ad32cea04dfa" title="m0_fop_type_fini" alt="" coords="237,56,372,83"/>
+<area shape="rect" id="node4" href="$de/dbd/rpc_2ut_2fops__xc_8c.html#a451d4df434b101a15beebf63b54dfb04" title="m0_xc_rpc_ut_fops_fini" alt="" coords="217,107,392,133"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="m0_xc_m0_be_seg_hdr_struct_init" name="m0_xc_m0_be_seg_hdr_struct_init">
+<area shape="rect" id="node2" href="$d6/d75/format__xc_8c.html#a52250ed965a66f87fb2ac4096a1962a4" title="m0_xc_m0_format_header\l_struct_init" alt="" coords="719,188,915,230"/>
+<area shape="rect" id="node3" href="$dd/d6d/group__xcode.html#ga25bdfe90ffe6469f7746a8c9d8562487" title="m0_xc_u64_init" alt="" coords="996,101,1120,128"/>
+<area shape="rect" id="node4" href="$dd/d6d/group__xcode.html#ga521dbd4a0648fa705e3fbb4cfd1ca302" title="m0_xcode_type_invariant" alt="" coords="963,290,1153,317"/>
+<area shape="rect" id="node5" href="$dd/d6d/group__xcode.html#ga7de6a98996205656f3a9ec577d6823a4" title="m0_xc_u32_init" alt="" coords="256,173,380,200"/>
+<area shape="rect" id="node6" href="$df/db6/seg__xc_8c.html#af031e99c761dc239f949ad4c63a46e4c" title="m0_xc_m0_be_seg_geom\l_struct_init" alt="" coords="721,123,912,164"/>
+<area shape="rect" id="node7" href="$dd/d6d/group__xcode.html#ga91d5eb881ee5d761dc739afc65a13501" title="m0_xc_u8_init" alt="" coords="260,274,376,301"/>
+<area shape="rect" id="node8" href="$d6/d75/format__xc_8c.html#a36639a1b3184b10c3b91a86f92f4e671" title="m0_xc_m0_format_footer\l_struct_init" alt="" coords="721,254,912,295"/>
+<area shape="rect" id="node9" href="$d9/dc1/alloc__internal__xc_8c.html#acb7f28bb91f4c70d500e87313918c8fb" title="m0_xc_m0_be_allocator\l_header_struct_init" alt="" coords="228,326,408,367"/>
+<area shape="rect" id="node10" href="$d2/d78/be_2list__xc_8c.html#a8dc8050de3505e53321fe2213bc0c1c0" title="m0_xc_m0_be_list_struct_init" alt="" coords="456,242,671,269"/>
+</map>

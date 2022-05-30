@@ -1,0 +1,7 @@
+<map id="m0_be_tx_capture" name="m0_be_tx_capture">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga15086a8ba1600460b8dce6936dfdeb42" title="m0_be_alloc_aligned" alt="" coords="216,5,375,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga3142f9f9f9d185d13849288b0483454e" title="m0_be_alloc_stats_capture" alt="" coords="196,56,395,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga7ca96d870d8c1e81ee55967d32aa50b6" title="mem_update" alt="" coords="241,107,349,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga84c8075c8ee2c52d74df157355a31e66" title="betool_st_data_write" alt="" coords="216,157,375,184"/>
+<area shape="rect" id="node6" href="$d9/d21/group__cas-ctg-store.html#gabc4234ad8946e2503833059a05d1e385" title="m0_ctg_ctidx_insert_sync" alt="" coords="200,208,391,235"/>
+</map>

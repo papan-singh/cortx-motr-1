@@ -1,0 +1,10 @@
+<map id="m0_halon_interface_fini" name="m0_halon_interface_fini">
+<area shape="rect" id="node2" href="$d2/d66/group__dtm.html#ga4759d4213e03d649e9b02499bd3c3f97" title="hi" alt="" coords="295,5,333,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="240,56,388,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga44ae6c237c23107f3a9c5b9202582416" title="m0_sm_state_set" alt="" coords="245,107,383,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="265,157,363,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="232,208,396,235"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="243,259,385,285"/>
+<area shape="rect" id="node8" href="$d9/d54/group__init.html#gaedfc69ef15debd2675b7670a44bb3820" title="m0_fini" alt="" coords="279,309,349,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="270,360,358,387"/>
+</map>

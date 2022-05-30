@@ -1,0 +1,10 @@
+<map id="rconfc_rlock_windup" name="rconfc_rlock_windup">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="461,65,523,92"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#ga5bd0b9cb0ab8d117a53d8abffa19c0bd" title="m0_rconfc_unlock" alt="" coords="234,40,374,67"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga37476b2a028c07fef546654607577cbb" title="rconfc_read_lock_put" alt="" coords="224,141,384,168"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="448,192,536,219"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#gaa6c3f77c06b8efa25c89578f867ca6f6" title="m0_rconfc_lock" alt="" coords="242,91,366,117"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#ga4c2f138b77bdc991176b31492a2486d6" title="rlock_ctx_creditor\l_state" alt="" coords="235,243,373,285"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#gad440a28f2e23ce947483fdcae21be789" title="rlock_ctx_owner_windup" alt="" coords="213,309,395,336"/>
+<area shape="rect" id="node9" href="$da/d7a/group___r_w_lock.html#ga43d649ef422c37e25065f6c9d6bc122e" title="m0_rm_rwlock_owner_fini" alt="" coords="208,360,400,387"/>
+</map>

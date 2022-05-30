@@ -1,0 +1,12 @@
+<map id="m0_pdclust_build" name="m0_pdclust_build">
+<area shape="rect" id="node2" href="$df/d01/group__pdclust.html#ga330687123e9498c3d34d2e675348d1a2" title="pdclust_allocate" alt="" coords="219,42,347,69"/>
+<area shape="rect" id="node3" href="$df/d01/group__pdclust.html#ga1fde3cfbabd8a714c97b1f10dcf35ae6" title="pdclust_allocated_invariant" alt="" coords="425,67,627,94"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="482,143,570,170"/>
+<area shape="rect" id="node5" href="$df/d01/group__pdclust.html#ga67216486344cced658599c76e5f487fa" title="pdclust_populate" alt="" coords="217,194,350,221"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="675,295,720,322"/>
+<area shape="rect" id="node7" href="$df/d01/group__pdclust.html#ga1e0bd19ae74ef278d19da57bebf77f23" title="pdclust_invariant" alt="" coords="459,295,593,322"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="455,245,597,271"/>
+<area shape="rect" id="node9" href="$df/d01/group__pdclust.html#gaf5588a9d8cbec19fadee5d7257b1e4dc" title="pdclust_delete" alt="" coords="225,93,342,119"/>
+<area shape="rect" id="node10" href="$d0/d04/group__mutex.html#ga3499d6f495de6815f79e3e1b1477bc8b" title="m0_mutex_is_not_locked" alt="" coords="189,397,377,423"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="251,447,316,474"/>
+</map>

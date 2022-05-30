@@ -1,0 +1,14 @@
+<map id="m0_dix_cm_cp_write_pre" name="m0_dix_cm_cp_write_pre">
+<area shape="rect" id="node2" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga0f92ab6b98a6ab5f8041ba2aaac11975" title="cp2dixcp" alt="" coords="291,5,371,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="277,56,384,83"/>
+<area shape="rect" id="node4" href="$d9/d21/group__cas-ctg-store.html#ga89fa56d17d3e710cb915062e73d70be3" title="m0_ctg_op_rc" alt="" coords="275,107,387,133"/>
+<area shape="rect" id="node5" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga1a216348a72a2ea776585c28acb5bf60" title="dix_cm_cp_incoming_kv" alt="" coords="240,157,421,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="469,183,535,209"/>
+<area shape="rect" id="node7" href="$d9/d21/group__cas-ctg-store.html#ga1e92c78bb4e793e60d28f4601ffefe7f" title="m0_ctg_meta" alt="" coords="275,259,386,285"/>
+<area shape="rect" id="node8" href="$d9/d21/group__cas-ctg-store.html#gadd0f9c2fad411f15b9581e13dc75f683" title="m0_ctg_meta_lookup\l_result" alt="" coords="249,310,412,351"/>
+<area shape="rect" id="node9" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga780120feeb7c6d856ccf41cdbbe3cafc" title="m0_long_read_unlock" alt="" coords="249,376,413,403"/>
+<area shape="rect" id="node10" href="$d9/d21/group__cas-ctg-store.html#ga49f24371eb839c39da6451cbeecbd8bf" title="m0_ctg_lock" alt="" coords="279,427,383,453"/>
+<area shape="rect" id="node11" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gafb962350d0560706a0944a515360c54f" title="m0_long_write_lock" alt="" coords="255,477,407,504"/>
+<area shape="rect" id="node12" href="$d1/d59/group__fom.html#ga9799e9df372bea12d056b647e83cf950" title="m0_fom_phase_move" alt="" coords="247,528,414,555"/>
+<area shape="rect" id="node13" href="$d9/d21/group__cas-ctg-store.html#ga275b0f96d6a409f728a36caa190428d7" title="m0_ctg_op_fini" alt="" coords="271,579,391,605"/>
+</map>

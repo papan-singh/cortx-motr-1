@@ -1,0 +1,15 @@
+<map id="cob_rpc_item_cb" name="cob_rpc_item_cb">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="197,5,351,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad87ae68db1f47a3826d3a3e1e376bd4e" title="M0_ENTRY" alt="" coords="229,56,319,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#gaef54b6768d7bb551b0e8223f365f0943" title="m0_fop_opcode" alt="" coords="211,107,337,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="201,157,347,184"/>
+<area shape="rect" id="node6" href="$d9/dc2/group__io__foms.html#ga1a417843776b0a95fb0bee9548661bee" title="m0_is_cob_create_fop" alt="" coords="191,208,357,235"/>
+<area shape="rect" id="node7" href="$d9/dc2/group__io__foms.html#gaa5321cef10ea9d681fcf19578f13117d" title="m0_is_cob_delete_fop" alt="" coords="191,259,357,285"/>
+<area shape="rect" id="node8" href="$d9/d05/group__bulkclient_d_f_s.html#ga2d4cbfc5e48acb451603521181c8777c" title="m0_is_cob_truncate_fop" alt="" coords="184,309,364,336"/>
+<area shape="rect" id="node9" href="$d9/d05/group__bulkclient_d_f_s.html#gaf1de1d1e87acf454944c4b5615560680" title="m0_is_cob_setattr_fop" alt="" coords="189,360,359,387"/>
+<area shape="rect" id="node10" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="221,411,327,437"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5882dafb81051d6db1c9184196ce59b0" title="M0_LOG" alt="" coords="237,461,311,488"/>
+<area shape="rect" id="node12" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="222,512,326,539"/>
+<area shape="rect" id="node13" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="201,563,347,589"/>
+<area shape="rect" id="node14" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="230,613,318,640"/>
+</map>

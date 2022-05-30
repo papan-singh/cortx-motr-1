@@ -1,0 +1,11 @@
+<map id="test_rw" name="test_rw">
+<area shape="rect" id="node2" href="$db/ded/group__rwlock.html#ga30d56453108093c99dff1f4adffb6f5c" title="m0_rwlock_init" alt="" coords="139,5,260,32"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="124,56,275,83"/>
+<area shape="rect" id="node4" href="$d1/d41/ut_2rwlock_8c.html#a3d90d5ad4ee50fa6c89765bd7ecff232" title="test_rw_writers" alt="" coords="138,107,261,133"/>
+<area shape="rect" id="node5" href="$d1/d41/ut_2rwlock_8c.html#a868608e3dab65ced593ddf450e7be538" title="test_rw_readers" alt="" coords="136,157,263,184"/>
+<area shape="rect" id="node6" href="$d1/d41/ut_2rwlock_8c.html#ab7e23ce5ba507be34b0069679f4c6738" title="test_rw_excl" alt="" coords="147,208,251,235"/>
+<area shape="rect" id="node7" href="$d1/d41/ut_2rwlock_8c.html#aba3e766dd1c277c367e176f14b7c45fd" title="test_rw_rstarve" alt="" coords="138,259,261,285"/>
+<area shape="rect" id="node8" href="$d1/d41/ut_2rwlock_8c.html#ac73bf4fff2a9558c1d41a653ab5f36e5" title="test_rw_wstarve" alt="" coords="135,309,264,336"/>
+<area shape="rect" id="node9" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="124,360,275,387"/>
+<area shape="rect" id="node10" href="$db/ded/group__rwlock.html#ga873b7e35f4f3520f9d57a0d5ad3672ea" title="m0_rwlock_fini" alt="" coords="139,411,259,437"/>
+</map>

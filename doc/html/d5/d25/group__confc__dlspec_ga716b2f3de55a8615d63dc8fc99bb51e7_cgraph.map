@@ -1,0 +1,7 @@
+<map id="conf_obj_status_reset" name="conf_obj_status_reset">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="251,5,358,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="227,56,382,83"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga7131632d1b1b034ee18108f26678a3a0" title="confc_lock" alt="" coords="259,107,350,133"/>
+<area shape="rect" id="node5" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="217,157,392,184"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#gace27ac8ff8cd441cad9cea2ae2813a2e" title="confc_unlock" alt="" coords="251,208,358,235"/>
+</map>

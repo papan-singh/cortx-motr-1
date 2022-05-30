@@ -1,0 +1,10 @@
+<map id="misc_test" name="misc_test">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga91bf72b4f1a8aac4121111c141d804d4" title="m0_confc_ctx_init" alt="" coords="368,21,508,48"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga56b93a0699b96051fc7430fd0ce40286" title="m0_confc_ctx_fini" alt="" coords="369,173,507,200"/>
+<area shape="rect" id="node4" href="$dd/d4f/conf_2ut_2common_8c.html#a261d9bf41edfdad0593825014559c27e" title="m0_conf_ut_waiter_init" alt="" coords="142,47,317,73"/>
+<area shape="rect" id="node5" href="$d2/d72/ut_2confc_8c.html#a4a7b9ec22edde90b89e072f7bc88f0f8" title="_retrieval_initiate" alt="" coords="161,148,298,175"/>
+<area shape="rect" id="node6" href="$dd/d4f/conf_2ut_2common_8c.html#a8ee2a5b04344e0eba4c905241b5bbd6e" title="m0_conf_ut_waiter_wait" alt="" coords="139,199,320,225"/>
+<area shape="rect" id="node7" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="166,249,293,276"/>
+<area shape="rect" id="node8" href="$dd/d4f/conf_2ut_2common_8c.html#a900f06813c98825443cdf21fba55286e" title="m0_conf_ut_waiter_fini" alt="" coords="143,300,316,327"/>
+<area shape="rect" id="node9" href="$d5/d25/group__confc__dlspec.html#gaf6a3c51e583aa30e89602b1456a57aec" title="m0_confc__open" alt="" coords="164,351,295,377"/>
+</map>

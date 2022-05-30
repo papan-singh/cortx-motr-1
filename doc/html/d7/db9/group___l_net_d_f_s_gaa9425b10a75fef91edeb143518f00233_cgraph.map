@@ -1,0 +1,9 @@
+<map id="m0_netst_fini_k" name="m0_netst_fini_k">
+<area shape="rect" id="node2" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="223,5,345,32"/>
+<area shape="rect" id="node3" href="$de/dec/lnet_2st_2ping_8c.html#aafb00e5315ebd136654a9a261867b2c1" title="nlx_ping_print_qstats\l_total" alt="" coords="203,57,365,98"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="459,93,535,120"/>
+<area shape="rect" id="node5" href="$de/dec/lnet_2st_2ping_8c.html#a4adf10cf7d80a225388e8698a348fa63" title="nlx_ping_server_should_stop" alt="" coords="179,173,389,200"/>
+<area shape="rect" id="node6" href="$da/dea/group__cond.html#gadcc0e34335137a427f72523310ea97a9" title="m0_cond_fini" alt="" coords="230,224,338,251"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="437,300,556,327"/>
+<area shape="rect" id="node8" href="$de/dec/lnet_2st_2ping_8c.html#affb2997282d6d0e703c0121922d0d979" title="nlx_ping_fini" alt="" coords="232,325,336,352"/>
+</map>

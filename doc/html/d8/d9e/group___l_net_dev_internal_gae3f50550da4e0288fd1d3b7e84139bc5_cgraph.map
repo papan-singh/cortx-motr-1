@@ -1,0 +1,10 @@
+<map id="nlx_dev_buf_deregister" name="nlx_dev_buf_deregister">
+<area shape="rect" id="node2" href="$d6/d8a/group___k_l_net_core.html#ga4325e75464380d034b8f89bbaafdb6e7" title="nlx_kcore_buffer_invariant" alt="" coords="477,118,672,144"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="291,42,366,68"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="265,92,392,119"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="257,143,400,170"/>
+<area shape="rect" id="node6" href="$d8/d9e/group___l_net_dev_internal.html#ga8e9bc5c8412dee9d2f92c2af3ca707e8" title="nlx_dev_buf_pages_unpin" alt="" coords="233,194,424,220"/>
+<area shape="rect" id="node7" href="$d6/d8a/group___k_l_net_core.html#gaed1d66ac9dd9786841dbd48dfd19ad96" title="nlx_kcore_core_buffer_map" alt="" coords="228,244,429,271"/>
+<area shape="rect" id="node8" href="$d6/d8a/group___k_l_net_core.html#gab6bfac383153bef452f2198e7f456e5c" title="nlx_kcore_core_buffer\l_unmap" alt="" coords="246,296,411,337"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="291,362,367,388"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="cob_complete_op" name="cob_complete_op">
+<area shape="rect" id="node2" href="$d7/d9a/motr_2cob_8c.html#a7a182d4c966d0986187e949de0a68db0" title="cob_entity_sm_move" alt="" coords="189,100,351,127"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="407,5,555,32"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="423,63,538,89"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="399,125,563,152"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="437,176,525,203"/>
+<area shape="rect" id="node7" href="$d6/db6/motr_2client_8c.html#a9d859146726a6fd21326b93786323055" title="m0_op_executed" alt="" coords="203,252,337,279"/>
+<area shape="rect" id="node8" href="$d6/db6/motr_2client_8c.html#a95d835f22f66e52e5ff327665b6a35ca" title="m0_op_stable" alt="" coords="213,303,327,329"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="m0_gvertice_invariant" name="m0_gvertice_invariant">
+<area shape="rect" id="node2" href="$dc/db7/group__graph.html#ga1d00a9e396c973169fc2028fc8735faf" title="m0_gvertice_link" alt="" coords="428,33,563,60"/>
+<area shape="rect" id="node3" href="$dc/db7/group__graph.html#ga0b317551e534f905e02911c7fb19b2da" title="m0_gvertice_unlink" alt="" coords="420,84,571,111"/>
+<area shape="rect" id="node4" href="$dc/db7/group__graph.html#ga71b5728a8787753865fa212a39ae216e" title="m0_gvertice_linked" alt="" coords="221,33,372,60"/>
+<area shape="rect" id="node5" href="$dc/db7/group__graph.html#ga4f33e2cab434b33f03733267dc9d5dcf" title="m0_gvertice_is_set" alt="" coords="223,135,371,161"/>
+<area shape="rect" id="node6" href="$dc/db7/group__graph.html#ga44e4be7ac80ac6ee47cfeb3c1afaf403" title="m0_gvertice_fini" alt="" coords="430,160,561,187"/>
+<area shape="rect" id="node7" href="$dc/db7/group__graph.html#gaa0b9c4d982fc51540dea8cbbc100a18e" title="m0_gvertice_init" alt="" coords="231,236,362,263"/>
+<area shape="rect" id="node8" href="$dc/db7/group__graph.html#ga6c13fce3913d4f582b14b0e6a8e91a42" title="m0_garc_try" alt="" coords="245,287,348,313"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="m0_xc_m0_fop_mod_rep_struct_init" name="m0_xc_m0_fop_mod_rep_struct_init">
+<area shape="rect" id="node2" href="$d7/da0/cas__xc_8h.html#a57a20b950580d081e5a84fa926ac484e" title="m0_xc_m0_cas_rep_struct_init" alt="" coords="239,5,461,32"/>
+<area shape="rect" id="node3" href="$dd/d8b/wire__xc_8h.html#adedc7413b6429df1ebed5affb685a9d5" title="m0_xc_fop_wire_init" alt="" coords="272,56,428,83"/>
+<area shape="rect" id="node4" href="$d9/d38/io__fops__xc_8h.html#a61f4b1dab86135ef3f3b70e5c7e5da61" title="m0_xc_m0_fop_cob_rw\l_reply_struct_init" alt="" coords="263,107,437,149"/>
+<area shape="rect" id="node5" href="$d9/d38/io__fops__xc_8h.html#af6e6e859561c972b888bc96f11fe078e" title="m0_xc_m0_fop_cob_op\l_rep_common_struct_init" alt="" coords="257,173,443,214"/>
+<area shape="rect" id="node6" href="$d7/d5c/md__fops__xc_8h.html#a885f963f66cd2a13e3dd2e040b2f2c2b" title="m0_xc_m0_fop_create\l_rep_struct_init" alt="" coords="265,238,435,279"/>
+<area shape="rect" id="node7" href="$d7/d5c/md__fops__xc_8h.html#a2e443435576d39e327c3984078b07c2a" title="m0_xc_m0_fop_link_rep\l_struct_init" alt="" coords="260,303,440,345"/>
+<area shape="rect" id="node8" href="$d7/d5c/md__fops__xc_8h.html#aa09662f3f4c8a48eea2d7c9616bcf28f" title="m0_xc_m0_fop_unlink\l_rep_struct_init" alt="" coords="266,369,434,410"/>
+<area shape="rect" id="node9" href="$d7/d5c/md__fops__xc_8h.html#a38f09e2d72e738f9068b17e6b3edbab1" title="m0_xc_m0_fop_rename\l_rep_struct_init" alt="" coords="261,434,439,475"/>
+<area shape="rect" id="node10" href="$d7/d5c/md__fops__xc_8h.html#a8f0c9a183020ecaf2c910bdb57096375" title="m0_xc_m0_fop_open_rep\l_struct_init" alt="" coords="256,499,444,541"/>
+<area shape="rect" id="node11" href="$d7/d5c/md__fops__xc_8h.html#ae7aa77e453e9ad403e2b305e46fff07f" title="m0_xc_m0_fop_setattr\l_rep_struct_init" alt="" coords="265,565,435,606"/>
+<area shape="rect" id="node12" href="$d7/d5c/md__fops__xc_8h.html#ac61fd8b5626293f4f8ca0b1e90bfcbfc" title="m0_xc_m0_fop_setxattr\l_rep_struct_init" alt="" coords="261,630,439,671"/>
+<area shape="rect" id="node13" href="$d7/d5c/md__fops__xc_8h.html#a490a21aec691a85d527e7915fcd5ba6d" title="m0_xc_m0_fop_delxattr\l_rep_struct_init" alt="" coords="261,695,439,737"/>
+</map>

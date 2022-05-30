@@ -1,0 +1,12 @@
+<map id="m0_addb2_sys" name="m0_addb2_sys">
+<area shape="rect" id="node2" href="$de/d7f/structm0__addb2__mach.html" title="{m0_addb2_mach\n||}" alt="" coords="157,329,291,407"/>
+<area shape="rect" id="node3" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="430,145,522,223"/>
+<area shape="rect" id="node8" href="$db/dd7/structm0__addb2__storage.html" title="{m0_addb2_storage\n||}" alt="" coords="544,329,691,407"/>
+<area shape="rect" id="node9" href="$d2/d2e/structm0__addb2__net.html" title="{m0_addb2_net\n||}" alt="" coords="751,329,870,407"/>
+<area shape="rect" id="node6" href="$d4/d8a/structm0__tl.html" title="{m0_tl\n||}" alt="" coords="917,145,976,223"/>
+<area shape="rect" id="node5" href="$d8/d9e/structm0__semaphore.html" title="{m0_semaphore\n||}" alt="" coords="5,145,128,223"/>
+<area shape="rect" id="node7" href="$da/d9f/structm0__list.html" title="{m0_list\n||}" alt="" coords="1002,5,1073,83"/>
+<area shape="rect" id="node10" href="$d1/da9/structm0__addb2__config.html" title="{m0_addb2_config\n||}" alt="" coords="1147,329,1283,407"/>
+<area shape="rect" id="node11" href="$df/dd6/structm0__sm__ast__wait.html" title="{m0_sm_ast_wait\n||}" alt="" coords="1307,329,1439,407"/>
+<area shape="rect" id="node12" href="$de/d78/structm0__sm__ast.html" title="{m0_sm_ast\n||}" alt="" coords="1463,329,1561,407"/>
+</map>

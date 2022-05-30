@@ -1,0 +1,9 @@
+<map id="be_ut_log_store_rbuf" name="be_ut_log_store_rbuf">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga17416600329c0b77b48803fd0c2706e6" title="m0_be_log_store_rbuf\l_io_first" alt="" coords="222,5,389,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga73e66fbdfff535756d88b68d84e8e2ad" title="m0_be_log_store_rbuf\l_io_next" alt="" coords="222,71,389,112"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga36322db27c8ab0772e476e7e5754568f" title="m0_be_io_offset_stob\l_is_eq" alt="" coords="223,136,387,177"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga5c07351862c50e9042758e6c3d65146c" title="m0_be_log_io_be_io" alt="" coords="447,257,601,283"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gae8a48b1005140aaff0ffe4331cbc30b1" title="m0_be_io_ptr_user_is_eq" alt="" coords="212,253,399,279"/>
+<area shape="rect" id="node7" href="$d4/d6f/ut_2log__store_8c.html#aa1cd433c212fa992cd0f4b1cdf362276" title="be_ut_log_store_io\l_intersect_check" alt="" coords="233,304,377,345"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="267,370,343,397"/>
+</map>

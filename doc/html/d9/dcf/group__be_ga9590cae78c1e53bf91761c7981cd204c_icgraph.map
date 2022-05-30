@@ -1,0 +1,8 @@
+<map id="m0_be_btree_insert_credit" name="m0_be_btree_insert_credit">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a356598c595f10a4aa299c7ceab75f3bf" title="balloc_group_write\l_credit" alt="" coords="221,5,367,47"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#aa7eae0394ea1b54605f4cae8c556ff12" title="balloc_db_update_credit" alt="" coords="204,71,384,98"/>
+<area shape="rect" id="node4" href="$dd/d2d/ut_2btree_8c.html#a6814c6d0e32343474b49dc6b6f26fb4b" title="btree_save" alt="" coords="247,122,341,149"/>
+<area shape="rect" id="node5" href="$d2/de0/group__extmap.html#ga11e3e8f688440fa96bc8a874fb2bf2d7" title="m0_be_emap_credit" alt="" coords="217,173,371,199"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga24faba19599750c582b99cee3a0fb366" title="ctg_prep" alt="" coords="255,223,333,250"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#ga6b434b15650d7ab95d117b98275ca9a8" title="cob_table_tx_credit" alt="" coords="219,274,369,301"/>
+</map>

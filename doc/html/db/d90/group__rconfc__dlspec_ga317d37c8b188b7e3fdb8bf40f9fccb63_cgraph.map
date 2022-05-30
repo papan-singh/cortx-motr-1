@@ -1,0 +1,10 @@
+<map id="rconfc_creditor_death_handle" name="rconfc_creditor_death_handle">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="653,68,715,94"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#ga4c2f138b77bdc991176b31492a2486d6" title="rlock_ctx_creditor\l_state" alt="" coords="227,310,366,351"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga92b8e301323dee8d0b7a15e473bf3cd2" title="rconfc_ast_post" alt="" coords="447,42,571,69"/>
+<area shape="rect" id="node5" href="$db/d90/group__rconfc__dlspec.html#ga076c4152192ebd24d8309e3bf793b8d1" title="rconfc_owner_creditor\l_reset" alt="" coords="425,195,592,236"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="640,202,728,229"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="242,376,351,402"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#ga18b6907a5c502860f4209e1b7f66bdd5" title="rlock_owner_clink_cb" alt="" coords="216,144,377,170"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="241,426,353,453"/>
+</map>

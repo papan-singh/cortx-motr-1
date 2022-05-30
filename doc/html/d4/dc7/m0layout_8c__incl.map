@@ -1,0 +1,14 @@
+<map id="utils/layout/m0layout.c" name="utils/layout/m0layout.c">
+<area shape="rect" id="node5" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="225,229,311,256"/>
+<area shape="rect" id="node6" href="$dc/da7/assert_8h.html" title="lib/assert.h" alt="" coords="346,379,441,405"/>
+<area shape="rect" id="node7" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="385,304,492,331"/>
+<area shape="rect" id="node8" href="$d7/deb/arith_8h.html" title="lib/arith.h" alt="" coords="945,304,1029,331"/>
+<area shape="rect" id="node9" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="487,80,575,107"/>
+<area shape="rect" id="node10" href="$de/dc8/motr_2init_8h.html" title="motr/init.h" alt="" coords="623,80,713,107"/>
+<area shape="rect" id="node11" href="$d9/dda/instance_8h.html" title="module/instance.h" alt="" coords="738,80,881,107"/>
+<area shape="rect" id="node12" href="$d4/d20/pool_2pool_8h.html" title="pool/pool.h" alt="" coords="905,80,999,107"/>
+<area shape="rect" id="node13" href="$d6/d20/pdclust_8h.html" title="layout/pdclust.h" alt="" coords="923,155,1050,181"/>
+<area shape="rect" id="node14" href="$db/de6/layout_2layout_8h.html" title="layout/layout.h" alt="" coords="1025,229,1145,256"/>
+<area shape="rect" id="node15" href="$d4/d7c/ioservice_2fid__convert_8h.html" title="ioservice/fid_convert.h" alt="" coords="1126,80,1295,107"/>
+<area shape="rect" id="node16" href="$df/dd0/linear__enum_8h.html" title="layout/linear_enum.h" alt="" coords="1125,155,1285,181"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="mem_xo_buf_del" name="mem_xo_buf_del">
+<area shape="rect" id="node2" href="$db/d8b/group__bulkmem.html#gafe187f145003d02f322bac93d59e6b78" title="mem_buffer_to_pvt" alt="" coords="403,26,552,53"/>
+<area shape="rect" id="node3" href="$d0/da0/mem__xprt__xo_8c.html#ga02bdbbb4a7a3f535775903393e5e18e5" title="mem_buffer_invariant" alt="" coords="188,38,355,65"/>
+<area shape="rect" id="node4" href="$d0/da0/mem__xprt__xo_8c.html#gab72e9884ac5e58f9f730c4ec5257ccd3" title="mem_tm_invariant" alt="" coords="198,89,345,115"/>
+<area shape="rect" id="node5" href="$db/d8b/group__bulkmem.html#ga64164fd89a42e6e0eeedb1e59eccf0d0" title="mem_tm_to_pvt" alt="" coords="413,102,542,129"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="191,190,351,217"/>
+<area shape="rect" id="node7" href="$dd/d12/group__list.html#ga65e71e92c17c28d059e4f2325b88ddbc" title="m0_list_contains" alt="" coords="205,241,337,267"/>
+<area shape="rect" id="node8" href="$d0/da0/mem__xprt__xo_8c.html#ga564a7e7cbc5ba4f31ba0a163549ac151" title="mem_wi_add" alt="" coords="217,291,326,318"/>
+</map>

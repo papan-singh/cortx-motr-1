@@ -1,0 +1,8 @@
+<map id="be_list_capture" name="be_list_capture">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga20789acd89ee116b1915a108e8e7046e" title="m0_be_list_create" alt="" coords="191,5,332,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaa5f1723a649395af4aac5ea9c21b025d" title="m0_be_list_add" alt="" coords="199,56,323,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gac21e851e42e2a55cb3a7f9229fa9b25c" title="m0_be_list_add_after" alt="" coords="180,107,343,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gabe4fd88f8e5ae0e42340ce60bcb4aaba" title="m0_be_list_add_before" alt="" coords="175,157,348,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga97013c87e72503b1190888e5cc8cbcbf" title="m0_be_list_add_tail" alt="" coords="185,208,337,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga10930dfa2fac69abe210f1b2bdaa626b" title="m0_be_list_del" alt="" coords="201,259,321,285"/>
+</map>

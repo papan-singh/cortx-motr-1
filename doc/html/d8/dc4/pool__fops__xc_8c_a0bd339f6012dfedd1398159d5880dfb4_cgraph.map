@@ -1,0 +1,9 @@
+<map id="m0_xc_pool_pool_fops_init" name="m0_xc_pool_pool_fops_init">
+<area shape="rect" id="node2" href="$d8/dc4/pool__fops__xc_8c.html#a85a33021146edf39ff1a6e82e8fc59fa" title="m0_xc_m0_fop_poolmach\l_set_rep_struct_init" alt="" coords="252,5,444,47"/>
+<area shape="rect" id="node3" href="$d8/dc4/pool__fops__xc_8c.html#a4c6241c1111edb27ce924300e1457cc6" title="m0_xc_m0_fop_poolmach\l_dev_info_struct_init" alt="" coords="492,156,684,197"/>
+<area shape="rect" id="node4" href="$d8/dc4/pool__fops__xc_8c.html#a1f0e9644eedf36a26c7168f43f917116" title="m0_xc_m0_fop_poolmach\l_dev_struct_init" alt="" coords="732,201,924,243"/>
+<area shape="rect" id="node5" href="$d8/dc4/pool__fops__xc_8c.html#ae3ee953e9b6892d6469efc9d7d21d504" title="m0_xc_m0_fop_poolmach\l_set_struct_init" alt="" coords="252,123,444,164"/>
+<area shape="rect" id="node6" href="$d8/dc4/pool__fops__xc_8c.html#ab395e6462e0545cfbab33121186c1581" title="m0_xc_m0_fop_poolmach\l_query_rep_struct_init" alt="" coords="252,188,444,229"/>
+<area shape="rect" id="node7" href="$d8/dc4/pool__fops__xc_8c.html#abdd779865871e4d9f8683b40483640b6" title="m0_xc_m0_fop_poolmach\l_dev_idx_struct_init" alt="" coords="492,331,684,372"/>
+<area shape="rect" id="node8" href="$d8/dc4/pool__fops__xc_8c.html#a6c7f836af72c83a000d44801516cbbb7" title="m0_xc_m0_fop_poolmach\l_query_struct_init" alt="" coords="252,356,444,397"/>
+</map>

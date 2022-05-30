@@ -1,0 +1,19 @@
+<map id="m0_xc_m0_fid_arr_struct_init" name="m0_xc_m0_fid_arr_struct_init">
+<area shape="rect" id="node2" href="$d9/d80/conf_2onwire__xc_8h.html#a24b2a531f7defede5715a363a5e7f86a" title="m0_xc_m0_conf_fetch\l_struct_init" alt="" coords="286,5,454,47"/>
+<area shape="rect" id="node3" href="$d9/d80/conf_2onwire__xc_8h.html#a2fb2db1848e91daa8eebc0b64be3c777" title="m0_xc_m0_confx_root\l_struct_init" alt="" coords="285,71,455,112"/>
+<area shape="rect" id="node4" href="$d9/d80/conf_2onwire__xc_8h.html#a727c287afeb6cdd8b60c1fde022a3c8c" title="m0_xc_m0_confx_profile\l_struct_init" alt="" coords="278,136,462,177"/>
+<area shape="rect" id="node5" href="$d9/d80/conf_2onwire__xc_8h.html#ad78d72fe63ce13a776fd2f88cbf74b4f" title="m0_xc_m0_confx_pool\l_struct_init" alt="" coords="285,201,455,243"/>
+<area shape="rect" id="node6" href="$d9/d80/conf_2onwire__xc_8h.html#a48247c77cc9458336f878cd34c8f71c1" title="m0_xc_m0_confx_pver\l_actual_struct_init" alt="" coords="284,267,456,308"/>
+<area shape="rect" id="node7" href="$d9/d80/conf_2onwire__xc_8h.html#a17184b7bdbc6a329c0f6fb4d26c9f8f6" title="m0_xc_m0_confx_objv\l_struct_init" alt="" coords="285,332,455,373"/>
+<area shape="rect" id="node8" href="$d9/d80/conf_2onwire__xc_8h.html#a733005732e397611a33d4cc701fbef8d" title="m0_xc_m0_confx_node\l_struct_init" alt="" coords="283,397,457,439"/>
+<area shape="rect" id="node9" href="$d9/d80/conf_2onwire__xc_8h.html#a7d7485f17af7191f2bc7b7754e7a2f34" title="m0_xc_m0_confx_process\l_struct_init" alt="" coords="273,463,467,504"/>
+<area shape="rect" id="node10" href="$d9/d80/conf_2onwire__xc_8h.html#afeb005587ca31ef6a4cd90075a026d5d" title="m0_xc_m0_confx_service\l_struct_init" alt="" coords="275,528,465,569"/>
+<area shape="rect" id="node11" href="$d9/d80/conf_2onwire__xc_8h.html#ada5f85186454d5e1bda5aeb934eff6a5" title="m0_xc_m0_confx_site\l_struct_init" alt="" coords="287,593,453,635"/>
+<area shape="rect" id="node12" href="$d9/d80/conf_2onwire__xc_8h.html#ad8eb50e2854affda0eea5f632c78fbc5" title="m0_xc_m0_confx_rack\l_struct_init" alt="" coords="285,659,455,700"/>
+<area shape="rect" id="node13" href="$d9/d80/conf_2onwire__xc_8h.html#a2776214e93a534b5fdc5e2621dbbab26" title="m0_xc_m0_confx_enclosure\l_struct_init" alt="" coords="267,724,473,765"/>
+<area shape="rect" id="node14" href="$d9/d80/conf_2onwire__xc_8h.html#adba71d5203bd8a82426c205ce4d611ea" title="m0_xc_m0_confx_controller\l_struct_init" alt="" coords="267,789,473,831"/>
+<area shape="rect" id="node15" href="$d9/d80/conf_2onwire__xc_8h.html#a9186fdc421f052578364224064a58a15" title="m0_xc_m0_confx_drive\l_struct_init" alt="" coords="282,855,458,896"/>
+<area shape="rect" id="node16" href="$d9/d80/conf_2onwire__xc_8h.html#a9c4e887a178858744510f43a62c0bc29" title="m0_xc_m0_confx_fdmi\l_flt_grp_struct_init" alt="" coords="283,920,457,961"/>
+<area shape="rect" id="node17" href="$db/d1b/fid__xc_8h.html#ad94ec5e4a22092a6c27f0475a1a5b82a" title="m0_xc_fid_fid_init" alt="" coords="301,986,439,1013"/>
+<area shape="rect" id="node18" href="$d3/df4/entrypoint__fops__xc_8h.html#a53c6e844707cb41560718dd417085727" title="m0_xc_m0_ha_entrypoint\l_rep_fop_struct_init" alt="" coords="275,1037,465,1079"/>
+</map>

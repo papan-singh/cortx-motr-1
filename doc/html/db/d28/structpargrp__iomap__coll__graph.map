@@ -1,0 +1,8 @@
+<map id="pargrp_iomap" name="pargrp_iomap">
+<area shape="rect" id="node2" href="$d6/d09/structio__request.html" title="{io_request\n||}" alt="" coords="1458,587,1549,664"/>
+<area shape="rect" id="node8" href="$d0/d6f/structm0__op__io.html" title="{m0_op_io\n||}" alt="" coords="505,587,590,664"/>
+<area shape="rect" id="node9" href="$df/da2/structm0__indexvec.html" title="{m0_indexvec\n||}" alt="" coords="125,182,234,259"/>
+<area shape="rect" id="node10" href="$dc/d8f/structpargrp__iomap__ops.html" title="{pargrp_iomap_ops\n|+ pi_dgmode_process\l+ pi_databuf_alloc\l+ pi_data_replicate\l+ pi_replica_recover\l|}" alt="" coords="804,160,971,281"/>
+<area shape="rect" id="node11" href="$de/dc5/structdata__buf.html" title="{data_buf\n||}" alt="" coords="702,182,780,259"/>
+<area shape="rect" id="node5" href="$d9/d5f/structm0__indexvec__varr.html" title="{m0_indexvec_varr\n||}" alt="" coords="1456,182,1599,259"/>
+</map>

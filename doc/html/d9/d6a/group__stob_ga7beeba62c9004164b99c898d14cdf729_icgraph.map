@@ -1,0 +1,22 @@
+<map id="m0_stob_domain_id_get" name="m0_stob_domain_id_get">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga031a7a64f503dc7bbc4677db6016dc13" title="stob_domain_init_create" alt="" coords="489,44,672,71"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#gabbd339f3e7924e9ee2be1667b7ef0991" title="m0_stob_domain_fini" alt="" coords="257,107,419,133"/>
+<area shape="rect" id="node4" href="$de/da8/stob_2ut_2domain_8c.html#ab7a453620aaa8177d1cce6470f2a617a" title="stob_ut_stob_domain" alt="" coords="500,120,661,147"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#gaed8adfae35ec52733c44faf489adeb47" title="m0_stob_domain__invariant" alt="" coords="235,56,441,83"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#ga861f6ac1e3135d275aa1d012917073f0" title="m0_stob_io_private\l_setup" alt="" coords="263,209,413,250"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#ga328103b536288ef61e58c10ea126cb19" title="m0_stob_io_prepare" alt="" coords="261,275,415,301"/>
+<area shape="rect" id="node8" href="$d2/df0/be_2ut_2log_8c.html#a6b0d374bc615c9403dfd9c1fa83765b2" title="be_ut_log_cfg_set" alt="" coords="269,325,407,352"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga8f801b9f8c038cbb2ed39f2ea638012d" title="be_log_store_level\l_enter" alt="" coords="266,377,410,418"/>
+<area shape="rect" id="node10" href="$dd/d4c/be_2ut_2main_8c.html#a0a45def04e96f4b0eefaa4609ed46e8b" title="m0_be_ut_log_store\l_create_simple" alt="" coords="261,442,415,483"/>
+<area shape="rect" id="node11" href="$dd/d4c/be_2ut_2main_8c.html#adccefb15938fd598eca268e525601d53" title="m0_be_ut_log_store\l_create_random" alt="" coords="261,507,415,549"/>
+<area shape="rect" id="node12" href="$d4/d6f/ut_2log__store_8c.html#a2323121240f409bc606d046eaec547e0" title="be_ut_log_store_test" alt="" coords="259,573,417,600"/>
+<area shape="rect" id="node13" href="$d2/d39/ut_2recovery_8c.html#a86ba6518bce8d01601a929ba0a94ca12" title="be_ut_recovery_log\l_cfg_set" alt="" coords="263,625,413,666"/>
+<area shape="rect" id="node14" href="$d9/d30/ut_2tx__group__format_8c.html#ae34c056ea30768c76eef5385915565f1" title="be_ut_tgf_log_cfg_set" alt="" coords="256,691,420,717"/>
+<area shape="rect" id="node15" href="$d6/d2c/group__stobad.html#ga8645ce503ab7254342d265981b8aa95b" title="stob_ad_domain2ad" alt="" coords="261,741,415,768"/>
+<area shape="rect" id="node16" href="$d6/d2c/group__stobad.html#gab1bb3e721d125bb76c41f98260b37f00" title="stob_ad_write_map" alt="" coords="263,792,413,819"/>
+<area shape="rect" id="node17" href="$d1/dff/group__stobperf.html#gab9ab3c43040114f972c0ccaa3be58f9f" title="stob_perf_domain_init" alt="" coords="255,843,421,869"/>
+<area shape="rect" id="node18" href="$d1/dff/group__stobperf.html#ga79bf72d5c9cd6a7492d677c004a02a95" title="stob_perf_linux_fid_set" alt="" coords="252,893,424,920"/>
+<area shape="rect" id="node19" href="$da/dda/group__utstob.html#gade57d9348bcf9d16746edb904fefce39" title="ut_stob_use_dtx" alt="" coords="274,944,402,971"/>
+<area shape="rect" id="node20" href="$d9/d6a/group__stob.html#gafba288f94bb9c824241f2f6e8634654f" title="m0_stob_type__dom_find" alt="" coords="244,995,432,1021"/>
+<area shape="rect" id="node21" href="$dc/da5/stobio_8c.html#a5e551c4480db97140677f7ad0c78957e" title="stobio_init" alt="" coords="293,1045,383,1072"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="test_thread" name="test_thread">
+<area shape="rect" id="node2" href="$da/dd8/group__thread.html#ga85ed595f0d7052f5db6639321564161b" title="m0_thread_self" alt="" coords="328,56,451,83"/>
+<area shape="rect" id="node3" href="$d9/d44/ut_2thread_8c.html#ae558171bb727266e0943f0acd9233a9b" title="t0" alt="" coords="195,56,234,83"/>
+<area shape="rect" id="node4" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="328,271,451,297"/>
+<area shape="rect" id="node5" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="330,537,449,564"/>
+<area shape="rect" id="node6" href="$d9/d44/ut_2thread_8c.html#ae83d4b6285d67057dbfbf154118b0081" title="forty_two_func" alt="" coords="155,208,274,235"/>
+<area shape="rect" id="node7" href="$d9/d44/ut_2thread_8c.html#a3e77be6bbd420353d34ee76dfadaab01" title="t2" alt="" coords="195,259,234,285"/>
+<area shape="rect" id="node8" href="$d9/d44/ut_2thread_8c.html#a5372220676cd573e3e6ff9cd88fd9960" title="lambda42_init" alt="" coords="157,309,272,336"/>
+<area shape="rect" id="node9" href="$d9/d44/ut_2thread_8c.html#a05d33a4b31143cac5b3c04f30068c99f" title="lambda42_func" alt="" coords="153,360,276,387"/>
+<area shape="rect" id="node10" href="$d9/d44/ut_2thread_8c.html#a1ead33c3632b31642eccd48db4e1c80a" title="lambda_42_init" alt="" coords="153,411,276,437"/>
+<area shape="rect" id="node11" href="$d9/d44/ut_2thread_8c.html#ac24157ff0fc4362d6c7d9f975e295b3c" title="lambda_42_func" alt="" coords="150,461,279,488"/>
+<area shape="rect" id="node12" href="$d9/d44/ut_2thread_8c.html#a8222078f93b31acf9010712490b32428" title="t3" alt="" coords="195,5,234,32"/>
+<area shape="rect" id="node13" href="$d9/d44/ut_2thread_8c.html#a761632e67d48d77e84b91225159460be" title="test_is_awkward" alt="" coords="149,512,280,539"/>
+<area shape="rect" id="node14" href="$d9/d44/ut_2thread_8c.html#af65c2be81c3e47dd80a94422949aabbe" title="test_adopt" alt="" coords="169,613,260,640"/>
+</map>

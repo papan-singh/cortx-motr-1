@@ -1,0 +1,10 @@
+<map id="m0_xc_rpc_session_fops_init" name="m0_xc_rpc_session_fops_init">
+<area shape="rect" id="node2" href="$d9/d0f/session__fops__xc_8c.html#aeab375ecfdcd6b379e48bd77e04444ca" title="m0_xc_m0_rpc_fop_conn\l_establish_struct_init" alt="" coords="273,5,459,47"/>
+<area shape="rect" id="node3" href="$d9/d0f/session__fops__xc_8c.html#a4a9119ef1b2cedaae9ac5f5356a8af9e" title="m0_xc_m0_rpc_fop_conn\l_establish_rep_struct_init" alt="" coords="272,71,460,112"/>
+<area shape="rect" id="node4" href="$d9/d0f/session__fops__xc_8c.html#a798f214654e5b4324c59906a3322e4db" title="m0_xc_m0_rpc_fop_conn\l_terminate_struct_init" alt="" coords="273,136,459,177"/>
+<area shape="rect" id="node5" href="$d9/d0f/session__fops__xc_8c.html#a20766fbd45575f99d75fd2f8d99bd2c6" title="m0_xc_m0_rpc_fop_conn\l_terminate_rep_struct_init" alt="" coords="269,201,463,243"/>
+<area shape="rect" id="node6" href="$d9/d0f/session__fops__xc_8c.html#acf01c473f42cc5b4b649d7bca083ade3" title="m0_xc_m0_rpc_fop_session\l_establish_struct_init" alt="" coords="264,267,468,308"/>
+<area shape="rect" id="node7" href="$d9/d0f/session__fops__xc_8c.html#a4b4eb3765381d50028ca1fddc89c9853" title="m0_xc_m0_rpc_fop_session\l_establish_rep_struct_init" alt="" coords="264,332,468,373"/>
+<area shape="rect" id="node8" href="$d9/d0f/session__fops__xc_8c.html#aae1f494b8f006bbabe957ddf0f1d24f8" title="m0_xc_m0_rpc_fop_session\l_terminate_struct_init" alt="" coords="264,397,468,439"/>
+<area shape="rect" id="node9" href="$d9/d0f/session__fops__xc_8c.html#a95aba11a09f2b69eab196cc1ae49aef3" title="m0_xc_m0_rpc_fop_session\l_terminate_rep_struct_init" alt="" coords="264,463,468,504"/>
+</map>

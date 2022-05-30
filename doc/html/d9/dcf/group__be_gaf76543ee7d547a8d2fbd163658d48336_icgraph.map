@@ -1,0 +1,7 @@
+<map id="btree_node_invariant" name="btree_node_invariant">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga0fe9362a1817b4dabfea123d1e44ff4c" title="btree_node_subtree\l_invariant" alt="" coords="213,93,364,134"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gab051fee783fe845df4e6edb039d85fb3" title="be_btree_insert_newkey" alt="" coords="412,5,593,32"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga500f2bed7853087d433be351ebee8758" title="be_btree_delete_key" alt="" coords="423,85,582,112"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga5cc3ac7d98ce51495ac58eb0a8637e0c" title="m0_be_btree_create" alt="" coords="425,137,580,164"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga32a77081edd12e9792756359a0b05c2a" title="m0_be_btree_destroy" alt="" coords="421,192,584,219"/>
+</map>

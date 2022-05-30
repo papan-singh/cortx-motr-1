@@ -1,0 +1,6 @@
+<map id="m0_ha_link_stop" name="m0_ha_link_stop">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga412cb3de12584c94e1809d505b06f3ca" title="ha_link_event_cb" alt="" coords="223,5,358,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga83cd7f20a24b5730d7d09605cd519851" title="m0_ha_disconnect_incoming" alt="" coords="185,56,396,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga66482cf366299085e152c22c685a8ecd" title="ha_ut_link_fini" alt="" coords="233,107,349,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga32da9382db85016064c2e311d0547e7e" title="m0_ha_ut_link_reconnect\l_simple" alt="" coords="197,158,385,199"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ut_test_application_data_copy" name="ut_test_application_data_copy">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga64e8c9b22ee60158a5c3bac0ba2b3680" title="m0_bufvec_alloc" alt="" coords="229,5,361,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="210,56,379,83"/>
+<area shape="rect" id="node4" href="$d0/ddc/motr_2ut_2client_8h.html#a6293a57e76b4ac5e939637fe22ecadae" title="ut_dummy_pargrp_iomap\l_create" alt="" coords="200,107,389,149"/>
+<area shape="rect" id="node5" href="$d0/ddc/motr_2ut_2client_8h.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="211,173,378,200"/>
+<area shape="rect" id="node6" href="$d7/dde/io__req_8c.html#a8fa6a829b56b53102726a7aa879a2765" title="application_data_copy" alt="" coords="211,224,379,251"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="231,275,358,301"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="437,376,513,403"/>
+<area shape="rect" id="node9" href="$d0/ddc/motr_2ut_2client_8h.html#a1b3b48dd6920a2dd5e1f56fc2b08c319" title="ut_dummy_ioo_delete" alt="" coords="211,376,378,403"/>
+<area shape="rect" id="node10" href="$d0/ddc/motr_2ut_2client_8h.html#a82100879c3e67b7ac85c713dbe1aacf1" title="ut_dummy_pargrp_iomap\l_delete" alt="" coords="200,427,389,469"/>
+</map>

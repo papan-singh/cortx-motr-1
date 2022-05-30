@@ -1,0 +1,11 @@
+<map id="test_init" name="test_init">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="143,5,298,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="128,56,313,83"/>
+<area shape="rect" id="node4" href="$db/dc9/group__arith.html#ga0042dfb071ce7dab50835d2d68b68d3a" title="min32u" alt="" coords="185,107,256,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga3d66eac325133202ca0143be0717d080" title="m0_net_domain_get_max\l_buffer_segments" alt="" coords="361,175,552,217"/>
+<area shape="rect" id="node6" href="$d8/d01/group__net__buffer__pool.html#ga1b0333974657828e5a5db987af42d72a" title="m0_net_buffer_pool_init" alt="" coords="131,208,310,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="166,259,275,285"/>
+<area shape="rect" id="node8" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="128,309,313,336"/>
+<area shape="rect" id="node9" href="$d8/d01/group__net__buffer__pool.html#gaf903917ab63aa4d49b3944a4b491992c" title="m0_net_buffer_pool\l_provision" alt="" coords="145,361,296,402"/>
+<area shape="rect" id="node10" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="145,426,296,467"/>
+</map>

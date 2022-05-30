@@ -1,0 +1,5 @@
+<map id="balloc_sb_sync" name="balloc_sb_sync">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a3733f90eabf897192bcc8084a1a56d0c" title="sb_update" alt="" coords="216,5,305,32"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a2095abc25d1a24f693753198a5adf2bd" title="balloc_alloc_db_update" alt="" coords="173,56,348,83"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#ac668388d836c6992afda9a3b39291360" title="balloc_free_db_update" alt="" coords="176,107,345,133"/>
+</map>

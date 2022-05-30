@@ -1,0 +1,12 @@
+<map id="m0_be_tx_prep" name="m0_be_tx_prep">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga709c9d99c915b078e2eacbf1f5849b2d" title="m0_be_ut_tx_usecase\l_success" alt="" coords="187,5,354,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaabf344442b30c05b1cbf45884627a904" title="m0_be_ut_tx_usecase\l_failure" alt="" coords="187,71,354,112"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaf007623f94e5377cb96f7cd91d22199a" title="m0_be_ut_tx_states" alt="" coords="194,137,347,163"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga2c9d5944c98e1f215f9f72e59ccb6535" title="m0_be_ut_tx_empty" alt="" coords="193,187,348,214"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gaa9ba2d9e83268da1264b03b6d7161cd7" title="be_ut_transact" alt="" coords="211,238,330,265"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gac8f262115e4980cb288d95292baef4e5" title="m0_be_ut_tx_persistence" alt="" coords="177,289,365,315"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga56a888ee01cbafba4a014471e86f19a4" title="m0_be_ut_tx_fast" alt="" coords="201,339,340,366"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga656bb30f8c04e7d93bafbf1ae704e360" title="m0_be_ut_tx_capturing" alt="" coords="183,390,358,417"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga66a9f4580a4a1bdd2abd47326472feb7" title="m0_be_ut_tx_gc" alt="" coords="207,441,335,467"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#gaad6d1c88a8c38c594b55a347209c998a" title="be_ut_tx_payload_test_nr" alt="" coords="176,491,365,518"/>
+</map>
